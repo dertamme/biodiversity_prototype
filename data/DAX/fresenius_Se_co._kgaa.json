@@ -1,0 +1,74 @@
+[
+    {
+        "Unternehmen": "Fresenius SE & Co. KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Bad Homburg",
+        "Art des Standortes": "Konzernzentrale"
+    },
+    {
+        "Unternehmen": "Fresenius Kabi Deutschland GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Friedberg",
+        "Art des Standortes": "Produktionsstätte für Infusionslösungen"
+    },
+    {
+        "Unternehmen": "Fresenius Kabi (China) Co. Limited",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Verwaltungssitz"
+    },
+    {
+        "Unternehmen": "Fresenius Kabi (China) Co. Limited",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Produktionsstätte"
+    },
+    {
+        "Unternehmen": "Fresenius Kabi (China) Co. Limited",
+        "Land": "China",
+        "Stadt": "Guangzhou",
+        "Art des Standortes": "Produktionsstätte"
+    },
+    {
+        "Unternehmen": "Fresenius Kabi (China) Co. Limited",
+        "Land": "China",
+        "Stadt": "Wuhan",
+        "Art des Standortes": "Produktionsstätte"
+    },
+    {
+        "Unternehmen": "Fresenius Kabi Brasil Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Barueri",
+        "Art des Standortes": "Verwaltungssitz"
+    },
+    {
+        "Unternehmen": "Fresenius Kabi Brasil Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Campinas",
+        "Art des Standortes": "Produktionsstätte"
+    },
+    {
+        "Unternehmen": "Fresenius Medical Care (Shanghai) Co. Ltd.",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Verwaltungssitz"
+    },
+    {
+        "Unternehmen": "Helios Kliniken GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Verwaltungssitz"
+    },
+    {
+        "Unternehmen": "Grupo Hospitalario Quirónsalud",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Verwaltungssitz"
+    },
+    {
+        "Unternehmen": "Fresenius Vamed",
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Art des Standortes": "Verwaltungssitz"
+    }
+]

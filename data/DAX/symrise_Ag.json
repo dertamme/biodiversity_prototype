@@ -1,0 +1,338 @@
+[
+    {
+        "Unternehmen": "Symrise AG",
+        "Land": "Deutschland",
+        "Stadt": "Holzminden",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Symrise AG",
+        "Land": "Deutschland",
+        "Stadt": "Nördlingen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise AG",
+        "Land": "Deutschland",
+        "Stadt": "Braunschweig",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symotion GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Holzminden",
+        "Art des Standortes": "Logistik"
+    },
+    {
+        "Unternehmen": "Tesium GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Holzminden",
+        "Art des Standortes": "Engineering"
+    },
+    {
+        "Unternehmen": "DrinkStar GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Rosenheim",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise S.R.L.",
+        "Land": "Argentinien",
+        "Stadt": "Buenos Aires",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "SPF Argentina",
+        "Land": "Argentinien",
+        "Stadt": "Buenos Aires",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Pty Limited",
+        "Land": "Australien",
+        "Stadt": "Sydney",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise SAE",
+        "Land": "Ägypten",
+        "Stadt": "6th October City-Giza",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Group Finance Holding 1 BV",
+        "Land": "Belgien",
+        "Stadt": "Brüssel",
+        "Art des Standortes": "Finanzen"
+    },
+    {
+        "Unternehmen": "Symrise Aromas e Fragrancias Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Aromas e Fragrancias Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Cotia",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Aromas e Fragrancias Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Vinhedo",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Aromas e Fragrancias Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Sorocaba",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Aromas e Fragrancias Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Benevides",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "SPF Do Brasil Indústria e Comércio Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Descalvado",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Diana Food Chile SpA",
+        "Land": "Chile",
+        "Stadt": "Buin",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise S.A.",
+        "Land": "Chile",
+        "Stadt": "Huechuraba",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Flavors & Fragrances (Nantong) Co. Ltd.",
+        "Land": "China",
+        "Stadt": "Nantong",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Shanghai Wing Biotechnology Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Jiangsu Wing Biotechnology Co.,Ltd.",
+        "Land": "China",
+        "Stadt": "Changzhou",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Jiangxi Wing Biotechnology Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Yingtan",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Neroli Group China",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Flavors & Fragrances (Nantong) Co. Ltd.",
+        "Land": "China",
+        "Stadt": "Beijing",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise (China) Investment Co.",
+        "Land": "China",
+        "Stadt": "Nantong",
+        "Art des Standortes": "Finanzen"
+    },
+    {
+        "Unternehmen": "SPF (Qingdao) Trading Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Qingdao",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "SPF (Chuzhou) Pet Food Co.",
+        "Land": "China",
+        "Stadt": "Chouzhou",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Diana Petfood (Chuzhou) Co. Ltd.",
+        "Land": "China",
+        "Stadt": "Chouzhou",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Aquasea Costa Rica, S.A.",
+        "Land": "Costa Rica",
+        "Stadt": "Cañas",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise K.K.",
+        "Land": "Japan",
+        "Stadt": "Tokyo",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Limited",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Marlow",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Diana Food Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Holbeach",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Diana Pet Food UK Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Preston",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Cergy",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Diana Food SAS",
+        "Land": "Frankreich",
+        "Stadt": "Antrain",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Diana Food SAS",
+        "Land": "Frankreich",
+        "Stadt": "Charmes-sur-Rhône",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise France S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Paris",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise France S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Neuilly-sur-Seine",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Asia Pacific Pte. Ltd.",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Regionalbüro"
+    },
+    {
+        "Unternehmen": "Symrise Middle East FZE",
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Dubai",
+        "Art des Standortes": "Regionalbüro"
+    },
+    {
+        "Unternehmen": "Symrise Asia Pacific Pte. Ltd.",
+        "Land": "Vietnam",
+        "Stadt": "Ho-Chi-Minh-Stadt",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Pty Ltd.",
+        "Land": "Südafrika",
+        "Stadt": "Johannesburg",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Mexicana SA de CV",
+        "Land": "Mexiko",
+        "Stadt": "Toluca",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Mexicana SA de CV",
+        "Land": "Mexiko",
+        "Stadt": "Mexiko-Stadt",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Peru S.A.C.",
+        "Land": "Peru",
+        "Stadt": "Lima",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Colombia S.A.S.",
+        "Land": "Kolumbien",
+        "Stadt": "Bogotá",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Andina C.A.",
+        "Land": "Venezuela",
+        "Stadt": "Caracas",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Inc.",
+        "Land": "USA",
+        "Stadt": "Teterboro",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Inc.",
+        "Land": "USA",
+        "Stadt": "Branchburg",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Inc.",
+        "Land": "USA",
+        "Stadt": "Goose Creek",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Diana Pet Food USA",
+        "Land": "USA",
+        "Stadt": "Hodges",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Diana Food USA",
+        "Land": "USA",
+        "Stadt": "Silverton",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Diana Food USA",
+        "Land": "USA",
+        "Stadt": "Banks",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Symrise Inc.",
+        "Land": "Kanada",
+        "Stadt": "Mississauga",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Symrise Brazil Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Art des Standortes": "Regionalbüro"
+    }
+]

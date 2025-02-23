@@ -1,0 +1,182 @@
+[
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Deutschland",
+        "Stadt": "Eschborn",
+        "Art des Standortes": "Konzernzentrale"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Handelssaal"
+    },
+    {
+        "Unternehmen": "360 Treasury Systems AG (360T)",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Rechenzentrum"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Tresor"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Luxemburg",
+        "Stadt": "Luxemburg",
+        "Art des Standortes": "Hauptsitz von Clearstream"
+    },
+    {
+        "Unternehmen": "Clearstream Services",
+        "Land": "Luxemburg",
+        "Stadt": "Luxemburg",
+        "Art des Standortes": "IT-Entwicklung und Betrieb"
+    },
+    {
+        "Unternehmen": "LuxCSD",
+        "Land": "Luxemburg",
+        "Stadt": "Luxemburg",
+        "Art des Standortes": "Unternehmenssitz"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Tschechische Republik",
+        "Stadt": "Prag",
+        "Art des Standortes": "IT-Entwicklung"
+    },
+    {
+        "Unternehmen": "Clearstream Services S.A.",
+        "Land": "Tschechische Republik",
+        "Stadt": "Prag",
+        "Art des Standortes": "Backoffice-Geschäft"
+    },
+    {
+        "Unternehmen": "Clearstream Global Securities Services",
+        "Land": "Irland",
+        "Stadt": "Cork",
+        "Art des Standortes": "Betriebszentrum für Investmentfonds"
+    },
+    {
+        "Unternehmen": "European Energy Exchange AG (EEX)",
+        "Land": "Deutschland",
+        "Stadt": "Leipzig",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "London",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Axioma",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "New York",
+        "Art des Standortes": "Innovative Index- und Analyselösungen"
+    },
+    {
+        "Unternehmen": "STOXX",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "New York",
+        "Art des Standortes": "Innovative Index- und Analyselösungen"
+    },
+    {
+        "Unternehmen": "Clearstream",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "New York",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Eurex",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "New York",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "360T",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "New York",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Clearstream Banking S.A.",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Eurex",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Deutsche Börse Market Data + Services",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "360T",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "360T",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Axioma",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Clearstream",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Eurex",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "STOXX",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Kundenbetreuung"
+    },
+    {
+        "Unternehmen": "Deutsche Börse AG",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "Chicago",
+        "Art des Standortes": "IT und Verwaltung"
+    }
+]

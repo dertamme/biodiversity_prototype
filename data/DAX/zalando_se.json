@@ -1,0 +1,98 @@
+[
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Deutschland",
+        "Stadt": "Erfurt",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Deutschland",
+        "Stadt": "Mönchengladbach",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Deutschland",
+        "Stadt": "Lahr",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Deutschland",
+        "Stadt": "Gießen",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Deutschland",
+        "Stadt": "Dortmund",
+        "Art des Standortes": "Tech Hub"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Irland",
+        "Stadt": "Dublin",
+        "Art des Standortes": "Tech Hub"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Finnland",
+        "Stadt": "Helsinki",
+        "Art des Standortes": "Tech Hub"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Schweden",
+        "Stadt": "Stockholm",
+        "Art des Standortes": "Tech Hub"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Schweiz",
+        "Stadt": "Zürich",
+        "Art des Standortes": "Tech Hub"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Polen",
+        "Stadt": "Gryfino",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Polen",
+        "Stadt": "Olsztynek",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Italien",
+        "Stadt": "Nogarole Rocca",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Niederlande",
+        "Stadt": "Bleiswijk",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Frankreich",
+        "Stadt": "Montereau-sur-le-Jard",
+        "Art des Standortes": "Logistikzentrum"
+    },
+    {
+        "Unternehmen": "Zalando SE",
+        "Land": "Schweden",
+        "Stadt": "Brunna",
+        "Art des Standortes": "Logistikzentrum"
+    }
+]

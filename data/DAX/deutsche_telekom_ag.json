@@ -1,0 +1,98 @@
+[
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Deutschland",
+        "Stadt": "Bonn",
+        "Art des Standortes": "Konzernzentrale"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Hauptstandort"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Hauptstandort"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Hauptstandort"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Hauptstandort"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Hauptstandort"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart/Leinfelden-Echterdingen",
+        "Art des Standortes": "Hauptstandort"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Niederlande",
+        "Stadt": "Den Haag",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Polen",
+        "Stadt": "Warschau",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Tschechische Republik",
+        "Stadt": "Prag",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Kroatien",
+        "Stadt": "Zagreb",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Slowakei",
+        "Stadt": "Bratislava",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Ungarn",
+        "Stadt": "Budapest",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "Griechenland",
+        "Stadt": "Athen",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Deutsche Telekom AG",
+        "Land": "USA",
+        "Stadt": "Bellevue, Washington",
+        "Art des Standortes": "Landesgesellschaft"
+    }
+]

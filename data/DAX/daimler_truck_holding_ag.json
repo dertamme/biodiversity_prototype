@@ -1,0 +1,249 @@
+[
+    {
+        "Unternehmen": "Daimler Truck Holding AG",
+        "Land": "Deutschland",
+        "Stadt": "Leinfelden-Echterdingen",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Daimler Truck Holding AG",
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart-Untertürkheim",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Daimler Truck Holding AG",
+        "Land": "Deutschland",
+        "Stadt": "Esslingen-Brühl",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Daimler Truck Holding AG",
+        "Land": "Deutschland",
+        "Stadt": "Wörth am Rhein",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck Holding AG",
+        "Land": "Deutschland",
+        "Stadt": "Mannheim",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck Holding AG",
+        "Land": "Deutschland",
+        "Stadt": "Gaggenau",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck Holding AG",
+        "Land": "Deutschland",
+        "Stadt": "Kassel",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck Holding AG",
+        "Land": "Deutschland",
+        "Stadt": "Neu-Ulm",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "USA",
+        "Stadt": "Portland",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "USA",
+        "Stadt": "Cleveland",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "USA",
+        "Stadt": "Mount Holly",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "USA",
+        "Stadt": "Gaffney",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "USA",
+        "Stadt": "Redford",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "USA",
+        "Stadt": "Gastonia",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "USA",
+        "Stadt": "High Point",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "Mexiko",
+        "Stadt": "Santiago Tianguistenco",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck North America",
+        "Land": "Mexiko",
+        "Stadt": "Saltillo",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Mitsubishi Fuso Truck and Bus Corporation",
+        "Land": "Japan",
+        "Stadt": "Kawasaki",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Mitsubishi Fuso Truck and Bus Corporation",
+        "Land": "Japan",
+        "Stadt": "Kawasaki",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Mitsubishi Fuso Truck and Bus Corporation",
+        "Land": "Japan",
+        "Stadt": "Kawasaki",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Daimler India Commercial Vehicles",
+        "Land": "Indien",
+        "Stadt": "Chennai",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler India Commercial Vehicles",
+        "Land": "Indien",
+        "Stadt": "Chennai",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Daimler India Commercial Vehicles",
+        "Land": "Indien",
+        "Stadt": "Chennai",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Daimler Trucks Asia",
+        "Land": "Japan",
+        "Stadt": "Kawasaki",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Trucks Asia",
+        "Land": "Japan",
+        "Stadt": "Kawasaki",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Daimler Trucks Asia",
+        "Land": "Japan",
+        "Stadt": "Kawasaki",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Türk A.Ş.",
+        "Land": "Türkei",
+        "Stadt": "Aksaray",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Türk A.Ş.",
+        "Land": "Türkei",
+        "Stadt": "Istanbul",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz do Brasil Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "São Bernardo do Campo",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz do Brasil Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Juiz de Fora",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Argentina S.A.",
+        "Land": "Argentinien",
+        "Stadt": "Buenos Aires",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck Southern Africa",
+        "Land": "Südafrika",
+        "Stadt": "East London",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "Frankreich",
+        "Stadt": "Molsheim",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "Frankreich",
+        "Stadt": "Molsheim",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "Italien",
+        "Stadt": "Turin",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "Tschechische Republik",
+        "Stadt": "Holýšov",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "Österreich",
+        "Stadt": "Steyr",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "China",
+        "Stadt": "Beijing",
+        "Art des Standortes": "Joint-Venture-Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "China",
+        "Stadt": "Fuzhou",
+        "Art des Standortes": "Joint-Venture-Produktion"
+    },
+    {
+        "Unternehmen": "Daimler Truck AG",
+        "Land": "China",
+        "Stadt": "Yinchuan",
+        "Art des Standortes": "Joint-Venture-Produktion"
+    }
+]
+ 

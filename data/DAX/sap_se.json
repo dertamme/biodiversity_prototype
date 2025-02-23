@@ -1,0 +1,134 @@
+[
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Deutschland",
+        "Stadt": "Walldorf",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Deutschland",
+        "Stadt": "Hallbergmoos",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Deutschland",
+        "Stadt": "St. Ingbert",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Deutschland",
+        "Stadt": "Dresden",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Deutschland",
+        "Stadt": "Karlsruhe",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "USA",
+        "Stadt": "Palo Alto",
+        "Art des Standortes": "SAP Labs"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Indien",
+        "Stadt": "Bangalore",
+        "Art des Standortes": "SAP Labs"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Indien",
+        "Stadt": "Mumbai",
+        "Art des Standortes": "SAP Labs"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "SAP Labs"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "China",
+        "Stadt": "Nanjing",
+        "Art des Standortes": "SAP Labs"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "China",
+        "Stadt": "Chengdu",
+        "Art des Standortes": "SAP Labs"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "China",
+        "Stadt": "Xi'an",
+        "Art des Standortes": "SAP Labs"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "SAP Labs"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Irland",
+        "Stadt": "Belfast",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Australien",
+        "Stadt": "Brisbane",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Israel",
+        "Stadt": "Ra'anana",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Bulgarien",
+        "Stadt": "Sofia",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Frankreich",
+        "Stadt": "Sophia Antipolis",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Schweiz",
+        "Stadt": "St. Gallen",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "SAP SE",
+        "Land": "Schweiz",
+        "Stadt": "Zürich",
+        "Art des Standortes": "Forschungszentrum"
+    }
+]

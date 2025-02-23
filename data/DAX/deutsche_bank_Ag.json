@@ -1,0 +1,261 @@
+[
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Deutschland",
+        "Stadt": "Köln",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "London",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "New York",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Australien",
+        "Stadt": "Sydney",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Frankreich",
+        "Stadt": "Paris",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Schweiz",
+        "Stadt": "Zürich",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Indien",
+        "Stadt": "Mumbai",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Kanada",
+        "Stadt": "Toronto",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Russland",
+        "Stadt": "Moskau",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Südafrika",
+        "Stadt": "Johannesburg",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Dubai",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Türkei",
+        "Stadt": "Istanbul",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Mexiko",
+        "Stadt": "Mexiko-Stadt",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Argentinien",
+        "Stadt": "Buenos Aires",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Chile",
+        "Stadt": "Santiago",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Kolumbien",
+        "Stadt": "Bogotá",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Peru",
+        "Stadt": "Lima",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Venezuela",
+        "Stadt": "Caracas",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Saudi-Arabien",
+        "Stadt": "Riad",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Ägypten",
+        "Stadt": "Kairo",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Nigeria",
+        "Stadt": "Lagos",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Kenia",
+        "Stadt": "Nairobi",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Australien",
+        "Stadt": "Melbourne",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Australien",
+        "Stadt": "Melbourne",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Malaysia",
+        "Stadt": "Kuala Lumpur",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Thailand",
+        "Stadt": "Bangkok",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Indonesien",
+        "Stadt": "Jakarta",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Philippinen",
+        "Stadt": "Manila",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Vietnam",
+        "Stadt": "Ho-Chi-Minh-Stadt",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Taiwan",
+        "Stadt": "Taipeh",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Deutsche Bank AG",
+        "Land": "Neuseeland",
+        "Stadt": "Auckland",
+        "Art des Standortes": "Niederlassung"
+    }
+]
+ 

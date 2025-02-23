@@ -1,0 +1,219 @@
+[
+    {
+        "Unternehmen": "Beiersdorf AG",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Beiersdorf AG",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Forschungszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Hamburg GmbH (BMH)",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Berlin GmbH (BMB)",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Waldheim GmbH (BMWa)",
+        "Land": "Deutschland",
+        "Stadt": "Waldheim",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Leipzig GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Leipzig",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Norderstedt GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Norderstedt",
+        "Art des Standortes": "Forschungs- und Technologiezentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Offenburg GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Offenburg",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Itatiba Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Itatiba",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Silao S.A. de C.V.",
+        "Land": "Mexiko",
+        "Stadt": "Silao",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Bangplee Co., Ltd.",
+        "Land": "Thailand",
+        "Stadt": "Bangplee",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Shanghai Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Wuhan Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Wuhan",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Bangalore Pvt. Ltd.",
+        "Land": "Indien",
+        "Stadt": "Bangalore",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Lagos Ltd.",
+        "Land": "Nigeria",
+        "Stadt": "Lagos",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing St. Petersburg LLC",
+        "Land": "Russland",
+        "Stadt": "St. Petersburg",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Poznań Sp. z o.o.",
+        "Land": "Polen",
+        "Stadt": "Poznań",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Tres Cantos S.A.",
+        "Land": "Spanien",
+        "Stadt": "Tres Cantos",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Milan S.p.A.",
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Solna AB",
+        "Land": "Schweden",
+        "Stadt": "Solna",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Watford Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Watford",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Florham Park Inc.",
+        "Land": "USA",
+        "Stadt": "Florham Park",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Itatiba Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "Itatiba",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Silao S.A. de C.V.",
+        "Land": "Mexiko",
+        "Stadt": "Silao",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Bangplee Co., Ltd.",
+        "Land": "Thailand",
+        "Stadt": "Bangplee",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Shanghai Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Wuhan Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Wuhan",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Bangalore Pvt. Ltd.",
+        "Land": "Indien",
+        "Stadt": "Bangalore",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Lagos Ltd.",
+        "Land": "Nigeria",
+        "Stadt": "Lagos",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing St. Petersburg LLC",
+        "Land": "Russland",
+        "Stadt": "St. Petersburg",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Poznań Sp. z o.o.",
+        "Land": "Polen",
+        "Stadt": "Poznań",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Tres Cantos S.A.",
+        "Land": "Spanien",
+        "Stadt": "Tres Cantos",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Milan S.p.A.",
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Solna AB",
+        "Land": "Schweden",
+        "Stadt": "Solna",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Watford Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Watford",
+        "Art des Standortes": "Produktionszentrum"
+    },
+    {
+        "Unternehmen": "Beiersdorf Manufacturing Florham Park Inc.",
+        "Land": "USA",
+        "Stadt": "Florham Park",
+        "Art des Standortes": "Produktionszentrum"
+    }
+]
+ 

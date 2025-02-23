@@ -1,0 +1,80 @@
+[
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "Deutschland",
+        "Stadt": "Ludwigshafen",
+        "Art des Standortes": "Verbundstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "Belgien",
+        "Stadt": "Antwerpen",
+        "Art des Standortes": "Verbundstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "USA",
+        "Stadt": "Freeport",
+        "Art des Standortes": "Verbundstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "USA",
+        "Stadt": "Geismar",
+        "Art des Standortes": "Verbundstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "Malaysia",
+        "Stadt": "Kuantan",
+        "Art des Standortes": "Verbundstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "China",
+        "Stadt": "Nanjing",
+        "Art des Standortes": "Verbundstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "China",
+        "Stadt": "Zhanjiang",
+        "Art des Standortes": "Verbundstandort (im Bau)"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "Deutschland",
+        "Stadt": "Seeland OT Gatersleben",
+        "Art des Standortes": "Geschäftsstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "USA",
+        "Stadt": "East Setauket",
+        "Art des Standortes": "Geschäftsstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "USA",
+        "Stadt": "Washington, New Jersey",
+        "Art des Standortes": "Geschäftsstandort"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "Südkorea",
+        "Stadt": "Ansan",
+        "Art des Standortes": "CAE Technology Center"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "Südkorea",
+        "Stadt": "Ansan",
+        "Art des Standortes": "Coatings Technology Center"
+    },
+    {
+        "Unternehmen": "BASF SE",
+        "Land": "Australien",
+        "Stadt": "Clayton",
+        "Art des Standortes": "Application Expert Centre for Care Chemicals"
+    }
+]

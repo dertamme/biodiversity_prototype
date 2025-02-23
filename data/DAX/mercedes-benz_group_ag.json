@@ -1,0 +1,134 @@
+[
+    {
+        "Unternehmen": "Mercedes-Benz Group AG",
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart",
+        "Art des Standortes": "Konzernzentrale"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Sindelfingen",
+        "Land": "Deutschland",
+        "Stadt": "Sindelfingen",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Bremen",
+        "Land": "Deutschland",
+        "Stadt": "Bremen",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Rastatt",
+        "Land": "Deutschland",
+        "Stadt": "Rastatt",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Kecskemét",
+        "Land": "Ungarn",
+        "Stadt": "Kecskemét",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Peking",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk East London",
+        "Land": "Südafrika",
+        "Stadt": "East London",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Tuscaloosa",
+        "Land": "USA",
+        "Stadt": "Tuscaloosa",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Affalterbach",
+        "Land": "Deutschland",
+        "Stadt": "Affalterbach",
+        "Art des Standortes": "Powertrain-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Berlin",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Powertrain-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Hamburg",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Powertrain-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Jawor",
+        "Land": "Polen",
+        "Stadt": "Jawor",
+        "Art des Standortes": "Powertrain-Produktion"
+    },
+    {
+        "Unternehmen": "Accumotive GmbH & Co. KG",
+        "Land": "Deutschland",
+        "Stadt": "Kamenz",
+        "Art des Standortes": "Powertrain-Produktion"
+    },
+    {
+        "Unternehmen": "MDC Power GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Kölleda & Arnstadt",
+        "Art des Standortes": "Powertrain-Produktion"
+    },
+    {
+        "Unternehmen": "Star Assembly SRL & Star Transmission SRL",
+        "Land": "Rumänien",
+        "Stadt": "Sebeș & Cugir",
+        "Art des Standortes": "Powertrain-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Untertürkheim",
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart-Untertürkheim",
+        "Art des Standortes": "Powertrain-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Buenos Aires",
+        "Land": "Argentinien",
+        "Stadt": "Buenos Aires",
+        "Art des Standortes": "Van-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Charleston",
+        "Land": "USA",
+        "Stadt": "Charleston",
+        "Art des Standortes": "Van-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Düsseldorf",
+        "Land": "Deutschland",
+        "Stadt": "Düsseldorf",
+        "Art des Standortes": "Van-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Fuzhou",
+        "Land": "China",
+        "Stadt": "Fuzhou",
+        "Art des Standortes": "Van-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Ludwigsfelde",
+        "Land": "Deutschland",
+        "Stadt": "Ludwigsfelde",
+        "Art des Standortes": "Van-Produktion"
+    },
+    {
+        "Unternehmen": "Mercedes-Benz Werk Vitoria",
+        "Land": "Spanien",
+        "Stadt": "Vitoria",
+        "Art des Standortes": "Van-Produktion"
+    }
+]

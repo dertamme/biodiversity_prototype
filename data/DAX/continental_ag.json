@@ -1,0 +1,345 @@
+[
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Hannover",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Produktion, Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Korbach",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Regensburg",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Ingolstadt",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Karlsruhe",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Babenhausen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Villingen-Schwenningen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Gifhorn",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Nürnberg",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Roding",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Schwalbach am Taunus",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Ulm",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Weissbach",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Wetzlar",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Deutschland",
+        "Stadt": "Wolfsburg",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Österreich",
+        "Stadt": "Graz",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Schweiz",
+        "Stadt": "Schaffhausen",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Schweiz",
+        "Stadt": "Regensdorf",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Frankreich",
+        "Stadt": "Toulouse",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Frankreich",
+        "Stadt": "Clermont-Ferrand",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Italien",
+        "Stadt": "Turin",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Spanien",
+        "Stadt": "Barcelona",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Portugal",
+        "Stadt": "Lousado",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Portugal",
+        "Stadt": "Porto",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Niederlande",
+        "Stadt": "Maastricht",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Niederlande",
+        "Stadt": "Eindhoven",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Belgien",
+        "Stadt": "Brüssel",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Belgien",
+        "Stadt": "Gent",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Lutterworth",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Birmingham",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Stockport",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "USA",
+        "Stadt": "Auburn Hills",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "USA",
+        "Stadt": "Mount Vernon",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "USA",
+        "Stadt": "Clinton",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "USA",
+        "Stadt": "Fort Mill",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "USA",
+        "Stadt": "San Jose",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Kanada",
+        "Stadt": "Chatham",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Kanada",
+        "Stadt": "Toronto",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Brasilien",
+        "Stadt": "Guarulhos",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Brasilien",
+        "Stadt": "Salto",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Mexiko",
+        "Stadt": "Silao",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Mexiko",
+        "Stadt": "Guadalajara",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "China",
+        "Stadt": "Changshu",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "China",
+        "Stadt": "Tianjin",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "China",
+        "Stadt": "Guangzhou",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Indien",
+        "Stadt": "Bangalore",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Indien",
+        "Stadt": "Pune",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Japan",
+        "Stadt": "Yokohama",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Japan",
+        "Stadt": "Nagoya",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Continental AG",
+        "Land": "Südkorea",
+        "Stadt": "Daegu",
+        "Art des Standortes": "Produktion"
+    }
+]
+

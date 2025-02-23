@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block title %}NDVI Dashboard{% endblock %}
+
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+
+<body style="text-align: center; padding: 50px;">
+    <div style="display: flex; align-items: center; justify-content: center; margin-top: 50px;">
+        
+        <img src="{{ url_for('static', filename='img/error.png') }}" alt="Error Image" width="200" height="200" style="margin-right: 20px;">
+        
+        <div style="text-align: left; margin-left: 20px;" >
+            <h2>Die angeforderte Seite wurde nicht gefunden.</h2>
+            <h5>{{ error_message }}</h5>
+            <button type="button" class="btn btn-primary rounded-pill" style="width: 150px;" onclick="window.location.href='/'">Zur Startseite</button>
+        </div>
+    </div>
+</body>
+
+</html>
+{% endblock %}

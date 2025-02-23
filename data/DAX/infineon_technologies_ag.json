@@ -1,0 +1,122 @@
+[
+    {
+        "Unternehmen": "Infineon Technologies AG",
+        "Land": "Deutschland",
+        "Stadt": "Neubiberg",
+        "Art des Standortes": "Hauptsitz, Forschung und Entwicklung, Vertrieb"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Dresden GmbH & Co. KG",
+        "Land": "Deutschland",
+        "Stadt": "Dresden",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Infineon Technologies AG",
+        "Land": "Deutschland",
+        "Stadt": "Warstein",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Austria AG",
+        "Land": "Österreich",
+        "Stadt": "Villach",
+        "Art des Standortes": "Forschung und Entwicklung, Produktion"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Austria AG",
+        "Land": "Österreich",
+        "Stadt": "Graz",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Danube Integrated Circuit Engineering GmbH & Co. KG (DICE)",
+        "Land": "Österreich",
+        "Stadt": "Linz",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Romania SCS",
+        "Land": "Rumänien",
+        "Stadt": "Bukarest",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Infineon Technologies (Kulim) Sdn. Bhd.",
+        "Land": "Malaysia",
+        "Stadt": "Kulim",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Infineon Technologies (Malaysia) Sdn. Bhd.",
+        "Land": "Malaysia",
+        "Stadt": "Melaka",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Asia Pacific Pte Ltd",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Produktion, Forschung und Entwicklung, Vertrieb"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Suzhou Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Suzhou",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Taiwan Co., Ltd.",
+        "Land": "Taiwan",
+        "Stadt": "Taipeh",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Japan K.K.",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Americas Corp.",
+        "Land": "USA",
+        "Stadt": "Milpitas",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Austria AG",
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Infineon Technologies UK Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Bristol",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Infineon Technologies France SAS",
+        "Land": "Frankreich",
+        "Stadt": "Paris",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "Infineon Technologies India Pvt. Ltd.",
+        "Land": "Indien",
+        "Stadt": "Bangalore",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Ukraine LLC",
+        "Land": "Ukraine",
+        "Stadt": "Lwiw",
+        "Art des Standortes": "Forschung und Entwicklung"
+    },
+    {
+        "Unternehmen": "Infineon Technologies Shared Service Center Unipessoal Lda.",
+        "Land": "Portugal",
+        "Stadt": "Porto",
+        "Art des Standortes": "Shared Service Center"
+    }
+]

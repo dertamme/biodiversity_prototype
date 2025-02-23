@@ -1,0 +1,284 @@
+[
+    {
+        "Unternehmen": "E.ON SE",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "E.ON Energie Deutschland GmbH",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Vertriebsniederlassung"
+    },
+    {
+        "Unternehmen": "E.DIS Netz GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Fürstenwalde/Spree",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "Avacon AG",
+        "Land": "Deutschland",
+        "Stadt": "Helmstedt",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "Bayernwerk AG",
+        "Land": "Deutschland",
+        "Stadt": "Regensburg",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON UK Plc",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Coventry",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON Sverige AB",
+        "Land": "Schweden",
+        "Stadt": "Malmö",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON España S.L.",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON Italia S.p.A.",
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON Hungária Zrt.",
+        "Land": "Ungarn",
+        "Stadt": "Budapest",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON România S.A.",
+        "Land": "Rumänien",
+        "Stadt": "Bukarest",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON Česká republika, s.r.o.",
+        "Land": "Tschechische Republik",
+        "Stadt": "Prag",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON Polska S.A.",
+        "Land": "Polen",
+        "Stadt": "Warschau",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON Danmark A/S",
+        "Land": "Dänemark",
+        "Stadt": "Kopenhagen",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON Nederland N.V.",
+        "Land": "Niederlande",
+        "Stadt": "Rotterdam",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON US LLC",
+        "Land": "USA",
+        "Stadt": "Louisville",
+        "Art des Standortes": "Regionale Zentrale"
+    },
+    {
+        "Unternehmen": "E.ON Climate & Renewables GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Erneuerbare Energien"
+    },
+    {
+        "Unternehmen": "E.ON Business Services GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hannover",
+        "Art des Standortes": "Shared Services"
+    },
+    {
+        "Unternehmen": "E.ON Connecting Energies GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Energiedienstleistungen"
+    },
+    {
+        "Unternehmen": "E.ON Digital Technology GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "IT-Dienstleistungen"
+    },
+    {
+        "Unternehmen": "E.ON Inhouse Consulting GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Unternehmensberatung"
+    },
+    {
+        "Unternehmen": "E.ON Energy Projects GmbH",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Projektentwicklung"
+    },
+    {
+        "Unternehmen": "E.ON Energie Romania S.A.",
+        "Land": "Rumänien",
+        "Stadt": "Târgu Mureș",
+        "Art des Standortes": "Energieversorgung"
+    },
+    {
+        "Unternehmen": "E.ON Distribuție România S.A.",
+        "Land": "Rumänien",
+        "Stadt": "Iași",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Energie Magyarország Zrt.",
+        "Land": "Ungarn",
+        "Stadt": "Pécs",
+        "Art des Standortes": "Energieversorgung"
+    },
+    {
+        "Unternehmen": "E.ON Észak-dunántúli Áramhálózati Zrt.",
+        "Land": "Ungarn",
+        "Stadt": "Győr",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Közép-dunántúli Gázhálózati Zrt.",
+        "Land": "Ungarn",
+        "Stadt": "Székesfehérvár",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Észak-dunántúli Gázhálózati Zrt.",
+        "Land": "Ungarn",
+        "Stadt": "Tatabánya",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Distribuție Gaz România S.A.",
+        "Land": "Rumänien",
+        "Stadt": "Cluj-Napoca",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Energie Slovensko, s.r.o.",
+        "Land": "Slowakei",
+        "Stadt": "Bratislava",
+        "Art des Standortes": "Energieversorgung"
+    },
+    {
+        "Unternehmen": "E.ON Elektrárne s.r.o.",
+        "Land": "Slowakei",
+        "Stadt": "Nováky",
+        "Art des Standortes": "Kraftwerksbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Elektrárne s.r.o.",
+        "Land": "Slowakei",
+        "Stadt": "Nováky",
+        "Art des Standortes": "Kraftwerksbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Energie Solutions GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Energiedienstleistungen"
+    },
+    {
+        "Unternehmen": "E.ON Energie Deutschland Vertrieb GmbH",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Vertrieb"
+    },
+    {
+        "Unternehmen": "E.ON Distribución Redes S.L.",
+        "Land": "Spanien",
+        "Stadt": "Santander",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Energie Norge AS",
+        "Land": "Norwegen",
+        "Stadt": "Oslo",
+        "Art des Standortes": "Energieversorgung"
+    },
+    {
+        "Unternehmen": "E.ON Energie Nederland Holding N.V.",
+        "Land": "Niederlande",
+        "Stadt": "Rotterdam",
+        "Art des Standortes": "Holding"
+    },
+    {
+        "Unternehmen": "E.ON Energy Infrastructure GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Infrastrukturentwicklung"
+    },
+    {
+        "Unternehmen": "E.ON Climate Renewables Europe GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Erneuerbare Energien"
+    },
+    {
+        "Unternehmen": "E.ON Renewables North America LLC",
+        "Land": "USA",
+        "Stadt": "Chicago",
+        "Art des Standortes": "Erneuerbare Energien"
+    },
+    {
+        "Unternehmen": "E.ON Renewables UK Ltd",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Nottingham",
+        "Art des Standortes": "Erneuerbare Energien"
+    },
+    {
+        "Unternehmen": "E.ON Renewables Sweden AB",
+        "Land": "Schweden",
+        "Stadt": "Stockholm",
+        "Art des Standortes": "Erneuerbare Energien"
+    },
+    {
+        "Unternehmen": "E.ON Gas Storage GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Energiespeicherung"
+    },
+    {
+        "Unternehmen": "E.ON Kernkraft GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hannover",
+        "Art des Standortes": "Kernenergie"
+    },
+    {
+        "Unternehmen": "E.ON Offshore Wind Germany GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Windenergie"
+    },
+    {
+        "Unternehmen": "E.ON Gasgrid Finland Oy",
+        "Land": "Finnland",
+        "Stadt": "Espoo",
+        "Art des Standortes": "Netzbetrieb"
+    },
+    {
+        "Unternehmen": "E.ON Energy Czech Republic s.r.o.",
+        "Land": "Tschechische Republik",
+        "Stadt": "Brünn",
+        "Art des Standortes": "Netzbetrieb"
+    }
+]

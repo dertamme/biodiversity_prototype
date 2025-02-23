@@ -1,0 +1,50 @@
+[
+    {
+        "Unternehmen": "Fresenius Medical Care AG & Co. KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Bad Homburg vor der Höhe",
+        "Art des Standortes": "Hauptverwaltung"
+    },
+    {
+        "Unternehmen": "Fresenius Medical Care AG & Co. KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Schweinfurt",
+        "Art des Standortes": "Entwicklungs- und Produktionsstandort für Dialysegeräte"
+    },
+    {
+        "Unternehmen": "Fresenius Medical Care AG & Co. KGaA",
+        "Land": "Deutschland",
+        "Stadt": "St. Wendel",
+        "Art des Standortes": "Entwicklungs- und Produktionsstandort für Dialysatoren und Peritonealdialyse-Systeme"
+    },
+    {
+        "Unternehmen": "Fresenius Medical Care AG & Co. KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Biebesheim am Rhein",
+        "Art des Standortes": "Distributionszentrum"
+    },
+    {
+        "Unternehmen": "Fresenius Medical Care AG & Co. KGaA",
+        "Land": "USA",
+        "Stadt": "Waltham, Massachusetts",
+        "Art des Standortes": "Nordamerikanische Niederlassung"
+    },
+    {
+        "Unternehmen": "Fresenius Medical Care AG & Co. KGaA",
+        "Land": "Brasilien",
+        "Stadt": "Rio de Janeiro",
+        "Art des Standortes": "Südamerikanische Niederlassung"
+    },
+    {
+        "Unternehmen": "Fresenius Medical Care AG & Co. KGaA",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Asien-Pazifik Niederlassung"
+    },
+    {
+        "Unternehmen": "Fresenius Medical Care AG & Co. KGaA",
+        "Land": "USA",
+        "Stadt": "Wilson, North Carolina",
+        "Art des Standortes": "Produktionsstätte für Infusionslösungen"
+    }
+]

@@ -1,0 +1,6165 @@
+[
+    {
+        "Land": "Deutschland",
+        "Stadt": "Neubiberg",
+        "Firmen": [
+            "Infineon Technologies AG"
+        ],
+        "Koordinaten": [
+            48.0769935,
+            11.6615136
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Dresden",
+        "Firmen": [
+            "SAP SE",
+            "Brenntag GmbH",
+            "Heidelberg Materials AG",
+            "Infineon Technologies Dresden GmbH & Co. KG",
+            "Volkswagen AG",
+            "Linde Engineering Dresden",
+            "Vonovia SE"
+        ],
+        "Koordinaten": [
+            51.0493286,
+            13.7381437
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Warstein",
+        "Firmen": [
+            "Infineon Technologies AG"
+        ],
+        "Koordinaten": [
+            51.4458105,
+            8.3536824
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Firmen": [
+            "Deutsche Börse AG",
+            "Siemens AG",
+            "Volkswagen AG",
+            "Deutsche Bank AG",
+            "Continental AG",
+            "Brenntag GmbH",
+            "Bayer AG",
+            "Commerzbank AG",
+            "Deutsche Telekom AG",
+            "Allianz Real Estate Germany GmbH",
+            "Allianz Global Investors GmbH",
+            "360 Treasury Systems AG (360T)"
+        ],
+        "Koordinaten": [
+            50.1106444,
+            8.6820917
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Eschborn",
+        "Firmen": [
+            "Deutsche Börse AG"
+        ],
+        "Koordinaten": [
+            50.1504737,
+            8.5607767
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Leipzig",
+        "Firmen": [
+            "Porsche AG",
+            "Siemens AG",
+            "Beiersdorf Manufacturing Leipzig GmbH",
+            "Brenntag GmbH",
+            "Volkswagen AG",
+            "European Energy Exchange AG (EEX)"
+        ],
+        "Koordinaten": [
+            51.3406321,
+            12.3747329
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bonn",
+        "Firmen": [
+            "Deutsche Telekom AG",
+            "Volkswagen AG",
+            "DHL Group"
+        ],
+        "Koordinaten": [
+            50.7352621,
+            7.1024635
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Troisdorf",
+        "Firmen": [
+            "DHL Group"
+        ],
+        "Koordinaten": [
+            50.8153071,
+            7.1593271
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Weiden",
+        "Firmen": [
+            "DHL Group"
+        ],
+        "Koordinaten": [
+            49.8068258,
+            7.3007004
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Herzogenaurach",
+        "Firmen": [
+            "Adidas AG",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            49.5710376,
+            10.8815262
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Leverkusen",
+        "Firmen": [
+            "Bayer AG",
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            51.0324743,
+            6.9881194
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Dormagen",
+        "Firmen": [
+            "Bayer AG",
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            51.0934389,
+            6.8416158
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Uerdingen Krefeld",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            51.3563656,
+            6.6495971
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Brunsbüttel",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            53.8972549,
+            9.1395423
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Meppen",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            52.6947452,
+            7.2909824
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bomlitz",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            52.9207291,
+            9.65642526912393
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart",
+        "Firmen": [
+            "Mercedes-Benz Group AG",
+            "Porsche Automobil Holding SE",
+            "Siemens AG",
+            "Allianz Pension Consult GmbH",
+            "Brenntag GmbH",
+            "Allianz Lebensversicherungs-AG",
+            "Allianz Global Benefits GmbH",
+            "Volkswagen AG",
+            "Vonovia SE"
+        ],
+        "Koordinaten": [
+            48.7784485,
+            9.1800132
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Sindelfingen",
+        "Firmen": [
+            "Mercedes Benz Werk Sindelfingen"
+        ],
+        "Koordinaten": [
+            48.7084162,
+            9.0035455
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bremen",
+        "Firmen": [
+            "Airbus SE",
+            "Rheinmetall AG",
+            "Brenntag GmbH",
+            "Mercedes-Benz Werk Bremen",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            53.0758196,
+            8.8071646
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Rastatt",
+        "Firmen": [
+            "Mercedes-Benz Werk Rastatt"
+        ],
+        "Koordinaten": [
+            48.8574209,
+            8.2088088
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Affalterbach",
+        "Firmen": [
+            "Mercedes-Benz Werk Affalterbach"
+        ],
+        "Koordinaten": [
+            48.9218388,
+            9.3230504
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Firmen": [
+            "SAP SE",
+            "Deutsche Bank AG",
+            "Siemens AG",
+            "Beiersdorf Manufacturing Berlin GmbH (BMB)",
+            "Siemens Energy AG",
+            "Mercedes-Benz Werk Berlin",
+            "Brenntag GmbH",
+            "Allianz SE",
+            "Zalando SE",
+            "Commerzbank AG",
+            "Bayer AG",
+            "Deutsche Telekom AG",
+            "Helios Kliniken GmbH",
+            "Volkswagen AG",
+            "Vonovia SE",
+            "Biochrom GmbH"
+        ],
+        "Koordinaten": [
+            52.510885,
+            13.3989367
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Firmen": [
+            "Airbus SE",
+            "Beiersdorf AG",
+            "E.ON Offshore Wind Germany GmbH",
+            "Henkel AG Co. KGAA",
+            "Deutsche Telekom AG",
+            "Vonovia SE",
+            "E.ON Climate Renewables Europe GmbH",
+            "Volkswagen AG",
+            "Siemens AG",
+            "Sartorius Weighing Technology GmbH",
+            "Allianz Trade (Euler Hermes Aktiengesellschaft)",
+            "Sigma-Aldrich Biochemie GmbH",
+            "Linde Engineering",
+            "RWE Renewables Europe & Australia GmbH",
+            "AmpTec GmbH",
+            "Mercedes-Benz Werk Hamburg",
+            "Beiersdorf Manufacturing Hamburg GmbH (BMH)",
+            "Deutsche Bank AG",
+            "Continental AG",
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            53.550341,
+            10.000654
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Kamenz",
+        "Firmen": [
+            "Accumotive GmbH & Co. KG"
+        ],
+        "Koordinaten": [
+            51.270139,
+            14.0948628
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Unbekannt",
+        "Firmen": [
+            "Clearstream",
+            "Hannover Re (U.S.) Inc.",
+            "360T",
+            "DHL Group",
+            "Linde Engineering North America Inc.",
+            "Bayer AG",
+            "Diana Petfood (Chuzhou) Co. Ltd.",
+            "Siemens Healthineers AG",
+            "Deutsche Börse AG",
+            "Praxair Technology, Inc.",
+            "MDC Power GmbH",
+            "Praxair, Inc.",
+            "Axioma",
+            "SPF (Chuzhou) Pet Food Co.",
+            "Siemens Gamesa Renewable Energy",
+            "Commerzbank AG",
+            "Deutsche Bank AG",
+            "STOXX",
+            "Eurex"
+        ],
+        "Koordinaten": [
+            49.9849489,
+            8.7082455
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Untertürkheim Stuttgart",
+        "Firmen": [
+            "Mercedes-Benz Werk Untertürkheim",
+            "Daimler Truck Holding AG"
+        ],
+        "Koordinaten": [
+            48.7802,
+            9.2509
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Düsseldorf",
+        "Firmen": [
+            "Siemens AG",
+            "Rheinmetall AG",
+            "Mercedes-Benz Werk Düsseldorf",
+            "Brenntag GmbH",
+            "Henkel AG Co. KGAA",
+            "ERGO Group",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            51.2254018,
+            6.7763137
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Ludwigsfelde",
+        "Firmen": [
+            "Mercedes-Benz Werk Ludwigsfelde"
+        ],
+        "Koordinaten": [
+            52.3016096,
+            13.2610163
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Leinfelden Echterdingen",
+        "Firmen": [
+            "Daimler Truck Holding AG"
+        ],
+        "Koordinaten": [
+            48.6901796,
+            9.1525725
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Esslingen Brühl",
+        "Firmen": [
+            "Daimler Truck Holding AG"
+        ],
+        "Koordinaten": [
+            48.74350155,
+            9.269273341921899
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Wörth am Rhein",
+        "Firmen": [
+            "Daimler Truck Holding AG"
+        ],
+        "Koordinaten": [
+            49.0543232,
+            8.2667399
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Mannheim",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Volkswagen AG",
+            "Daimler Truck Holding AG"
+        ],
+        "Koordinaten": [
+            49.4892913,
+            8.4673098
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Gaggenau",
+        "Firmen": [
+            "Daimler Truck Holding AG"
+        ],
+        "Koordinaten": [
+            48.8030291,
+            8.3201799
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Kassel",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Rheinmetall AG",
+            "Volkswagen AG",
+            "Daimler Truck Holding AG"
+        ],
+        "Koordinaten": [
+            51.3154546,
+            9.4924096
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Neu Ulm",
+        "Firmen": [
+            "Daimler Truck Holding AG"
+        ],
+        "Koordinaten": [
+            48.3953489,
+            10.0005211
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Erfurt",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            50.9777974,
+            11.0287364
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Mönchengladbach",
+        "Firmen": [
+            "Zalando SE",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            51.1947131,
+            6.4353792
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Lahr",
+        "Firmen": [
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            49.9440252,
+            6.2909576
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Gießen",
+        "Firmen": [
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            50.5862066,
+            8.6742306
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Dortmund",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Zalando SE",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            51.5142273,
+            7.4652789
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Waldheim",
+        "Firmen": [
+            "Beiersdorf Manufacturing Waldheim GmbH (BMWa)"
+        ],
+        "Koordinaten": [
+            51.0770643,
+            13.0157798
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Norderstedt",
+        "Firmen": [
+            "Beiersdorf Manufacturing Norderstedt GmbH"
+        ],
+        "Koordinaten": [
+            53.7089898,
+            9.9891914
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Offenburg",
+        "Firmen": [
+            "Beiersdorf Manufacturing Offenburg GmbH"
+        ],
+        "Koordinaten": [
+            48.4695984,
+            7.9429235
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Zuffenhausen Stuttgart",
+        "Firmen": [
+            "Porsche AG"
+        ],
+        "Koordinaten": [
+            48.8312987,
+            9.1674403
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Weissach",
+        "Firmen": [
+            "Porsche AG"
+        ],
+        "Koordinaten": [
+            48.8467574,
+            8.9273862
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Ludwigsburg",
+        "Firmen": [
+            "Porsche AG"
+        ],
+        "Koordinaten": [
+            48.8953937,
+            9.1895147
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bietigheim Bissingen",
+        "Firmen": [
+            "Porsche AG"
+        ],
+        "Koordinaten": [
+            48.9493243,
+            9.1364229
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Sachsenheim",
+        "Firmen": [
+            "Porsche AG"
+        ],
+        "Koordinaten": [
+            48.9654062,
+            9.0583956
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Osnabrück",
+        "Firmen": [
+            "Porsche AG",
+            "Brenntag GmbH",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            52.2719595,
+            8.047635
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Firmen": [
+            "Allianz Technology SE",
+            "Deutsche Telekom AG",
+            "Allianz Beratungs- und Vertriebs-AG",
+            "Siemens Healthineers AG",
+            "Allianz Capital Partners GmbH",
+            "E.ON Energie Deutschland Vertrieb GmbH",
+            "Vonovia SE",
+            "MEAG MUNICH ERGO AssetManagement GmbH",
+            "Allianz Deutschland AG",
+            "Allianz Investment Management SE",
+            "Siemens Energy AG",
+            "Allianz Services Germany",
+            "Volkswagen AG",
+            "Siemens AG",
+            "E.ON Energy Projects GmbH",
+            "Munich Re",
+            "Allianz SE",
+            "Linde Engineering",
+            "Allianz Treuhand GmbH",
+            "Deutsche Bank AG",
+            "E.ON Energie Deutschland GmbH",
+            "Brenntag GmbH",
+            "Allianz Direct Versicherungs-AG"
+        ],
+        "Koordinaten": [
+            48.1371079,
+            11.5753822
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Erlangen",
+        "Firmen": [
+            "Siemens Healthineers AG",
+            "Siemens AG"
+        ],
+        "Koordinaten": [
+            49.589157099999994,
+            10.98120719922546
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Karlsruhe",
+        "Firmen": [
+            "SAP SE",
+            "Siemens AG",
+            "Continental AG",
+            "Brenntag GmbH",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            49.0068705,
+            8.4034195
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Nürnberg",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Siemens AG",
+            "Volkswagen AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            49.453872,
+            11.077298
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Amberg",
+        "Firmen": [
+            "Siemens AG"
+        ],
+        "Koordinaten": [
+            49.454366199999996,
+            11.847402115482414
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Braunschweig",
+        "Firmen": [
+            "Siemens AG",
+            "Symrise AG",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            52.2646577,
+            10.5236066
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Krefeld",
+        "Firmen": [
+            "Siemens AG",
+            "Henkel AG Co. KGAA"
+        ],
+        "Koordinaten": [
+            51.3331205,
+            6.5623343
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Mülheim an der Ruhr",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Siemens AG",
+            "Siemens Energy AG"
+        ],
+        "Koordinaten": [
+            51.4272925,
+            6.8829192
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Holzminden",
+        "Firmen": [
+            "Symotion GmbH",
+            "Symrise AG",
+            "Tesium GmbH"
+        ],
+        "Koordinaten": [
+            51.8989989,
+            9.5741099
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Nördlingen",
+        "Firmen": [
+            "Symrise AG"
+        ],
+        "Koordinaten": [
+            48.8516578,
+            10.4885873
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Rosenheim",
+        "Firmen": [
+            "DrinkStar GmbH"
+        ],
+        "Koordinaten": [
+            47.8539273,
+            12.127262
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Firmen": [
+            "E.ON Gas Storage GmbH",
+            "RWE Supply & Trading GmbH",
+            "E.ON Inhouse Consulting GmbH",
+            "E.ON Energy Infrastructure GmbH",
+            "Brenntag SE",
+            "E.ON SE",
+            "E.ON Climate & Renewables GmbH",
+            "RWE AG",
+            "RWE Generation SE",
+            "E.ON Energie Solutions GmbH",
+            "E.ON Digital Technology GmbH",
+            "Volkswagen AG",
+            "E.ON Connecting Energies GmbH"
+        ],
+        "Koordinaten": [
+            51.4582235,
+            7.0158171
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Fürstenwalde Spree",
+        "Firmen": [
+            "E.DIS Netz GmbH"
+        ],
+        "Koordinaten": [
+            52.3580209,
+            14.064985
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Helmstedt",
+        "Firmen": [
+            "Avacon AG"
+        ],
+        "Koordinaten": [
+            52.2089226,
+            11.002888241720438
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Regensburg",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Bayernwerk AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            49.0195333,
+            12.0974869
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Hannover",
+        "Firmen": [
+            "Hannover Re (Life) SE",
+            "E.ON Business Services GmbH",
+            "Hannover Rück SE",
+            "Continental AG",
+            "Brenntag GmbH",
+            "Henkel AG Co. KGAA",
+            "E.ON Kernkraft GmbH",
+            "Volkswagen AG",
+            "Vonovia SE"
+        ],
+        "Koordinaten": [
+            52.3744779,
+            9.7385532
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Walldorf",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            49.3038134,
+            8.6433518
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Hallbergmoos",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            48.3182064,
+            11.7445128
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "St. Ingbert",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            49.2788378,
+            7.1156707
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Firmen": [
+            "SAP SE",
+            "Merck Healthcare KGaA",
+            "Merck Life Science KGaA",
+            "Merck Electronics KGaA",
+            "Merck KGaA",
+            "Merck Chemicals GmbH",
+            "Merck LS RTU GmbH",
+            "Bayer AG",
+            "Deutsche Telekom AG"
+        ],
+        "Koordinaten": [
+            49.8851869,
+            8.6736295
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Göttingen",
+        "Firmen": [
+            "Sartorius Lab Instruments GmbH & Co. KG",
+            "Sartorius Stedim Biotech GmbH",
+            "Sartorius AG"
+        ],
+        "Koordinaten": [
+            51.5328328,
+            9.9351811
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Guxhagen",
+        "Firmen": [
+            "Sartorius Stedim Systems GmbH"
+        ],
+        "Koordinaten": [
+            51.2016986,
+            9.4975082
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Ulm",
+        "Firmen": [
+            "Sartorius Stedim Cellca GmbH",
+            "Brenntag GmbH",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            48.3984968,
+            9.9912458
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Melsungen",
+        "Firmen": [
+            "Sartorius Stedim Plastics GmbH"
+        ],
+        "Koordinaten": [
+            51.1425944,
+            9.5833158
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Wolfsburg",
+        "Firmen": [
+            "Volkswagen AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            52.4205588,
+            10.7861682
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Emden",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            53.3670541,
+            7.2058304
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Salzgitter",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            52.1503721,
+            10.3593147
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Zwickau",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            50.7185043,
+            12.4939267
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Chemnitz",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            50.8323531,
+            12.918914
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Köln",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "RWE Power AG",
+            "Brenntag GmbH",
+            "Linde Engineering",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            50.938361,
+            6.959974
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Duisburg",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            51.434999,
+            6.759562
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bochum",
+        "Firmen": [
+            "Volkswagen AG",
+            "Vonovia SE"
+        ],
+        "Koordinaten": [
+            51.4818111,
+            7.2196635
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Wuppertal",
+        "Firmen": [
+            "Bayer AG",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            51.264018,
+            7.1780374
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bielefeld",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            52.0191005,
+            8.531007
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Münster",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            51.9625101,
+            7.6251879
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Augsburg",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            48.3690341,
+            10.8979522
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Wiesbaden",
+        "Firmen": [
+            "Merck Performance Materials GmbH",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            50.0820384,
+            8.2416556
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Gelsenkirchen",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            51.5110321,
+            7.0960124
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bopfingen",
+        "Firmen": [
+            "Henkel AG Co. KGAA"
+        ],
+        "Koordinaten": [
+            48.8577633,
+            10.3523096
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Garching bei München",
+        "Firmen": [
+            "Henkel AG Co. KGAA"
+        ],
+        "Koordinaten": [
+            48.2513878,
+            11.6509662
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Heidelberg",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Henkel AG Co. KGAA",
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            49.4093582,
+            8.694724
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Heidenau",
+        "Firmen": [
+            "Henkel AG Co. KGAA"
+        ],
+        "Koordinaten": [
+            50.9735851,
+            13.8753917
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Herborn Schönbach",
+        "Firmen": [
+            "Henkel AG Co. KGAA"
+        ],
+        "Koordinaten": [
+            50.6665933,
+            8.221894954758037
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Porta Westfalica",
+        "Firmen": [
+            "Henkel AG Co. KGAA"
+        ],
+        "Koordinaten": [
+            52.2394431,
+            8.924762
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Unna",
+        "Firmen": [
+            "Henkel AG Co. KGAA"
+        ],
+        "Koordinaten": [
+            51.5348835,
+            7.689014
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Viersen",
+        "Firmen": [
+            "Schwarzkopf & Henkel Production Europe GmbH & Co. KG"
+        ],
+        "Koordinaten": [
+            51.2562118,
+            6.3905476
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Wassertrüdingen",
+        "Firmen": [
+            "Schwarzkopf & Henkel Production Europe GmbH & Co. KG"
+        ],
+        "Koordinaten": [
+            49.0406727,
+            10.5969426
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bad Homburg",
+        "Firmen": [
+            "Fresenius Medical Care AG & Co. KGaA",
+            "Fresenius SE & Co. KGaA"
+        ],
+        "Koordinaten": [
+            50.2363508,
+            8.5980265
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Friedberg",
+        "Firmen": [
+            "Fresenius Kabi Deutschland GmbH"
+        ],
+        "Koordinaten": [
+            50.3352682,
+            8.7539306
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Görlitz",
+        "Firmen": [
+            "Siemens Energy AG"
+        ],
+        "Koordinaten": [
+            51.1563185,
+            14.991018
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Cuxhaven",
+        "Firmen": [
+            "Siemens Gamesa Renewable Energy"
+        ],
+        "Koordinaten": [
+            53.86878,
+            8.698286
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Forchheim",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            49.7187319,
+            11.0595749
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Kemnath",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            49.8581156,
+            11.9355154
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Rudolstadt",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            50.7206063,
+            11.3401985
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Marburg",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            50.8090106,
+            8.7704695
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Schweinfurt",
+        "Firmen": [
+            "Fresenius Medical Care AG & Co. KGaA"
+        ],
+        "Koordinaten": [
+            50.051855200000006,
+            10.222092114223383
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "St. Wendel",
+        "Firmen": [
+            "Fresenius Medical Care AG & Co. KGaA"
+        ],
+        "Koordinaten": [
+            49.4669906,
+            7.1696192
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Biebesheim am Rhein",
+        "Firmen": [
+            "Fresenius Medical Care AG & Co. KGaA"
+        ],
+        "Koordinaten": [
+            49.7815684,
+            8.4660576
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Kiel",
+        "Firmen": [
+            "Brenntag GmbH",
+            "Rheinmetall AG",
+            "Vonovia SE"
+        ],
+        "Koordinaten": [
+            54.3227085,
+            10.135555
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Hilden",
+        "Firmen": [
+            "QIAGEN GmbH"
+        ],
+        "Koordinaten": [
+            51.1674417,
+            6.9307271
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Pullach",
+        "Firmen": [
+            "Linde Engineering",
+            "Linde GmbH"
+        ],
+        "Koordinaten": [
+            48.0556122,
+            11.5217455
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Aschaffenburg",
+        "Firmen": [
+            "Linde Hydraulics"
+        ],
+        "Koordinaten": [
+            49.9706701,
+            9.13848573082478
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Kahl am Main",
+        "Firmen": [
+            "Linde Hydraulics"
+        ],
+        "Koordinaten": [
+            50.0806165,
+            9.1549415
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Ballenstedt",
+        "Firmen": [
+            "Linde Hydraulics"
+        ],
+        "Koordinaten": [
+            51.722527,
+            11.2290268
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Leuna",
+        "Firmen": [
+            "Linde Engineering"
+        ],
+        "Koordinaten": [
+            51.3233638,
+            12.0195081
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Schwarzheide",
+        "Firmen": [
+            "Linde Engineering"
+        ],
+        "Koordinaten": [
+            51.4858276,
+            13.8306977
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Ludwigshafen",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            49.4704113,
+            8.4381568
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Gatersleben",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            51.8152287,
+            11.290507585791628
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Monheim am Rhein",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            51.0909476,
+            6.8812387
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Hürth",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            50.8807379,
+            6.876568
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bergkamen",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            51.6149389,
+            7.6362876
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Bitterfeld Wolfen",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            51.6425032,
+            12.3076334
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Grenzach Wyhlen",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            47.5528548,
+            7.6737981
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Jena",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            50.9281717,
+            11.5879359
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Weimar",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            50.9769686,
+            11.3275394
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Korbach",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            51.2559045,
+            8.8426963
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Ingolstadt",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            48.7630165,
+            11.4250395
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Babenhausen",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            49.9562183,
+            8.9460279
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Villingen Schwenningen",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            48.0632359,
+            8.4945022
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Gifhorn",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            52.57806125,
+            10.661344801415442
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Roding",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            49.1964174,
+            12.5166987
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Schwalbach am Taunus",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            50.1490109,
+            8.5357434
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Weissbach",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            50.8127341,
+            11.7895108
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Wetzlar",
+        "Firmen": [
+            "Heidelberg Materials AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            50.5525346,
+            8.5074406
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Leimen",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            49.3491417,
+            8.6909951
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Burglengenfeld",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            49.2071077,
+            12.03996
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Schelklingen",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            48.3755469,
+            9.7341832
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Geseke",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            51.6395322,
+            8.512578
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Lengfurt",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            49.8179095,
+            9.596954542705337
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Pleidelsheim",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            48.9596036,
+            9.2045813
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Weisenau",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            49.97769545,
+            8.298631013354505
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Brandenburg an der Havel",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            52.4108261,
+            12.5497933
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Obrigheim",
+        "Firmen": [
+            "Heidelberg Materials AG"
+        ],
+        "Koordinaten": [
+            49.5907756,
+            8.2031633
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart Leinfelden Echterdingen",
+        "Firmen": [
+            "Deutsche Telekom AG"
+        ],
+        "Koordinaten": [
+            48.694076300000006,
+            9.187274240894586
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Stade",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            53.599794,
+            9.475438
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Buxtehude",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            53.4767351,
+            9.7003941
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Weiterstadt",
+        "Firmen": [
+            "Merck Healthcare Germany GmbH",
+            "Merck KGaA"
+        ],
+        "Koordinaten": [
+            49.9178,
+            8.5924
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Hohenbrunn",
+        "Firmen": [
+            "Merck Schuchardt OHG"
+        ],
+        "Koordinaten": [
+            48.048083,
+            11.7021625
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Schnelldorf",
+        "Firmen": [
+            "Sigma-Aldrich Chemie GmbH"
+        ],
+        "Koordinaten": [
+            49.1999588,
+            10.1812121
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Steinheim",
+        "Firmen": [
+            "Sigma-Aldrich Chemie GmbH"
+        ],
+        "Koordinaten": [
+            51.8660478,
+            9.0942767
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Taufkirchen",
+        "Firmen": [
+            "Sigma-Aldrich Chemie GmbH"
+        ],
+        "Koordinaten": [
+            48.0459958,
+            11.6151899
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Gernsheim",
+        "Firmen": [
+            "Merck Surface Solutions GmbH"
+        ],
+        "Koordinaten": [
+            49.7466,
+            8.5112
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Greifswald",
+        "Firmen": [
+            "Litec-LLL GmbH"
+        ],
+        "Koordinaten": [
+            54.095791,
+            13.3815238
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Unterföhring",
+        "Firmen": [
+            "Allianz Private Krankenversicherungs-AG",
+            "Allianz Versicherungs-AG"
+        ],
+        "Koordinaten": [
+            48.1950385,
+            11.6449251
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Aschheim",
+        "Firmen": [
+            "Allianz Partners Deutschland GmbH"
+        ],
+        "Koordinaten": [
+            48.1713481,
+            11.7160347
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Ismaning",
+        "Firmen": [
+            "AZT Automotive GmbH (Allianz Zentrum für Technik)"
+        ],
+        "Koordinaten": [
+            48.2242434,
+            11.6715263
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Würzburg",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            49.7780356,
+            9.943476907125579
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Freiburg",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            47.9960901,
+            7.8494005
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Mainz",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            49.9995205,
+            8.2736253
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Saarbrücken",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            49.234362,
+            6.996379
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Magdeburg",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            52.1315889,
+            11.6399609
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Rostock",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            54.0886707,
+            12.1400211
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Lübeck",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            53.866444,
+            10.684738
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Paderborn",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            51.7177044,
+            8.752653
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Offenbach",
+        "Firmen": [
+            "Brenntag GmbH"
+        ],
+        "Koordinaten": [
+            50.1055002,
+            8.7610698
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Neckarsulm",
+        "Firmen": [
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            49.191133,
+            9.2248391
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Neuss",
+        "Firmen": [
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            51.1981778,
+            6.6916476
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Unterlüß",
+        "Firmen": [
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            52.834578,
+            10.297171
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Oberndorf",
+        "Firmen": [
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            48.2908613,
+            8.5711222
+        ]
+    },
+    {
+        "Land": "Deutschland",
+        "Stadt": "Stockach",
+        "Firmen": [
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            47.8530941,
+            9.0134524
+        ]
+    },
+    {
+        "Land": "Österreich",
+        "Stadt": "Villach",
+        "Firmen": [
+            "Infineon Technologies Austria AG"
+        ],
+        "Koordinaten": [
+            46.6167284,
+            13.8500268
+        ]
+    },
+    {
+        "Land": "Österreich",
+        "Stadt": "Graz",
+        "Firmen": [
+            "Infineon Technologies Austria AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            47.0708678,
+            15.4382786
+        ]
+    },
+    {
+        "Land": "Österreich",
+        "Stadt": "Linz",
+        "Firmen": [
+            "Danube Integrated Circuit Engineering GmbH & Co. KG (DICE)"
+        ],
+        "Koordinaten": [
+            48.3059078,
+            14.286198
+        ]
+    },
+    {
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Firmen": [
+            "Infineon Technologies Austria AG",
+            "Rheinmetall AG",
+            "Fresenius Vamed",
+            "Continental AG",
+            "RWE Renewables Austria GmbH",
+            "Commerzbank AG",
+            "Deutsche Telekom AG",
+            "Siemens Healthineers AG",
+            "Vonovia SE"
+        ],
+        "Koordinaten": [
+            48.2083537,
+            16.3725042
+        ]
+    },
+    {
+        "Land": "Österreich",
+        "Stadt": "Steyr",
+        "Firmen": [
+            "Daimler Truck AG"
+        ],
+        "Koordinaten": [
+            48.0390046,
+            14.4191276
+        ]
+    },
+    {
+        "Land": "Rumänien",
+        "Stadt": "Bukarest",
+        "Firmen": [
+            "RWE Renewables Romania S.R.L.",
+            "Infineon Technologies Romania SCS",
+            "E.ON România S.A.",
+            "Munich Re Romania"
+        ],
+        "Koordinaten": [
+            44.4361414,
+            26.1027202
+        ]
+    },
+    {
+        "Land": "Rumänien",
+        "Stadt": "Sebeș",
+        "Firmen": [
+            "Star Assembly SRL & Star Transmission SRL"
+        ],
+        "Koordinaten": [
+            45.9575384,
+            23.5691574
+        ]
+    },
+    {
+        "Land": "Rumänien",
+        "Stadt": "Cugir",
+        "Firmen": [
+            "Star Assembly SRL & Star Transmission SRL"
+        ],
+        "Koordinaten": [
+            45.8363334,
+            23.3743873
+        ]
+    },
+    {
+        "Land": "Rumänien",
+        "Stadt": "Târgu Mureș",
+        "Firmen": [
+            "E.ON Energie Romania S.A."
+        ],
+        "Koordinaten": [
+            46.5446253,
+            24.561196
+        ]
+    },
+    {
+        "Land": "Rumänien",
+        "Stadt": "Iași",
+        "Firmen": [
+            "E.ON Distribuție România S.A."
+        ],
+        "Koordinaten": [
+            47.1615598,
+            27.5837814
+        ]
+    },
+    {
+        "Land": "Rumänien",
+        "Stadt": "Cluj Napoca",
+        "Firmen": [
+            "E.ON Distribuție Gaz România S.A."
+        ],
+        "Koordinaten": [
+            46.769379,
+            23.5899542
+        ]
+    },
+    {
+        "Land": "Malaysia",
+        "Stadt": "Kulim",
+        "Firmen": [
+            "Infineon Technologies (Kulim) Sdn. Bhd."
+        ],
+        "Koordinaten": [
+            5.3707128,
+            100.6172071
+        ]
+    },
+    {
+        "Land": "Malaysia",
+        "Stadt": "Melaka",
+        "Firmen": [
+            "Infineon Technologies (Malaysia) Sdn. Bhd."
+        ],
+        "Koordinaten": [
+            2.3293744,
+            102.2880962
+        ]
+    },
+    {
+        "Land": "Malaysia",
+        "Stadt": "Kedah",
+        "Firmen": [
+            "Porsche AG"
+        ],
+        "Koordinaten": [
+            5.8098265,
+            100.6715035
+        ]
+    },
+    {
+        "Land": "Malaysia",
+        "Stadt": "Kuala Lumpur",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "QIAGEN Malaysia Sdn. Bhd.",
+            "Sartorius Stedim Malaysia Sdn. Bhd.",
+            "Commerzbank AG",
+            "Hannover Re (Malaysia) Sdn. Bhd.",
+            "Munich Re Malaysia Branch"
+        ],
+        "Koordinaten": [
+            3.1516964,
+            101.6942371
+        ]
+    },
+    {
+        "Land": "Malaysia",
+        "Stadt": "Petaling Jaya",
+        "Firmen": [
+            "Linde Malaysia Sdn Bhd"
+        ],
+        "Koordinaten": [
+            3.0988792,
+            101.6454202
+        ]
+    },
+    {
+        "Land": "Malaysia",
+        "Stadt": "Kuantan",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            3.7985637,
+            103.32199
+        ]
+    },
+    {
+        "Land": "Malaysia",
+        "Stadt": "Labuan",
+        "Firmen": [
+            "Munich Re Labuan Branch"
+        ],
+        "Koordinaten": [
+            5.3168336,
+            115.2198613
+        ]
+    },
+    {
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Firmen": [
+            "Clearstream Banking S.A.",
+            "Deutsche Börse AG",
+            "Deutsche Bank AG",
+            "QIAGEN Singapore Pte. Ltd.",
+            "Munich Re Singapore Branch",
+            "Infineon Technologies Asia Pacific Pte Ltd",
+            "360T",
+            "Linde Gas Asia Pte Ltd",
+            "Hannover Re (Singapore) Pte. Ltd.",
+            "Symrise Asia Pacific Pte. Ltd.",
+            "Sartorius Stedim Singapore Pte. Ltd.",
+            "Commerzbank AG",
+            "Eurex",
+            "Deutsche Börse Market Data + Services",
+            "Linde Gas Singapore Pte Ltd"
+        ],
+        "Koordinaten": [
+            1.2899175,
+            103.8519072
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Suzhou",
+        "Firmen": [
+            "Infineon Technologies Suzhou Co., Ltd."
+        ],
+        "Koordinaten": [
+            31.311123,
+            120.6212881
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Firmen": [
+            "SAP SE",
+            "Rheinmetall AG",
+            "Sartorius Stedim Biotech (Beijing) Co., Ltd.",
+            "Adidas Asia-Pacific",
+            "Fresenius Kabi (China) Co. Limited",
+            "Continental AG",
+            "Hannover Re",
+            "QIAGEN China (Shanghai) Co., Ltd.",
+            "Bayer AG",
+            "Commerzbank AG",
+            "Neroli Group China",
+            "Covestro AG",
+            "Shanghai Wing Biotechnology Co., Ltd.",
+            "Fresenius Medical Care (Shanghai) Co. Ltd.",
+            "Siemens Healthineers AG",
+            "Beiersdorf Manufacturing Shanghai Co., Ltd.",
+            "Volkswagen AG",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            31.2312707,
+            121.4700152
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Guangzhou",
+        "Firmen": [
+            "Fresenius Kabi (China) Co. Limited",
+            "Covestro AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            23.1301964,
+            113.2592945
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Zhuhai",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            22.273734,
+            113.5721327
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Ningbo",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            29.8622194,
+            121.6203873
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Peking",
+        "Firmen": [
+            "SAP SE",
+            "Deutsche Bank AG",
+            "Mercedes-Benz Werk Peking",
+            "Munich Re Beijing Branch",
+            "Sartorius Stedim Biotech (Beijing) Co., Ltd.",
+            "RWE Renewables China Co., Ltd.",
+            "Daimler Truck AG",
+            "Hannover Re",
+            "Symrise Flavors & Fragrances (Nantong) Co. Ltd.",
+            "Bayer AG",
+            "Commerzbank AG",
+            "Fresenius Kabi (China) Co. Limited"
+        ],
+        "Koordinaten": [
+            40.190632,
+            116.412144
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Fuzhou",
+        "Firmen": [
+            "Daimler Truck AG",
+            "Mercedes-Benz Werk Fuzhou"
+        ],
+        "Koordinaten": [
+            26.0774954,
+            119.2918215
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Yinchuan",
+        "Firmen": [
+            "Daimler Truck AG"
+        ],
+        "Koordinaten": [
+            38.4852037,
+            106.2261926
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Wuhan",
+        "Firmen": [
+            "Beiersdorf Manufacturing Wuhan Co., Ltd.",
+            "Fresenius Kabi (China) Co. Limited"
+        ],
+        "Koordinaten": [
+            30.5951051,
+            114.2999353
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Nantong",
+        "Firmen": [
+            "Symrise Flavors & Fragrances (Nantong) Co. Ltd.",
+            "Symrise (China) Investment Co."
+        ],
+        "Koordinaten": [
+            31.9827896,
+            120.8904588
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Changzhou",
+        "Firmen": [
+            "Jiangsu Wing Biotechnology Co.,Ltd."
+        ],
+        "Koordinaten": [
+            31.8122623,
+            119.9691539
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Yingtan",
+        "Firmen": [
+            "Jiangxi Wing Biotechnology Co., Ltd."
+        ],
+        "Koordinaten": [
+            28.2378405,
+            117.1143221
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Qingdao",
+        "Firmen": [
+            "SPF (Qingdao) Trading Co., Ltd."
+        ],
+        "Koordinaten": [
+            36.0663249,
+            120.3777659
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Nanjing",
+        "Firmen": [
+            "SAP SE",
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            32.0438284,
+            118.7788631
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Chengdu",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            30.6598628,
+            104.0633717
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Xi'an",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            34.261004,
+            108.9423363
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Changchun",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            43.8844201,
+            125.3180998
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Foshan",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            23.0239788,
+            113.1159558
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Weifang",
+        "Firmen": [
+            "Linde Hydraulics"
+        ],
+        "Koordinaten": [
+            36.7071591,
+            119.1557441
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Hangzhou",
+        "Firmen": [
+            "Linde Engineering China Co., Ltd."
+        ],
+        "Koordinaten": [
+            30.2489634,
+            120.2052342
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Zhanjiang",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            21.2737079,
+            110.3548318
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Changshu",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            31.6572954,
+            120.7480757
+        ]
+    },
+    {
+        "Land": "Taiwan",
+        "Stadt": "Taipeh",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "QIAGEN Taiwan Co., Ltd.",
+            "Infineon Technologies Taiwan Co., Ltd.",
+            "RWE Renewables Taiwan Ltd.",
+            "Commerzbank AG"
+        ],
+        "Koordinaten": [
+            25.0375198,
+            121.5636796
+        ]
+    },
+    {
+        "Land": "Taiwan",
+        "Stadt": "Taichung",
+        "Firmen": [
+            "Siemens Gamesa Renewable Energy"
+        ],
+        "Koordinaten": [
+            24.163162,
+            120.6478282
+        ]
+    },
+    {
+        "Land": "Japan",
+        "Stadt": "Amagasaki",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            34.7339783,
+            135.4064015
+        ]
+    },
+    {
+        "Land": "Japan",
+        "Stadt": "Kawasaki",
+        "Firmen": [
+            "Mitsubishi Fuso Truck and Bus Corporation",
+            "Daimler Trucks Asia"
+        ],
+        "Koordinaten": [
+            35.5306639,
+            139.7037668
+        ]
+    },
+    {
+        "Land": "Japan",
+        "Stadt": "Chiyoda",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            35.6938097,
+            139.7532163
+        ]
+    },
+    {
+        "Land": "Japan",
+        "Stadt": "Osaka",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            34.6937569,
+            135.5014539
+        ]
+    },
+    {
+        "Land": "Japan",
+        "Stadt": "Yuki",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            36.3052945,
+            139.8771403
+        ]
+    },
+    {
+        "Land": "Japan",
+        "Stadt": "Yokohama",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            35.4503381,
+            139.6343802
+        ]
+    },
+    {
+        "Land": "Japan",
+        "Stadt": "Nagoya",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            35.1851045,
+            136.8998438
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Milpitas",
+        "Firmen": [
+            "Infineon Technologies Americas Corp."
+        ],
+        "Koordinaten": [
+            37.4332273,
+            -121.8989248
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Portland",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc.",
+            "Adidas North America",
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            45.5202471,
+            -122.674194
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Pittsburgh",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            40.4416941,
+            -79.9900861
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Baytown",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            29.7355047,
+            -94.9774274
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "New Martinsville",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            39.6445214,
+            -80.8575993
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Deerfield Massachusetts",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            42.5442595,
+            -72.6044771
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Tuscaloosa",
+        "Firmen": [
+            "Mercedes-Benz Werk Tuscaloosa"
+        ],
+        "Koordinaten": [
+            33.2095614,
+            -87.5675258
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Charleston",
+        "Firmen": [
+            "Mercedes-Benz Werk Charleston"
+        ],
+        "Koordinaten": [
+            32.7884363,
+            -79.9399309
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Cleveland",
+        "Firmen": [
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            41.4996574,
+            -81.6936772
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Mount Holly",
+        "Firmen": [
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            39.9928898,
+            -74.7876624
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Gaffney",
+        "Firmen": [
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            35.0717945,
+            -81.6498195
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Redford",
+        "Firmen": [
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            44.6083776,
+            -73.8043096
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Gastonia",
+        "Firmen": [
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            35.2622654,
+            -81.1838186
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "High Point",
+        "Firmen": [
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            35.9556924,
+            -80.0053176
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Florham Park",
+        "Firmen": [
+            "Beiersdorf Manufacturing Florham Park Inc."
+        ],
+        "Koordinaten": [
+            40.7881643,
+            -74.3891647
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Teterboro",
+        "Firmen": [
+            "Symrise Inc."
+        ],
+        "Koordinaten": [
+            40.8598219,
+            -74.0593075
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Branchburg",
+        "Firmen": [
+            "Symrise Inc."
+        ],
+        "Koordinaten": [
+            40.5688245,
+            -74.70027388974506
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Goose Creek",
+        "Firmen": [
+            "Symrise Inc."
+        ],
+        "Koordinaten": [
+            32.9961038,
+            -80.0387292
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Hodges",
+        "Firmen": [
+            "Diana Pet Food USA"
+        ],
+        "Koordinaten": [
+            34.3272554,
+            -87.9268739
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Silverton",
+        "Firmen": [
+            "Diana Food USA"
+        ],
+        "Koordinaten": [
+            34.4713299,
+            -101.304654
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Banks",
+        "Firmen": [
+            "Diana Food USA"
+        ],
+        "Koordinaten": [
+            34.3378598,
+            -83.4970026
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Louisville",
+        "Firmen": [
+            "E.ON US LLC"
+        ],
+        "Koordinaten": [
+            38.2542376,
+            -85.759407
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Chicago",
+        "Firmen": [
+            "E.ON Renewables North America LLC"
+        ],
+        "Koordinaten": [
+            41.8755616,
+            -87.6244212
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Palo Alto",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            37.4443293,
+            -122.1598465
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Bohemia NY",
+        "Firmen": [
+            "Sartorius Stedim North America Inc."
+        ],
+        "Koordinaten": [
+            40.7694091,
+            -73.1148664
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Chattanooga",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            35.0457219,
+            -85.3094883
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Fort Madison",
+        "Firmen": [
+            "Siemens Gamesa Renewable Energy"
+        ],
+        "Koordinaten": [
+            40.6311415,
+            -91.3084007
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Hutchinson",
+        "Firmen": [
+            "Siemens Gamesa Renewable Energy"
+        ],
+        "Koordinaten": [
+            35.8148236,
+            -101.34844
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Waltham Massachusetts",
+        "Firmen": [
+            "Fresenius Medical Care AG & Co. KGaA"
+        ],
+        "Koordinaten": [
+            42.3756401,
+            -71.2358004
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Wilson North Carolina",
+        "Firmen": [
+            "Fresenius Medical Care AG & Co. KGaA"
+        ],
+        "Koordinaten": [
+            35.7059114,
+            -77.9175714
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Germantown Maryland",
+        "Firmen": [
+            "QIAGEN Inc."
+        ],
+        "Koordinaten": [
+            39.17130815,
+            -77.26557848822242
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Redwood City Kalifornien",
+        "Firmen": [
+            "QIAGEN Redwood City, Inc."
+        ],
+        "Koordinaten": [
+            37.4863239,
+            -122.232523
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Freeport",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            42.2966861,
+            -89.6212271
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Louisiana 70737",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            30.406200499999997,
+            -91.18541292158193
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "East Setauket",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            40.920966,
+            -73.093714
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Washington New Jersey",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            40.7584326,
+            -74.9793378
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "St. Louis",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc.",
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            38.6280278,
+            -90.1910154
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Berkeley",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            37.8708393,
+            -122.272863
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Auburn Hills",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            42.6875323,
+            -83.2341028
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Mount Vernon",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            40.9125085,
+            -73.8386504
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Clinton",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            41.2711458,
+            -77.6984481
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Fort Mill",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            35.0073697,
+            -80.9450759
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "San Jose",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            37.3361663,
+            -121.890591
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Bellevue Washington",
+        "Firmen": [
+            "Deutsche Telekom AG"
+        ],
+        "Koordinaten": [
+            47.6144219,
+            -122.192337
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Carlsbad",
+        "Firmen": [
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            33.1580933,
+            -117.3505966
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Princeton",
+        "Firmen": [
+            "Munich Reinsurance America"
+        ],
+        "Koordinaten": [
+            40.3496953,
+            -74.6597376
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Amelia",
+        "Firmen": [
+            "American Modern Insurance Group"
+        ],
+        "Koordinaten": [
+            37.3319664,
+            -78.008448
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Hartford",
+        "Firmen": [
+            "Hartford Steam Boiler Inspection and Insurance Company"
+        ],
+        "Koordinaten": [
+            41.764582,
+            -72.6908547
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Mobile",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            30.6913462,
+            -88.0437509
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Austin",
+        "Firmen": [
+            "RWE Renewables Americas LLC"
+        ],
+        "Koordinaten": [
+            30.2711286,
+            -97.7436995
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Orlando",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            28.5421109,
+            -81.3790304
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Denver",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            39.7392364,
+            -104.984862
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Itasca",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            47.4968343,
+            -93.6225663
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "San Francisco",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            37.7792588,
+            -122.4193286
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Atlanta",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            33.7489924,
+            -84.3902644
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Dallas",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            32.7762719,
+            -96.7968559
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Los Angeles",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            34.0536909,
+            -118.242766
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Miami",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            25.7741728,
+            -80.19362
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Seattle",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            47.6038321,
+            -122.330062
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Boston",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            42.3554334,
+            -71.060511
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Philadelphia",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            39.9527237,
+            -75.1635262
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Minneapolis",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            44.9772995,
+            -93.2654692
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Charlotte",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            35.2272086,
+            -80.8430827
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Houston",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            29.7589382,
+            -95.3676974
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Phoenix",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            33.4484367,
+            -112.074141
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Salt Lake City",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            40.7596198,
+            -111.886797
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Tampa",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            27.9477595,
+            -82.458444
+        ]
+    },
+    {
+        "Land": "USA",
+        "Stadt": "Washington D.C.",
+        "Firmen": [
+            "Hannover Re (U.S.) Inc."
+        ],
+        "Koordinaten": [
+            38.8950368,
+            -77.0365427
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Bristol",
+        "Firmen": [
+            "Infineon Technologies UK Ltd."
+        ],
+        "Koordinaten": [
+            51.4538022,
+            -2.5972985
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "London",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Deutsche Börse AG",
+            "Hannover Re (UK) Life Branch",
+            "Commerzbank AG",
+            "Munich Re UK & Ireland Life Branch",
+            "RWE Renewables UK Ltd.",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            51.4893335,
+            -0.14405508452768728
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Watford",
+        "Firmen": [
+            "Beiersdorf Manufacturing Watford Ltd."
+        ],
+        "Koordinaten": [
+            51.6553875,
+            -0.3957425
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Marlow",
+        "Firmen": [
+            "Symrise Limited"
+        ],
+        "Koordinaten": [
+            51.5718706,
+            -0.7769654
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Holbeach",
+        "Firmen": [
+            "Diana Food Ltd."
+        ],
+        "Koordinaten": [
+            52.80421,
+            0.0180043
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Preston",
+        "Firmen": [
+            "Diana Pet Food UK Ltd."
+        ],
+        "Koordinaten": [
+            53.7593363,
+            -2.6992717
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Coventry",
+        "Firmen": [
+            "E.ON UK Plc"
+        ],
+        "Koordinaten": [
+            52.4081812,
+            -1.510477
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Nottingham",
+        "Firmen": [
+            "E.ON Renewables UK Ltd"
+        ],
+        "Koordinaten": [
+            52.9534193,
+            -1.1496461
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Stonehouse",
+        "Firmen": [
+            "Sartorius Stedim Lab Ltd."
+        ],
+        "Koordinaten": [
+            51.7474678,
+            -2.283024
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Havant",
+        "Firmen": [
+            "Sartorius Stedim Chromatography Systems Ltd."
+        ],
+        "Koordinaten": [
+            50.8519351,
+            -0.9821263
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Manchester",
+        "Firmen": [
+            "QIAGEN Manchester Ltd."
+        ],
+        "Koordinaten": [
+            53.4794892,
+            -2.2451148
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Woking",
+        "Firmen": [
+            "Linde plc"
+        ],
+        "Koordinaten": [
+            51.3201891,
+            -0.5564726
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Guildford",
+        "Firmen": [
+            "BOC Ltd."
+        ],
+        "Koordinaten": [
+            51.2356068,
+            -0.5732063
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Surrey",
+        "Firmen": [
+            "The BOC Group Ltd."
+        ],
+        "Koordinaten": [
+            51.2715316,
+            -0.3414523511290909
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Lutterworth",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            52.4552224,
+            -1.1997815
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Birmingham",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            52.4796992,
+            -1.9026911
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Stockport",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            53.407901,
+            -2.160243
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Broughton",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            53.565614,
+            -0.5539235
+        ]
+    },
+    {
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Filton",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            51.5117457,
+            -2.5720005
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Paris",
+        "Firmen": [
+            "Infineon Technologies France SAS",
+            "Deutsche Bank AG",
+            "Symrise France S.A.S.",
+            "RWE Renewables France SAS",
+            "Munich Re France",
+            "Commerzbank AG"
+        ],
+        "Koordinaten": [
+            48.8588897,
+            2.3200410217200766
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Molsheim",
+        "Firmen": [
+            "Daimler Truck AG"
+        ],
+        "Koordinaten": [
+            48.5419351,
+            7.4924679
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Montereau sur le Jard",
+        "Firmen": [
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            48.5919203,
+            2.6679091
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Cergy",
+        "Firmen": [
+            "Sartorius Stedim Chromatography Resins S.A.S.",
+            "Symrise S.A.S."
+        ],
+        "Koordinaten": [
+            49.0527528,
+            2.0388736
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Antrain",
+        "Firmen": [
+            "Diana Food SAS"
+        ],
+        "Koordinaten": [
+            48.4640493,
+            -1.4791887976919218
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Charmes sur Rhône",
+        "Firmen": [
+            "Diana Food SAS"
+        ],
+        "Koordinaten": [
+            44.8621,
+            4.83424
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Neuilly sur Seine",
+        "Firmen": [
+            "Symrise France S.A.S."
+        ],
+        "Koordinaten": [
+            48.884683,
+            2.2695658
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Sophia Antipolis",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            43.6195225,
+            7.0518158
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Aubagne",
+        "Firmen": [
+            "Sartorius Stedim Aseptics S.A.S.",
+            "Sartorius Stedim FMT S.A.S."
+        ],
+        "Koordinaten": [
+            43.2924385,
+            5.5703031
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Dourdan",
+        "Firmen": [
+            "Sartorius Stedim France S.A.S."
+        ],
+        "Koordinaten": [
+            48.5288442,
+            2.0153689
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Les Ulis",
+        "Firmen": [
+            "QIAGEN France S.A.S."
+        ],
+        "Koordinaten": [
+            48.681708,
+            2.1701573
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Hésingue",
+        "Firmen": [
+            "Cryostar SAS"
+        ],
+        "Koordinaten": [
+            47.5751587,
+            7.5186109
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Toulouse",
+        "Firmen": [
+            "Airbus SE",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            43.6044622,
+            1.4442469
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Clermont Ferrand",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            45.7774551,
+            3.0819427
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Straßburg",
+        "Firmen": [
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            48.584614,
+            7.7507127
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Saint Nazaire",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            47.2733517,
+            -2.2138905
+        ]
+    },
+    {
+        "Land": "Frankreich",
+        "Stadt": "Nantes",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            47.2186371,
+            -1.5541362
+        ]
+    },
+    {
+        "Land": "Indien",
+        "Stadt": "Bangalore",
+        "Firmen": [
+            "Beiersdorf Manufacturing Bangalore Pvt. Ltd.",
+            "SAP SE",
+            "Airbus SE",
+            "Continental AG",
+            "Sartorius Stedim India Pvt. Ltd.",
+            "Infineon Technologies India Pvt. Ltd.",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            12.98815675,
+            77.62260003796
+        ]
+    },
+    {
+        "Land": "Indien",
+        "Stadt": "Mumbai",
+        "Firmen": [
+            "SAP SE",
+            "Deutsche Bank AG",
+            "Munich Re India Branch",
+            "Hannover Re",
+            "Commerzbank AG",
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            19.054999,
+            72.8692035
+        ]
+    },
+    {
+        "Land": "Indien",
+        "Stadt": "Pune",
+        "Firmen": [
+            "Volkswagen AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            18.5213738,
+            73.8545071
+        ]
+    },
+    {
+        "Land": "Indien",
+        "Stadt": "Neu Delhi",
+        "Firmen": [
+            "QIAGEN India Pvt. Ltd.",
+            "RWE Renewables India Private Limited"
+        ],
+        "Koordinaten": [
+            28.64308585,
+            77.21926705734865
+        ]
+    },
+    {
+        "Land": "Indien",
+        "Stadt": "Vadodara District",
+        "Firmen": [
+            "Linde Engineering India Pvt. Ltd."
+        ],
+        "Koordinaten": [
+            22.317945549999997,
+            73.30486742678025
+        ]
+    },
+    {
+        "Land": "Indien",
+        "Stadt": "Thane",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            19.1943294,
+            72.9701779
+        ]
+    },
+    {
+        "Land": "Ukraine",
+        "Stadt": "Lwiw",
+        "Firmen": [
+            "Infineon Technologies Ukraine LLC"
+        ],
+        "Koordinaten": [
+            49.841952,
+            24.0315921
+        ]
+    },
+    {
+        "Land": "Ukraine",
+        "Stadt": "Kiew",
+        "Firmen": [
+            "Munich Re Ukraine"
+        ],
+        "Koordinaten": [
+            50.4500336,
+            30.5241361
+        ]
+    },
+    {
+        "Land": "Portugal",
+        "Stadt": "Porto",
+        "Firmen": [
+            "Continental AG",
+            "Infineon Technologies Shared Service Center Unipessoal Lda."
+        ],
+        "Koordinaten": [
+            41.1494512,
+            -8.6107884
+        ]
+    },
+    {
+        "Land": "Portugal",
+        "Stadt": "Palmela",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            38.569601,
+            -8.9011653
+        ]
+    },
+    {
+        "Land": "Portugal",
+        "Stadt": "Aveiro",
+        "Firmen": [
+            "Siemens Gamesa Renewable Energy"
+        ],
+        "Koordinaten": [
+            40.640496,
+            -8.6537841
+        ]
+    },
+    {
+        "Land": "Portugal",
+        "Stadt": "Lousado",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            41.3504495,
+            -8.5323875
+        ]
+    },
+    {
+        "Land": "Portugal",
+        "Stadt": "Lissabon",
+        "Firmen": [
+            "RWE Renewables Portugal Unipessoal Lda.",
+            "Munich Re Portugal"
+        ],
+        "Koordinaten": [
+            38.7077507,
+            -9.1365919
+        ]
+    },
+    {
+        "Land": "Luxemburg",
+        "Stadt": "Luxemburg",
+        "Firmen": [
+            "Deutsche Börse AG",
+            "Clearstream Services",
+            "LuxCSD",
+            "Commerzbank AG"
+        ],
+        "Koordinaten": [
+            49.6112768,
+            6.129799
+        ]
+    },
+    {
+        "Land": "Tschechische Republik",
+        "Stadt": "Prag",
+        "Firmen": [
+            "Deutsche Börse AG",
+            "E.ON Česká republika, s.r.o.",
+            "Munich Re Czech Republic",
+            "Clearstream Services S.A.",
+            "RWE Renewables Czech Republic s.r.o.",
+            "Commerzbank AG",
+            "Deutsche Telekom AG"
+        ],
+        "Koordinaten": [
+            50.0874654,
+            14.4212535
+        ]
+    },
+    {
+        "Land": "Tschechische Republik",
+        "Stadt": "Holýšov",
+        "Firmen": [
+            "Daimler Truck AG"
+        ],
+        "Koordinaten": [
+            49.5936108,
+            13.1012935
+        ]
+    },
+    {
+        "Land": "Tschechische Republik",
+        "Stadt": "Brünn",
+        "Firmen": [
+            "E.ON Energy Czech Republic s.r.o."
+        ],
+        "Koordinaten": [
+            49.1922443,
+            16.6113382
+        ]
+    },
+    {
+        "Land": "Irland",
+        "Stadt": "Cork",
+        "Firmen": [
+            "Clearstream Global Securities Services"
+        ],
+        "Koordinaten": [
+            51.897077,
+            -8.4654674
+        ]
+    },
+    {
+        "Land": "Irland",
+        "Stadt": "Dublin",
+        "Firmen": [
+            "RWE Renewables Ireland Ltd.",
+            "Zalando SE",
+            "Hannover Re (Ireland) DAC",
+            "Linde plc"
+        ],
+        "Koordinaten": [
+            53.3493795,
+            -6.2605593
+        ]
+    },
+    {
+        "Land": "Irland",
+        "Stadt": "Belfast",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            54.596391,
+            -5.9301829
+        ]
+    },
+    {
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Munich Re Hong Kong Branch",
+            "Hannover Re (Hong Kong) Ltd.",
+            "Clearstream",
+            "Axioma",
+            "QIAGEN Ltd.",
+            "360T",
+            "STOXX",
+            "Adidas Sourcing",
+            "Commerzbank AG",
+            "Eurex",
+            "Fresenius Medical Care AG & Co. KGaA",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            22.2793278,
+            114.1628131
+        ]
+    },
+    {
+        "Land": "Panama",
+        "Stadt": "Panama Stadt",
+        "Firmen": [
+            "Adidas Latin America"
+        ],
+        "Koordinaten": [
+            8.9714493,
+            -79.5341802
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Amsterdam",
+        "Firmen": [
+            "Adidas Amsterdam",
+            "Commerzbank AG"
+        ],
+        "Koordinaten": [
+            52.3730796,
+            4.8924534
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Waalwijk",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            51.687337150000005,
+            5.017307939950269
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Bleiswijk",
+        "Firmen": [
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            52.0109579,
+            4.5310837
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Rotterdam",
+        "Firmen": [
+            "E.ON Nederland N.V.",
+            "E.ON Energie Nederland Holding N.V."
+        ],
+        "Koordinaten": [
+            51.9244424,
+            4.47775
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Venlo",
+        "Firmen": [
+            "QIAGEN N.V."
+        ],
+        "Koordinaten": [
+            51.39244885,
+            6.1511724144122955
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Schiedam",
+        "Firmen": [
+            "Linde Gas Benelux BV"
+        ],
+        "Koordinaten": [
+            51.9300454,
+            4.386451052615731
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Maastricht",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            50.8512438,
+            5.6909768
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Eindhoven",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            51.4392648,
+            5.478633
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Den Haag",
+        "Firmen": [
+            "Deutsche Telekom AG"
+        ],
+        "Koordinaten": [
+            52.0799838,
+            4.3113461
+        ]
+    },
+    {
+        "Land": "Niederlande",
+        "Stadt": "Zwolle",
+        "Firmen": [
+            "RWE Renewables Netherlands B.V."
+        ],
+        "Koordinaten": [
+            52.5089759,
+            6.0943765
+        ]
+    },
+    {
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Dubai",
+        "Firmen": [
+            "Symrise Middle East FZE",
+            "Deutsche Bank AG",
+            "Airbus SE",
+            "QIAGEN UAE FZ-LLC",
+            "Munich Re United Arab Emirates",
+            "Hannover Re",
+            "Commerzbank AG",
+            "Adidas Emerging Markets"
+        ],
+        "Koordinaten": [
+            25.2653471,
+            55.2924914
+        ]
+    },
+    {
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Abu Dhabi",
+        "Firmen": [
+            "Linde Engineering Middle East LLC"
+        ],
+        "Koordinaten": [
+            24.4538352,
+            54.3774014
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Root",
+        "Firmen": [
+            "Adidas International Trading AG"
+        ],
+        "Koordinaten": [
+            47.1048078,
+            8.373649
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Zürich",
+        "Firmen": [
+            "SAP SE",
+            "Deutsche Bank AG",
+            "Rheinmetall AG",
+            "Zalando SE",
+            "Commerzbank AG"
+        ],
+        "Koordinaten": [
+            47.3744489,
+            8.5410422
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "St. Gallen",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            47.425618,
+            9.3762397
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Pfungen",
+        "Firmen": [
+            "Linde Kryotechnik AG"
+        ],
+        "Koordinaten": [
+            47.5161123,
+            8.6454232
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Dagmersellen",
+        "Firmen": [
+            "PanGas AG"
+        ],
+        "Koordinaten": [
+            47.2135668,
+            7.9901132
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Basel",
+        "Firmen": [
+            "Bayer AG"
+        ],
+        "Koordinaten": [
+            47.5581077,
+            7.5878261
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Schaffhausen",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            47.6960491,
+            8.634513
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Regensdorf",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            47.4317645,
+            8.4680435
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Studen",
+        "Firmen": [
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            47.1117342,
+            7.3014821
+        ]
+    },
+    {
+        "Land": "Schweiz",
+        "Stadt": "Altdorf",
+        "Firmen": [
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            46.8820732,
+            8.6413922
+        ]
+    },
+    {
+        "Land": "Vietnam",
+        "Stadt": "Ho Chi Minh Stadt",
+        "Firmen": [
+            "Symrise Asia Pacific Pte. Ltd.",
+            "Deutsche Bank AG",
+            "Commerzbank AG",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            10.7763897,
+            106.7011391
+        ]
+    },
+    {
+        "Land": "Indonesien",
+        "Stadt": "Jakarta",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Commerzbank AG"
+        ],
+        "Koordinaten": [
+            -6.175247,
+            106.8270488
+        ]
+    },
+    {
+        "Land": "Türkei",
+        "Stadt": "Aksaray",
+        "Firmen": [
+            "Mercedes-Benz Türk A.Ş."
+        ],
+        "Koordinaten": [
+            38.4326291,
+            33.8976963
+        ]
+    },
+
+    {
+        "Land": "Türkei",
+        "Stadt": "Ankara",
+        "Firmen": [
+            "QIAGEN Turkey Biyoteknoloji Ltd. Şti."
+        ],
+        "Koordinaten": [
+            39.7160439,
+            32.7059948
+        ]
+    },
+    {
+        "Land": "Türkei",
+        "Stadt": "Adana",
+        "Firmen": [
+            "Linde Gaz AS"
+        ],
+        "Koordinaten": [
+            36.9863599,
+            35.3252861
+        ]
+    },
+    {
+        "Land": "Belgien",
+        "Stadt": "Antwerpen",
+        "Firmen": [
+            "BASF SE",
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            51.2211097,
+            4.3997081
+        ]
+    },
+    {
+        "Land": "Belgien",
+        "Stadt": "Brüssel",
+        "Firmen": [
+            "Continental AG",
+            "Symrise Group Finance Holding 1 BV",
+            "RWE Renewables Belgium S.A.",
+            "Commerzbank AG"
+        ],
+        "Koordinaten": [
+            50.8465573,
+            4.351697
+        ]
+    },
+    {
+        "Land": "Belgien",
+        "Stadt": "Dilbeek",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            50.8480711,
+            4.2662591
+        ]
+    },
+    {
+        "Land": "Belgien",
+        "Stadt": "Gent",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            51.0538286,
+            3.7250121
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Barcelona",
+        "Firmen": [
+            "Puma SE",
+            "Covestro AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            41.3828939,
+            2.1774322
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Vitoria",
+        "Firmen": [
+            "Mercedes-Benz Werk Vitoria"
+        ],
+        "Koordinaten": [
+            42.8465088,
+            -2.6724025
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Munich Re Spain",
+            "Daimler Truck AG",
+            "Continental AG",
+            "Commerzbank AG",
+            "E.ON España S.L.",
+            "Linde Gas España S.A.",
+            "Grupo Hospitalario Quirónsalud",
+            "RWE Renewables Iberia S.A.U."
+        ],
+        "Koordinaten": [
+            40.4167047,
+            -3.7035825
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Tres Cantos",
+        "Firmen": [
+            "Beiersdorf Manufacturing Tres Cantos S.A."
+        ],
+        "Koordinaten": [
+            40.6065826,
+            -3.7065333
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Santander",
+        "Firmen": [
+            "E.ON Distribución Redes S.L."
+        ],
+        "Koordinaten": [
+            43.4618932,
+            -3.8100255
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Pamplona",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            42.81568595,
+            -1.6522353378580308
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Las Rozas de Madrid",
+        "Firmen": [
+            "QIAGEN Iberia S.L."
+        ],
+        "Koordinaten": [
+            40.4591227,
+            -3.7068667
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Getafe",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            40.3070639,
+            -3.7331808
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Sevilla",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            37.3886303,
+            -5.9953403
+        ]
+    },
+    {
+        "Land": "Spanien",
+        "Stadt": "Illescas",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            40.1248436,
+            -3.8492688
+        ]
+    },
+    {
+        "Land": "Thailand",
+        "Stadt": "Map Ta Phut",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            12.7136499,
+            101.1679092
+        ]
+    },
+    {
+        "Land": "Thailand",
+        "Stadt": "Bangplee",
+        "Firmen": [
+            "Beiersdorf Manufacturing Bangplee Co., Ltd."
+        ],
+        "Koordinaten": [
+            13.574081849999999,
+            100.79629195108728
+        ]
+    },
+    {
+        "Land": "Thailand",
+        "Stadt": "Bangkok",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Commerzbank AG",
+            "QIAGEN (Thailand) Ltd."
+        ],
+        "Koordinaten": [
+            13.7524938,
+            100.4935089
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Santa Clara",
+        "Firmen": [
+            "Covestro AG"
+        ],
+        "Koordinaten": [
+            24.48510505,
+            -103.36221712137362
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Santiago Tianguistenco",
+        "Firmen": [
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            19.1818062,
+            -99.4680167
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Saltillo",
+        "Firmen": [
+            "Daimler Truck North America"
+        ],
+        "Koordinaten": [
+            25.4230425,
+            -100.9927509
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Silao",
+        "Firmen": [
+            "Beiersdorf Manufacturing Silao S.A. de C.V.",
+            "Volkswagen AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            20.943727,
+            -101.427043
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Toluca",
+        "Firmen": [
+            "Symrise Mexicana SA de CV"
+        ],
+        "Koordinaten": [
+            19.292545,
+            -99.6569007
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Mexiko Stadt",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Symrise Mexicana SA de CV",
+            "RWE Renewables Mexico S.A. de C.V.",
+            "Hannover Re",
+            "Munich Re Mexico",
+            "Bayer AG",
+            "Commerzbank AG",
+            "QIAGEN Mexico S.A. de C.V.",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            19.4326296,
+            -99.1331785
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Puebla",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            18.833333,
+            -98.0
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Monterrey",
+        "Firmen": [
+            "Praxair México S.A. de C.V."
+        ],
+        "Koordinaten": [
+            25.6802019,
+            -100.315258
+        ]
+    },
+    {
+        "Land": "Mexiko",
+        "Stadt": "Guadalajara",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            20.6720375,
+            -103.338396
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Symrise Aromas e Fragrancias Ltda.",
+            "RWE Renewables Latin America Ltda.",
+            "QIAGEN Brazil Indústria e Comércio de Produtos de Biotecnologia Ltda.",
+            "Hannover Re",
+            "Bayer AG",
+            "Commerzbank AG",
+            "Covestro AG",
+            "Siemens Healthineers AG",
+            "Munich Re Brazil",
+            "Symrise Brazil Ltda.",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            -23.5506507,
+            -46.6333824
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "São Bernardo do Campo",
+        "Firmen": [
+            "Volkswagen AG",
+            "Mercedes-Benz do Brasil Ltda."
+        ],
+        "Koordinaten": [
+            -23.7080345,
+            -46.5506747
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Juiz de Fora",
+        "Firmen": [
+            "Mercedes-Benz do Brasil Ltda."
+        ],
+        "Koordinaten": [
+            -21.7609533,
+            -43.3501129
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Itatiba",
+        "Firmen": [
+            "Beiersdorf Manufacturing Itatiba Ltda."
+        ],
+        "Koordinaten": [
+            -23.0055542,
+            -46.8397726
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Cotia",
+        "Firmen": [
+            "Symrise Aromas e Fragrancias Ltda."
+        ],
+        "Koordinaten": [
+            -23.603889,
+            -46.918889
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Vinhedo",
+        "Firmen": [
+            "Symrise Aromas e Fragrancias Ltda."
+        ],
+        "Koordinaten": [
+            -23.0298535,
+            -46.9749847
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Sorocaba",
+        "Firmen": [
+            "Symrise Aromas e Fragrancias Ltda."
+        ],
+        "Koordinaten": [
+            -23.5003451,
+            -47.4582864
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Benevides",
+        "Firmen": [
+            "Symrise Aromas e Fragrancias Ltda."
+        ],
+        "Koordinaten": [
+            -1.3555577,
+            -48.252235
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Descalvado",
+        "Firmen": [
+            "SPF Do Brasil Indústria e Comércio Ltda."
+        ],
+        "Koordinaten": [
+            -21.9090404,
+            -47.6203241
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Curitiba",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            -25.4295963,
+            -49.2712724
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "São Carlos",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            -22.0180395,
+            -47.891154
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Barueri",
+        "Firmen": [
+            "Fresenius Kabi Brasil Ltda."
+        ],
+        "Koordinaten": [
+            -23.5112184,
+            -46.8764612
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Campinas",
+        "Firmen": [
+            "Fresenius Kabi Brasil Ltda."
+        ],
+        "Koordinaten": [
+            -22.9056391,
+            -47.059564
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Rio de Janeiro",
+        "Firmen": [
+            "Fresenius Medical Care AG & Co. KGaA"
+        ],
+        "Koordinaten": [
+            -22.9110137,
+            -43.2093727
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Guarulhos",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            -23.4675941,
+            -46.5277704
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Salto",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            -23.1989983,
+            -47.2913682
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Itajubá",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            -22.4238234,
+            -45.4524156
+        ]
+    },
+    {
+        "Land": "Brasilien",
+        "Stadt": "Nova Odessa",
+        "Firmen": [
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            -22.7805746,
+            -47.2993805
+        ]
+    },
+    {
+        "Land": "Ungarn",
+        "Stadt": "Kecskemét",
+        "Firmen": [
+            "Mercedes-Benz Werk Kecskemét"
+        ],
+        "Koordinaten": [
+            46.9073883,
+            19.6917206
+        ]
+    },
+    {
+        "Land": "Ungarn",
+        "Stadt": "Budapest",
+        "Firmen": [
+            "Linde Gáz Magyarország Zrt.",
+            "Commerzbank AG",
+            "Deutsche Telekom AG",
+            "E.ON Hungária Zrt.",
+            "Munich Re Hungary",
+            "RWE Renewables Hungary Kft."
+        ],
+        "Koordinaten": [
+            47.4978789,
+            19.0402383
+        ]
+    },
+    {
+        "Land": "Ungarn",
+        "Stadt": "Pécs",
+        "Firmen": [
+            "E.ON Energie Magyarország Zrt."
+        ],
+        "Koordinaten": [
+            46.0765092,
+            18.2280317
+        ]
+    },
+    {
+        "Land": "Ungarn",
+        "Stadt": "Győr",
+        "Firmen": [
+            "E.ON Észak-dunántúli Áramhálózati Zrt.",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            47.687609,
+            17.6346815
+        ]
+    },
+    {
+        "Land": "Ungarn",
+        "Stadt": "Székesfehérvár",
+        "Firmen": [
+            "E.ON Közép-dunántúli Gázhálózati Zrt."
+        ],
+        "Koordinaten": [
+            47.1910169,
+            18.410811
+        ]
+    },
+    {
+        "Land": "Ungarn",
+        "Stadt": "Tatabánya",
+        "Firmen": [
+            "E.ON Észak-dunántúli Gázhálózati Zrt."
+        ],
+        "Koordinaten": [
+            47.583845,
+            18.3979855
+        ]
+    },
+    {
+        "Land": "Ungarn",
+        "Stadt": "Gyöngyös",
+        "Firmen": [
+            "Linde Gáz Magyarország Zrt."
+        ],
+        "Koordinaten": [
+            47.7799838,
+            19.9291176
+        ]
+    },
+    {
+        "Land": "Südafrika",
+        "Stadt": "East London",
+        "Firmen": [
+            "Daimler Truck Southern Africa",
+            "Mercedes-Benz Werk East London"
+        ],
+        "Koordinaten": [
+            -33.0191604,
+            27.8998573
+        ]
+    },
+    {
+        "Land": "South Africa",
+        "Stadt": "Johannesburg",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Munich Reinsurance Company of Africa Limited",
+            "Hannover Re (South Africa) Ltd.",
+            "Bayer AG",
+            "Commerzbank AG",
+            "Linde Gas South Africa",
+            "Symrise Pty Ltd."
+        ],
+        "Koordinaten": [
+            -26.205,
+            28.049722
+        ]
+    },
+    {
+        "Land": "Südafrika",
+        "Stadt": "Uitenhage",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            -33.7678979,
+            25.3978174
+        ]
+    },
+    {
+        "Land": "Südafrika",
+        "Stadt": "Sandton",
+        "Firmen": [
+            "QIAGEN Ltd."
+        ],
+        "Koordinaten": [
+            -26.0682406,
+            28.0479844
+        ]
+    },
+    {
+        "Land": "Südafrika",
+        "Stadt": "Kapstadt",
+        "Firmen": [
+            "RWE Renewables South Africa (Pty) Ltd",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            -33.9288301,
+            18.4172197
+        ]
+    },
+    {
+        "Land": "Polen",
+        "Stadt": "Jawor",
+        "Firmen": [
+            "Mercedes-Benz Werk Jawor"
+        ],
+        "Koordinaten": [
+            51.0504653,
+            16.1932008
+        ]
+    },
+    {
+        "Land": "Polen",
+        "Stadt": "Gryfino",
+        "Firmen": [
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            53.2535889,
+            14.4924243
+        ]
+    },
+    {
+        "Land": "Polen",
+        "Stadt": "Olsztynek",
+        "Firmen": [
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            53.5834201,
+            20.2816198
+        ]
+    },
+    {
+        "Land": "Polen",
+        "Stadt": "Poznań",
+        "Firmen": [
+            "Beiersdorf Manufacturing Poznań Sp. z o.o.",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            52.4082663,
+            16.9335199
+        ]
+    },
+    {
+        "Land": "Polen",
+        "Stadt": "Warschau",
+        "Firmen": [
+            "RWE Renewables Polska Sp. z o.o.",
+            "Commerzbank AG",
+            "Deutsche Telekom AG",
+            "E.ON Polska S.A.",
+            "Munich Re Poland"
+        ],
+        "Koordinaten": [
+            52.2337172,
+            21.071432235636493
+        ]
+    },
+    {
+        "Land": "Polen",
+        "Stadt": "Września",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            52.3250694,
+            17.5652282
+        ]
+    },
+    {
+        "Land": "Polen",
+        "Stadt": "Wrocław",
+        "Firmen": [
+            "QIAGEN Wrocław Sp. z o.o."
+        ],
+        "Koordinaten": [
+            51.1263106,
+            16.97819633051261
+        ]
+    },
+    {
+        "Land": "Polen",
+        "Stadt": "Krakau",
+        "Firmen": [
+            "Linde Gaz Polska Sp zoo"
+        ],
+        "Koordinaten": [
+            50.0619474,
+            19.9368564
+        ]
+    },
+    {
+        "Land": "Argentinien",
+        "Stadt": "Buenos Aires",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Mercedes-Benz Argentina S.A.",
+            "SPF Argentina",
+            "Munich Re Argentina",
+            "Symrise S.R.L.",
+            "Hannover Re",
+            "Mercedes-Benz Werk Buenos Aires",
+            "Commerzbank AG",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            -34.6083696,
+            -58.4440583
+        ]
+    },
+    {
+        "Land": "Argentinien",
+        "Stadt": "General Pacheco",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            -34.568908300000004,
+            -58.4875866
+        ]
+    },
+    {
+        "Land": "Argentinien",
+        "Stadt": "Olivos",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            -34.5110708,
+            -58.4901197
+        ]
+    },
+    {
+        "Land": "Italien",
+        "Stadt": "Turin",
+        "Firmen": [
+            "Daimler Truck AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            45.0677551,
+            7.6824892
+        ]
+    },
+    {
+        "Land": "Italien",
+        "Stadt": "Nogarole Rocca",
+        "Firmen": [
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            45.291882,
+            10.883788
+        ]
+    },
+    {
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "E.ON Italia S.p.A.",
+            "Beiersdorf Manufacturing Milan S.p.A.",
+            "Continental AG",
+            "Commerzbank AG",
+            "Munich Re Italy - Münchener Rück Servizi Tecnici S.r.l.",
+            "QIAGEN S.r.l.",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            45.4641943,
+            9.1896346
+        ]
+    },
+    {
+        "Land": "Italien",
+        "Stadt": "Monza",
+        "Firmen": [
+            "Linde Gas Italia S.p.A."
+        ],
+        "Koordinaten": [
+            45.6395418,
+            9.278830418070044
+        ]
+    },
+    {
+        "Land": "Italien",
+        "Stadt": "Rom",
+        "Firmen": [
+            "RWE Renewables Italia S.p.A."
+        ],
+        "Koordinaten": [
+            41.8933203,
+            12.4829321
+        ]
+    },
+    {
+        "Land": "Finnland",
+        "Stadt": "Helsinki",
+        "Firmen": [
+            "Zalando SE",
+            "RWE Renewables Finland Oy",
+            "Munich Re Finland"
+        ],
+        "Koordinaten": [
+            60.1674881,
+            24.9427473
+        ]
+    },
+    {
+        "Land": "Finnland",
+        "Stadt": "Espoo",
+        "Firmen": [
+            "E.ON Gasgrid Finland Oy"
+        ],
+        "Koordinaten": [
+            60.2047672,
+            24.6568435
+        ]
+    },
+    {
+        "Land": "Schweden",
+        "Stadt": "Stockholm",
+        "Firmen": [
+            "Linde Gas AB",
+            "Munich Re Sweden",
+            "Hannover Re (Sweden) AB",
+            "Zalando SE",
+            "E.ON Renewables Sweden AB",
+            "Vonovia SE"
+        ],
+        "Koordinaten": [
+            59.3251172,
+            18.0710935
+        ]
+    },
+    {
+        "Land": "Schweden",
+        "Stadt": "Brunna",
+        "Firmen": [
+            "Zalando SE"
+        ],
+        "Koordinaten": [
+            59.503435,
+            17.7507322
+        ]
+    },
+    {
+        "Land": "Schweden",
+        "Stadt": "Solna",
+        "Firmen": [
+            "Beiersdorf Manufacturing Solna AB"
+        ],
+        "Koordinaten": [
+            59.366667,
+            18.016667
+        ]
+    },
+    {
+        "Land": "Schweden",
+        "Stadt": "Malmö",
+        "Firmen": [
+            "E.ON Sverige AB",
+            "RWE Renewables Sweden AB"
+        ],
+        "Koordinaten": [
+            55.6052931,
+            13.0001566
+        ]
+    },
+    {
+        "Land": "Schweden",
+        "Stadt": "Umeå",
+        "Firmen": [
+            "Sartorius Stedim Data Analytics AB"
+        ],
+        "Koordinaten": [
+            63.8256568,
+            20.2630745
+        ]
+    },
+    {
+        "Land": "Schweden",
+        "Stadt": "Sollentuna",
+        "Firmen": [
+            "QIAGEN AB"
+        ],
+        "Koordinaten": [
+            59.4293164,
+            17.9500556
+        ]
+    },
+    {
+        "Land": "Schweden",
+        "Stadt": "Helsingborg",
+        "Firmen": [
+            "Linde Gas Holding AB"
+        ],
+        "Koordinaten": [
+            56.0442098,
+            12.703706
+        ]
+    },
+    {
+        "Land": "Schweden",
+        "Stadt": "Lidingö",
+        "Firmen": [
+            "Linde Gas AB"
+        ],
+        "Koordinaten": [
+            59.3669445,
+            18.1820897
+        ]
+    },
+    {
+        "Land": "Nigeria",
+        "Stadt": "Lagos",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Beiersdorf Manufacturing Lagos Ltd."
+        ],
+        "Koordinaten": [
+            6.4550575,
+            3.3941795
+        ]
+    },
+    {
+        "Land": "Russland",
+        "Stadt": "St. Petersburg",
+        "Firmen": [
+            "Beiersdorf Manufacturing St. Petersburg LLC"
+        ],
+        "Koordinaten": [
+            59.9606739,
+            30.1586551
+        ]
+    },
+    {
+        "Land": "Russland",
+        "Stadt": "Moskau",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Munich Re Moscow Representative Office",
+            "Hannover Re",
+            "Bayer AG",
+            "Commerzbank AG",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            55.625578,
+            37.6063916
+        ]
+    },
+    {
+        "Land": "Russland",
+        "Stadt": "Kaluga",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            54.5101087,
+            36.2598115
+        ]
+    },
+    {
+        "Land": "Slowakei",
+        "Stadt": "Bratislava",
+        "Firmen": [
+            "Porsche AG",
+            "Munich Re Slovakia",
+            "E.ON Energie Slovensko, s.r.o.",
+            "RWE Renewables Slovakia s.r.o.",
+            "Deutsche Telekom AG",
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            48.1516988,
+            17.1093063
+        ]
+    },
+    {
+        "Land": "Slowakei",
+        "Stadt": "Nováky",
+        "Firmen": [
+            "E.ON Elektrárne s.r.o."
+        ],
+        "Koordinaten": [
+            48.7164472,
+            18.5408304
+        ]
+    },
+    {
+        "Land": "Slowakei",
+        "Stadt": "Košice",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            48.7172272,
+            21.2496774
+        ]
+    },
+    {
+        "Land": "Australien",
+        "Stadt": "Sydney",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Airbus SE",
+            "RWE Renewables Australia Pty Ltd",
+            "Linde Gas Pty Ltd",
+            "Munich Re Australia Branch",
+            "Hannover Re",
+            "Bayer AG",
+            "Commerzbank AG",
+            "Symrise Pty Limited",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            -33.8698439,
+            151.2082848
+        ]
+    },
+    {
+        "Land": "Australien",
+        "Stadt": "Brisbane",
+        "Firmen": [
+            "SAP SE",
+            "Rheinmetall AG"
+        ],
+        "Koordinaten": [
+            -27.4689682,
+            153.0234991
+        ]
+    },
+    {
+        "Land": "Australien",
+        "Stadt": "Dandenong South",
+        "Firmen": [
+            "Sartorius Stedim Australia Pty. Ltd."
+        ],
+        "Koordinaten": [
+            -38.0279936,
+            145.2209236
+        ]
+    },
+    {
+        "Land": "Australien",
+        "Stadt": "Melbourne",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "RWE Renewables Australia Pty Ltd",
+            "QIAGEN Pty Ltd."
+        ],
+        "Koordinaten": [
+            -37.8142454,
+            144.9631732
+        ]
+    },
+    {
+        "Land": "Australien",
+        "Stadt": "Bayswater",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            -31.909036,
+            115.90391349431482
+        ]
+    },
+    {
+        "Land": "Australien",
+        "Stadt": "Clayton",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            -37.9142211,
+            145.1268559
+        ]
+    },
+    {
+        "Land": "Ägypten",
+        "Stadt": "Gize",
+        "Firmen": [
+            "Symrise SAE"
+        ],
+        "Koordinaten": [
+            29.054035749999997,
+            29.419080730368712
+        ]
+    },
+    {
+        "Land": "Ägypten",
+        "Stadt": "Kairo",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Munich Re Egypt",
+            "QIAGEN Egypt LLC"
+        ],
+        "Koordinaten": [
+            30.0443879,
+            31.2357257
+        ]
+    },
+    {
+        "Land": "Chile",
+        "Stadt": "Buin",
+        "Firmen": [
+            "Diana Food Chile SpA"
+        ],
+        "Koordinaten": [
+            -33.7319741,
+            -70.7419619
+        ]
+    },
+    {
+        "Land": "Chile",
+        "Stadt": "Huechuraba",
+        "Firmen": [
+            "Symrise S.A."
+        ],
+        "Koordinaten": [
+            -33.3744615,
+            -70.6362988
+        ]
+    },
+    {
+        "Land": "Chile",
+        "Stadt": "Santiago",
+        "Firmen": [
+            "Munich Re Chile",
+            "Deutsche Bank AG",
+            "RWE Renewables Chile SpA",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            -33.4377756,
+            -70.6504502
+        ]
+    },
+    {
+        "Land": "Costa Rica",
+        "Stadt": "Cañas",
+        "Firmen": [
+            "Aquasea Costa Rica, S.A."
+        ],
+        "Koordinaten": [
+            10.446361,
+            -85.09342257628651
+        ]
+    },
+    {
+        "Land": "Peru",
+        "Stadt": "Lima",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Munich Re Peru",
+            "Symrise Peru S.A.C.",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            -12.0621065,
+            -77.0365256
+        ]
+    },
+    {
+        "Land": "Kolumbien",
+        "Stadt": "Bogotá",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Munich Re Colombia",
+            "Symrise Colombia S.A.S."
+        ],
+        "Koordinaten": [
+            4.6533816,
+            -74.0836333
+        ]
+    },
+    {
+        "Land": "Venezuela",
+        "Stadt": "Caracas",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Symrise Andina C.A."
+        ],
+        "Koordinaten": [
+            10.5060934,
+            -66.9146008
+        ]
+    },
+    {
+        "Land": "Kanada",
+        "Stadt": "Mississauga",
+        "Firmen": [
+            "Bayer AG",
+            "Symrise Inc.",
+            "Praxair Canada Inc"
+        ],
+        "Koordinaten": [
+            43.5896231,
+            -79.6443879
+        ]
+    },
+    {
+        "Land": "Kanada",
+        "Stadt": "Toronto",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "RWE Renewables Canada Ltd.",
+            "Continental AG",
+            "Hannover Re",
+            "Commerzbank AG",
+            "QIAGEN Canada, Inc.",
+            "Munich Re Canada Branch"
+        ],
+        "Koordinaten": [
+            43.6534817,
+            -79.3839347
+        ]
+    },
+    {
+        "Land": "Kanada",
+        "Stadt": "Chatham-Kent",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            42.41833,
+            -82.0898417
+        ]
+    },
+    {
+        "Land": "Kanada",
+        "Stadt": "Mirabel",
+        "Firmen": [
+            "Airbus SE"
+        ],
+        "Koordinaten": [
+            45.6452452,
+            -74.0731738
+        ]
+    },
+    {
+        "Land": "Dänemark",
+        "Stadt": "Kopenhagen",
+        "Firmen": [
+            "RWE Renewables Denmark A/S",
+            "E.ON Danmark A/S",
+            "Munich Re Denmark"
+        ],
+        "Koordinaten": [
+            55.6867243,
+            12.5700724
+        ]
+    },
+    {
+        "Land": "Dänemark",
+        "Stadt": "Brande",
+        "Firmen": [
+            "Siemens Gamesa Renewable Energy"
+        ],
+        "Koordinaten": [
+            55.9445468,
+            9.1282868
+        ]
+    },
+    {
+        "Land": "Dänemark",
+        "Stadt": "Aalborg",
+        "Firmen": [
+            "Siemens Gamesa Renewable Energy"
+        ],
+        "Koordinaten": [
+            57.0462626,
+            9.9215263
+        ]
+    },
+    {
+        "Land": "Norwegen",
+        "Stadt": "Oslo",
+        "Firmen": [
+            "Linde Gas Norge AS",
+            "RWE Renewables Norway AS",
+            "Munich Re Norway",
+            "E.ON Energie Norge AS"
+        ],
+        "Koordinaten": [
+            59.9133301,
+            10.7389701
+        ]
+    },
+    {
+        "Land": "Israel",
+        "Stadt": "Ra'anana",
+        "Firmen": [
+            "SAP SE"
+        ],
+        "Koordinaten": [
+            32.1860244,
+            34.8678359
+        ]
+    },
+    {
+        "Land": "Israel",
+        "Stadt": "Tel Aviv",
+        "Firmen": [
+            "Munich Re Israel"
+        ],
+        "Koordinaten": [
+            32.0852997,
+            34.7818064
+        ]
+    },
+    {
+        "Land": "Bulgarien",
+        "Stadt": "Sofia",
+        "Firmen": [
+            "SAP SE",
+            "Munich Re Bulgaria",
+            "RWE Renewables Bulgaria EOOD"
+        ],
+        "Koordinaten": [
+            42.6977028,
+            23.3217359
+        ]
+    },
+    {
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Firmen": [
+            "Munich Re Korea Branch",
+            "Deutsche Bank AG",
+            "Sartorius Stedim Korea Co., Ltd.",
+            "QIAGEN Korea Ltd.",
+            "Continental AG",
+            "Hannover Re",
+            "Commerzbank AG",
+            "Praxair Korea Co., Ltd.",
+            "RWE Renewables Korea Co., Ltd.",
+            "Puma SE"
+        ],
+        "Koordinaten": [
+            37.5666791,
+            126.9782914
+        ]
+    },
+    {
+        "Land": "Südkorea",
+        "Stadt": "Ansan",
+        "Firmen": [
+            "BASF SE"
+        ],
+        "Koordinaten": [
+            37.3217152,
+            126.8308604
+        ]
+    },
+    {
+        "Land": "Südkorea",
+        "Stadt": "Daegu",
+        "Firmen": [
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            35.8713,
+            128.6018
+        ]
+    },
+    {
+        "Land": "Philippinen",
+        "Stadt": "Manila",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Commerzbank AG"
+        ],
+        "Koordinaten": [
+            14.5904492,
+            120.9803621
+        ]
+    },
+    {
+        "Land": "Philippinen",
+        "Stadt": "Taguig City",
+        "Firmen": [
+            "QIAGEN Philippines Inc."
+        ],
+        "Koordinaten": [
+            14.5086059,
+            121.03762949832796
+        ]
+    },
+    {
+        "Land": "Philippinen",
+        "Stadt": "Makati City",
+        "Firmen": [
+            "Linde Philippines Inc."
+        ],
+        "Koordinaten": [
+            14.5567949,
+            121.0211226
+        ]
+    },
+    {
+        "Land": "Neuseeland",
+        "Stadt": "Auckland",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Commerzbank AG",
+            "Hannover Re"
+        ],
+        "Koordinaten": [
+            -36.852095,
+            174.7631803
+        ]
+    },
+    {
+        "Land": "Slowenien",
+        "Stadt": "Ajdovščina",
+        "Firmen": [
+            "Sartorius BIA Separations d.o.o."
+        ],
+        "Koordinaten": [
+            45.8885557,
+            13.9048561
+        ]
+    },
+    {
+        "Land": "Slowenien",
+        "Stadt": "Ljubljana",
+        "Firmen": [
+            "Munich Re Slovenia"
+        ],
+        "Koordinaten": [
+            46.0500268,
+            14.5069289
+        ]
+    },
+    {
+        "Land": "Puerto Rico",
+        "Stadt": "Yauco",
+        "Firmen": [
+            "Sartorius Stedim Filters, Inc."
+        ],
+        "Koordinaten": [
+            18.06305045,
+            -66.86292807125642
+        ]
+    },
+    {
+        "Land": "Tschechien",
+        "Stadt": "Mladá Boleslav",
+        "Firmen": [
+            "Volkswagen AG"
+        ],
+        "Koordinaten": [
+            50.4116187,
+            14.9031301
+        ]
+    },
+    {
+        "Land": "Marokko",
+        "Stadt": "Tanger",
+        "Firmen": [
+            "Siemens Gamesa Renewable Energy"
+        ],
+        "Koordinaten": [
+            35.7696302,
+            -5.8033522
+        ]
+    },
+    {
+        "Land": "Saudi Arabien",
+        "Stadt": "Riad",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Munich Re Saudi Arabia"
+        ],
+        "Koordinaten": [
+            23.333333,
+            45.333333
+        ]
+    },
+    {
+        "Land": "Kenia",
+        "Stadt": "Nairobi",
+        "Firmen": [
+            "Deutsche Bank AG"
+        ],
+        "Koordinaten": [
+            -1.3026148499999999,
+            36.82884201813725
+        ]
+    },
+    {
+        "Land": "Afghanistan",
+        "Stadt": "Kabul",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            34.5227939,
+            69.1742023
+        ]
+    },
+    {
+        "Land": "Algerien",
+        "Stadt": "Hydra",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            36.7474259,
+            3.0401832
+        ]
+    },
+    {
+        "Land": "Bahrain",
+        "Stadt": "Bahrain",
+        "Firmen": [
+            "Siemens Healthineers AG"
+        ],
+        "Koordinaten": [
+            26.030093,
+            50.553336789123236
+        ]
+    },
+    {
+        "Land": "Bangladesch",
+        "Stadt": "Dhaka",
+        "Firmen": [
+            "Siemens Healthineers AG",
+            "Linde Bangladesh Limited"
+        ],
+        "Koordinaten": [
+            23.7544529,
+            90.393336
+        ]
+    },
+    {
+        "Land": "Kasachstan",
+        "Stadt": "Almaty",
+        "Firmen": [
+            "Munich Re Kazakhstan"
+        ],
+        "Koordinaten": [
+            43.2363924,
+            76.9457275
+        ]
+    },
+    {
+        "Land": "Kroatien",
+        "Stadt": "Zagreb",
+        "Firmen": [
+            "Munich Re Croatia",
+            "Deutsche Telekom AG",
+            "RWE Renewables Croatia d.o.o."
+        ],
+        "Koordinaten": [
+            45.8130967,
+            15.9772795
+        ]
+    },
+    {
+        "Land": "Griechenland",
+        "Stadt": "Athen",
+        "Firmen": [
+            "RWE Renewables Greece S.A.",
+            "Munich Re Greece",
+            "Deutsche Telekom AG"
+        ],
+        "Koordinaten": [
+            37.9755648,
+            23.7348324
+        ]
+    },
+    {
+        "Land": "Serbien",
+        "Stadt": "Belgrad",
+        "Firmen": [
+            "Munich Re Serbia"
+        ],
+        "Koordinaten": [
+            44.8178131,
+            20.4568974
+        ]
+    },
+    {
+        "Land": "Weißrussland",
+        "Stadt": "Minsk",
+        "Firmen": [
+            "Munich Re Belarus"
+        ],
+        "Koordinaten": [
+            53.9024716,
+            27.5618225
+        ]
+    },
+    {
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Firmen": [
+            "Deutsche Bank AG",
+            "Linde Japan Ltd.",
+            "Airbus SE",
+            "Hannover Re",
+            "QIAGEN K.K.",
+            "Commerzbank AG",
+            "Munich Re Japan Services Co., Ltd.",
+            "Symrise K.K.",
+            "Sartorius Stedim Japan K.K.",
+            "RWE Renewables Japan G.K.",
+            "Puma SE",
+            "Infineon Technologies Japan K.K."
+        ],
+        "Koordinaten": [
+            35.6768601,
+            139.7638947
+        ]
+    },
+    {
+        "Land": "China",
+        "Stadt": "Tianjin",
+        "Firmen": [
+            "Airbus SE",
+            "Volkswagen AG",
+            "Continental AG"
+        ],
+        "Koordinaten": [
+            39.3032619,
+            117.4163641
+        ]
+    },
+    {
+        "Land": "Türkei",
+        "Stadt": "Istanbul",
+        "Firmen": [
+            "Mercedes-Benz Türk A.Ş.",
+            "Deutsche Bank AG",
+            "Munich Re Turkey",
+            "Rheinmetall AG",
+            "Hannover Re",
+            "RWE Renewables Turkey Enerji A.Ş."
+        ],
+        "Koordinaten": [
+            41.0766019,
+            29.052495
+        ]
+    },
+    {
+        "Land": "Bermuda",
+        "Stadt": "Hamilton",
+        "Firmen": [
+            "Hannover Re (Bermuda) Ltd."
+        ],
+        "Koordinaten": [
+            32.2942679,
+            -64.7853167
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Deutschland",
+        "Stadt": "Bochum",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Deutschland",
+        "Stadt": "Dresden",
+        "Art des Standortes": "Regionalbüro"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Regionalbüro"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Deutschland",
+        "Stadt": "Hannover",
+        "Art des Standortes": "Regionalbüro"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Deutschland",
+        "Stadt": "Kiel",
+        "Art des Standortes": "Regionalbüro"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Regionalbüro"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart",
+        "Art des Standortes": "Regionalbüro"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Art des Standortes": "Landesgesellschaft"
+    },
+    {
+        "Unternehmen": "Vonovia SE",
+        "Land": "Schweden",
+        "Stadt": "Stockholm",
+        "Art des Standortes": "Landesgesellschaft"
+    }
+]

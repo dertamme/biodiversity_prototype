@@ -1,0 +1,176 @@
+[
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Leverkusen",
+        "Art des Standortes": "Konzernzentrale, Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Pharmaceuticals-Zentrale, Forschung, Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Monheim am Rhein",
+        "Art des Standortes": "Crop Science-Zentrale"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Wuppertal",
+        "Art des Standortes": "Forschung, Entwicklung"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Dormagen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt",
+        "Art des Standortes": "Forschung, Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Knapsack",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Bergkamen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Bitterfeld",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Grenzach",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Jena",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Weimar",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Deutschland",
+        "Stadt": "Wuppertal",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Schweiz",
+        "Stadt": "Basel",
+        "Art des Standortes": "Consumer Health-Zentrale"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "USA",
+        "Stadt": "Whippany",
+        "Art des Standortes": "Pharmaceuticals-Zentrale USA"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "USA",
+        "Stadt": "St. Louis",
+        "Art des Standortes": "Crop Science-Zentrale USA"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "USA",
+        "Stadt": "Berkeley",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Pharmaceuticals-Zentrale China"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Art des Standortes": "Crop Science-Zentrale Lateinamerika"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Indien",
+        "Stadt": "Thane",
+        "Art des Standortes": "Pharmaceuticals-Zentrale Indien"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Japan",
+        "Stadt": "Osaka",
+        "Art des Standortes": "Pharmaceuticals-Zentrale Japan"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Japan",
+        "Stadt": "Yuki",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Mexiko",
+        "Stadt": "Mexiko-Stadt",
+        "Art des Standortes": "Pharmaceuticals-Zentrale Mexiko"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Russland",
+        "Stadt": "Moskau",
+        "Art des Standortes": "Pharmaceuticals-Zentrale Russland"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Südafrika",
+        "Stadt": "Johannesburg",
+        "Art des Standortes": "Pharmaceuticals-Zentrale Südafrika"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Australien",
+        "Stadt": "Sydney",
+        "Art des Standortes": "Pharmaceuticals-Zentrale Australien"
+    },
+    {
+        "Unternehmen": "Bayer AG",
+        "Land": "Kanada",
+        "Stadt": "Mississauga",
+        "Art des Standortes": "Pharmaceuticals-Zentrale Kanada"
+    }
+]

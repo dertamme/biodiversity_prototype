@@ -1,0 +1,104 @@
+[
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Düsseldorf",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Bremen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Kassel",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Kiel",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Neckarsulm",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Neuss",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Unterlüß",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Oberndorf",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Deutschland",
+        "Stadt": "Stockach",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Schweiz",
+        "Stadt": "Zürich",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Schweiz",
+        "Stadt": "Studen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Schweiz",
+        "Stadt": "Altdorf",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Australien",
+        "Stadt": "Brisbane",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Brasilien",
+        "Stadt": "Nova Odessa",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Rheinmetall AG",
+        "Land": "Türkei",
+        "Stadt": "Istanbul",
+        "Art des Standortes": "Produktion"
+    }
+]

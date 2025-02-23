@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_964c09c4ad0d828ccca5ca5eca894cd4 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_964c09c4ad0d828ccca5ca5eca894cd4" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_964c09c4ad0d828ccca5ca5eca894cd4 = L.map(
+                "map_964c09c4ad0d828ccca5ca5eca894cd4",
+                {
+                    center: [51.8151922, 11.2971966],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 11,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_a79d30c9151725a6a288036fd0916f4d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_a79d30c9151725a6a288036fd0916f4d.addTo(map_964c09c4ad0d828ccca5ca5eca894cd4);
+        
+    
+            map_964c09c4ad0d828ccca5ca5eca894cd4.fitBounds(
+                [[51.794401, 11.2422004], [51.8359834, 11.3521928]],
+                {}
+            );
+        
+    
+
+        function geo_json_cb32257387973f052b2c53c93ec2ac37_onEachFeature(feature, layer) {
+            layer.on({
+            });
+        };
+        var geo_json_cb32257387973f052b2c53c93ec2ac37 = L.geoJson(null, {
+                onEachFeature: geo_json_cb32257387973f052b2c53c93ec2ac37_onEachFeature,
+            
+        });
+
+        function geo_json_cb32257387973f052b2c53c93ec2ac37_add (data) {
+            geo_json_cb32257387973f052b2c53c93ec2ac37
+                .addData(data);
+        }
+            geo_json_cb32257387973f052b2c53c93ec2ac37_add({"coordinates": [[[11.2422004, 51.8077704], [11.2422869, 51.807742], [11.2425703, 51.8075532], [11.2431089, 51.8071432], [11.2440041, 51.8064714], [11.2457801, 51.8051349], [11.2475612, 51.8038265], [11.2490416, 51.8025689], [11.2493483, 51.8022799], [11.2494461, 51.8022178], [11.2495203, 51.8021831], [11.2497452, 51.8022111], [11.249618, 51.8023036], [11.2495721, 51.8023427], [11.2495852, 51.8023511], [11.2496409, 51.8023569], [11.2496551, 51.802363], [11.2498452, 51.8022258], [11.2499368, 51.8022387], [11.2499581, 51.8023056], [11.2499384, 51.8023714], [11.2501409, 51.802367], [11.2565295, 51.803273], [11.2569247, 51.8033702], [11.261911, 51.8039031], [11.2623002, 51.8039041], [11.2630524, 51.8039349], [11.2631725, 51.8039446], [11.2641233, 51.8040088], [11.2642653, 51.8039234], [11.2644427, 51.8040621], [11.2645312, 51.8040679], [11.265286, 51.8046973], [11.266038, 51.8053205], [11.2668373, 51.8059826], [11.2671473, 51.8062371], [11.267489, 51.8065327], [11.2675567, 51.806609], [11.2675992, 51.8066458], [11.2681435, 51.8064956], [11.2705287, 51.8059485], [11.272518, 51.8052367], [11.2733303, 51.8050624], [11.2745229, 51.8048016], [11.2758975, 51.8044095], [11.2759295, 51.8044651], [11.2761544, 51.8044317], [11.2764726, 51.8044236], [11.2765954, 51.8044354], [11.2766587, 51.8045417], [11.2767626, 51.8045138], [11.2780905, 51.806448], [11.2795208, 51.8085634], [11.2863583, 51.8067087], [11.2891737, 51.8059356], [11.2899267, 51.8038876], [11.2900492, 51.8035635], [11.2900787, 51.8034799], [11.2900813, 51.8034659], [11.2901164, 51.8034596], [11.2902144, 51.8034589], [11.2904374, 51.80347], [11.290504, 51.8035091], [11.2915111, 51.8034303], [11.2923271, 51.803342], [11.293942, 51.8031293], [11.2944334, 51.8030341], [11.2953576, 51.8028998], [11.2959066, 51.8028221], [11.2966068, 51.802736], [11.2969579, 51.8026815], [11.2980905, 51.8025049], [11.2997137, 51.8022503], [11.3004193, 51.8021227], [11.3009545, 51.8020201], [11.3019171, 51.8018438], [11.3036178, 51.8015156], [11.3050193, 51.8012363], [11.3050806, 51.80109], [11.3050565, 51.8010211], [11.3056256, 51.800894], [11.3055831, 51.8009985], [11.3060175, 51.8009038], [11.3060499, 51.8009105], [11.3061792, 51.8009582], [11.3083094, 51.8004954], [11.3104358, 51.7999205], [11.3112795, 51.7996869], [11.3134931, 51.7990356], [11.3136546, 51.798956], [11.3150418, 51.7985376], [11.3159357, 51.7982646], [11.3181158, 51.7975668], [11.3211561, 51.7965459], [11.3225507, 51.7960704], [11.3225137, 51.7959592], [11.3228328, 51.7958486], [11.3231144, 51.7957976], [11.3233037, 51.7957518], [11.3233807, 51.7957328], [11.3235417, 51.7956844], [11.3241811, 51.7954732], [11.3248538, 51.7952439], [11.3251284, 51.7951173], [11.3271944, 51.794401], [11.3272968, 51.7944859], [11.327251, 51.7945198], [11.3273151, 51.7945471], [11.3273775, 51.7945976], [11.3278143, 51.7950206], [11.3279109, 51.7951497], [11.32793, 51.7952043], [11.3282703, 51.7955177], [11.3284509, 51.7956242], [11.3286298, 51.795758], [11.3287463, 51.7958563], [11.3292505, 51.7963338], [11.3296682, 51.7967394], [11.330021, 51.7971181], [11.3302806, 51.7973548], [11.3309612, 51.7980474], [11.3251188, 51.8013154], [11.3256005, 51.8016485], [11.3264011, 51.8022086], [11.3271757, 51.802786], [11.3279449, 51.8024678], [11.3293535, 51.8038489], [11.3284144, 51.804118], [11.3267937, 51.804592], [11.3265271, 51.8046675], [11.3266134, 51.8047611], [11.3269651, 51.805142], [11.3254113, 51.8057789], [11.3233869, 51.8065844], [11.3211039, 51.8074967], [11.320369, 51.8077997], [11.3196395, 51.8081215], [11.3186235, 51.808617], [11.3190957, 51.8087991], [11.3195519, 51.808476], [11.3199286, 51.8082955], [11.3205546, 51.8080955], [11.3208995, 51.8079446], [11.3214884, 51.8085727], [11.3234009, 51.8106638], [11.3246397, 51.8120086], [11.3252286, 51.8126581], [11.3270032, 51.8145768], [11.3259793, 51.8149556], [11.3245133, 51.8155018], [11.3241702, 51.8156296], [11.3241118, 51.815651], [11.3230455, 51.816042], [11.322885, 51.8160814], [11.32295, 51.8162175], [11.3227378, 51.8162454], [11.3220162, 51.8162905], [11.321369, 51.8163331], [11.3212921, 51.816356], [11.3167568, 51.816628], [11.3175631, 51.8183436], [11.3183147, 51.8200587], [11.3179473, 51.8201425], [11.3179473, 51.8204045], [11.3168172, 51.8207259], [11.3158057, 51.821166], [11.3168326, 51.8212522], [11.3457609, 51.8211171], [11.3492079, 51.8214733], [11.3497956, 51.8213895], [11.3513466, 51.8209548], [11.3521928, 51.8235144], [11.3400705, 51.8245121], [11.3376011, 51.8244073], [11.3377028, 51.8244981], [11.3356798, 51.8252245], [11.3279245, 51.8279932], [11.3260439, 51.827989], [11.3227681, 51.8307591], [11.3215591, 51.8305082], [11.3205359, 51.8301934], [11.3166759, 51.8277671], [11.314845, 51.8266495], [11.3131089, 51.8255736], [11.3129217, 51.8255159], [11.3125455, 51.825423], [11.3101167, 51.8319595], [11.3095467, 51.8318475], [11.3089696, 51.8317275], [11.3087584, 51.8330927], [11.3086234, 51.8339716], [11.3084861, 51.8348856], [11.3086354, 51.8354058], [11.3034289, 51.8359834], [11.29673, 51.8308582], [11.2964798, 51.8295639], [11.2964375, 51.8293472], [11.296296, 51.8291118], [11.296053, 51.8288092], [11.2959018, 51.8287098], [11.2957265, 51.828632], [11.2953661, 51.828431], [11.2952138, 51.8284684], [11.2957313, 51.8286784], [11.2958958, 51.8287703], [11.2962174, 51.8291694], [11.2964049, 51.8296342], [11.2966818, 51.8308609], [11.2932028, 51.8312545], [11.2929342, 51.8307591], [11.2928341, 51.8305577], [11.2927994, 51.8304496], [11.2927245, 51.8302586], [11.2923208, 51.8298081], [11.292298, 51.8300305], [11.2923107, 51.8300548], [11.2923071, 51.8301381], [11.2921884, 51.8303526], [11.2917148, 51.8303833], [11.2914849, 51.829559], [11.2918025, 51.8295159], [11.2920884, 51.8294836], [11.2919459, 51.8293458], [11.2917266, 51.8291731], [11.2914066, 51.8292182], [11.2913343, 51.8291231], [11.2899227, 51.8293431], [11.2889897, 51.8295086], [11.2886106, 51.8296808], [11.2885459, 51.8295487], [11.2882897, 51.8296826], [11.2874691, 51.8298206], [11.2872927, 51.829803], [11.2871358, 51.8297339], [11.2834206, 51.8312813], [11.2814754, 51.8320915], [11.2812949, 51.8321182], [11.2811506, 51.8320781], [11.2795433, 51.8327704], [11.2787077, 51.8320643], [11.2790288, 51.8320623], [11.2792325, 51.8318454], [11.2791887, 51.8318071], [11.2792106, 51.8317791], [11.277723, 51.8297713], [11.2756927, 51.8308653], [11.2759817, 51.8311318], [11.2761524, 51.8312243], [11.2764386, 51.831377], [11.276479, 51.8315071], [11.2764396, 51.8315399], [11.2764438, 51.8315639], [11.2764223, 51.8315973], [11.2762513, 51.8316688], [11.2760655, 51.8316821], [11.2759105, 51.8316834], [11.2757888, 51.8317305], [11.2757669, 51.8317622], [11.2758817, 51.8318602], [11.2759709, 51.8319736], [11.2758644, 51.8320766], [11.2757421, 51.832162], [11.2755068, 51.8322792], [11.2752817, 51.8323841], [11.2749848, 51.8324594], [11.2748027, 51.8325442], [11.2746313, 51.8325916], [11.2743794, 51.8327054], [11.2741052, 51.8327758], [11.2738353, 51.8328462], [11.2736296, 51.8328455], [11.2735427, 51.8328677], [11.2731402, 51.833078], [11.2727664, 51.8329361], [11.2723729, 51.8327859], [11.2709001, 51.8332587], [11.2710323, 51.8334784], [11.2694471, 51.8337268], [11.2681982, 51.8341288], [11.2669666, 51.8345251], [11.2665414, 51.8340084], [11.2660974, 51.8334646], [11.2669256, 51.8329966], [11.2639046, 51.8274673], [11.2619256, 51.828618], [11.2612641, 51.828029], [11.2591686, 51.8261299], [11.2589619, 51.8255486], [11.2581546, 51.8233429], [11.2579935, 51.8232004], [11.2539738, 51.8196536], [11.254135, 51.8193969], [11.2543888, 51.8185396], [11.2553049, 51.8163019], [11.2559597, 51.8147873], [11.2567286, 51.8128354], [11.2565786, 51.812787], [11.2565878, 51.8127717], [11.242269, 51.8079171], [11.2423628, 51.807824], [11.2422004, 51.8077704]]], "type": "Polygon"});
+        geo_json_cb32257387973f052b2c53c93ec2ac37.setStyle(function(feature) {return feature.properties.style;});
+
+        
+    
+            geo_json_cb32257387973f052b2c53c93ec2ac37.addTo(map_964c09c4ad0d828ccca5ca5eca894cd4);
+        
+    
+            var tile_layer_0f9f23b0d1fa1b966c69a4688e7f25be = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/59a18ec51f05dd0ff5c1086c9d52f503-58f50f48a4a9450e032313cc2cf50944/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI 2017", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_545844a137cac347784ef0f91a881124 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/16146eb39fcf56fd9635627279360df7-a142efaeb163d6eeedc01eceae84a920/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI 2017", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_661f54f572c999d1207ee52db8fe3234 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/3ada6bec2e4557bfd801dd70c79c5729-6242d6c32d46c5881ac7e38786b9318a/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI 2017", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_ce1daa9ec4a624bb4984e20c35272c8f = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/745eff9c0e10b16655b0af04ffcb9a3e-f46a2437cb323f418e917b8f66793f77/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI 2018", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_0eb6483d94cedcd2975a9ab9cd52622f = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/bc15c72eeb6f9e7a97c52f5b619ae129-2d521b851ca0b129d8b83a1ba930d2e0/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI 2018", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_88c42dd68618725daa5f9e09cd62f5f8 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/82bd99d6db2273e9ea08cadb81a1954c-2592821d99556afe368cd812b4cf91c4/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI 2018", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_e81d7026f9ec78a32426833f590dd305 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/0044d955523fb31d298a7ec57aefd591-b9b3c6f1364ab8660e5df06e427306df/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI 2019", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_c573ee2b99012da6e2209a9d60beb280 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/aad50732976d29a3edbd41ea17ecd842-48b4530e3db25c037dbd3a3e6d4b4842/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI 2019", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_f1fb0dede869c4519690b1340ec7c056 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/f16bfbf203fc129394d26f8853629a03-f945822f01253e808428fc1c100481d5/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI 2019", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_3e22bcbb3632ef50c609a2a4362f8a6f = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/9772d6c0898f378f8a3c69a5801cdf03-7fd16a4462c258aa0ed0da040b64af6c/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI 2020", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_3359a85d177971440db90e3f73373a4c = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/59e0bda126371a2a7ee3474fdc71d602-f724dcde62f4cf9bcd4b3494c73d859f/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI 2020", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_580c7e596673e78b9885448079a7e433 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/675a76a16c0ef65e3d75b8e49777a722-ed823685308d663eccf6d33c814f029d/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI 2020", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_7fdbbb2c23d7caf43ffab012f879ad53 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/1e76cbf0837bfa2d6769c6d88b4f8ad7-77314e0c79236e20244af559c8b4e9f7/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI 2021", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_dbe356b41d8cbeb9faa51f7ea43b0b4f = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/9f3bb6cdf9c0830a13ed93dd90f9241a-bef3f248d10e03d8a8e133c0d97030f2/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI 2021", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_92a2846b9b603991b7edeb296530a570 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/1eda0ff47b5a311aa1e16e5940942cb4-5dcfd8d3bbc212e4574e27df460334b1/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI 2021", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_250327abddcdf8ac5ed95d8e1cf46fce = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/c52c44e6b1bc61de2a7301a54b5103f8-10a8e78bb69e019c2cb737da34c60856/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI 2022", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_aa487ac3e2096c3a280cdb4565fe46b9 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/02556859c41288cbd20bb57905481689-2ad79e9d15071c97e63588cb16eae869/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI 2022", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_47bd4f2d96031cf48cf9442ee8ee204b = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/25898902cf26f8662e7999c8081b7e58-b8e26d5d6ee1466f60c45a73b8dd95b1/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI 2022", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_1560899aca176221eec015b86a821e09 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/a07420eef945523824e449b2a755c768-c657d825dbee3d33b14007ab2521eb03/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI 2023", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_8132d3c40086be3b94d3f54c310de876 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/e86250e732105dd8c139fa8518f3d7dd-b91ff837bf924a68ab43b1034dbaf12c/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI 2023", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_ae03b40a61a249615ab102537ad2fcb6 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/a07447fc800d5cb032c728108c285b45-de9b5787c5b4b2426b1bb11151a0c6ea/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI 2023", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_ddac195f7027f394c3a8e0fac5ced46b = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/3eb4f911e2b7267f1342a5a501a0fff1-00645b72f59916110b616c98144016a4/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI 2024", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_ea6dc6aadaf7b6f410073af8e19289de = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/2149ac97080d0d728417c9741d572f21-5853466d58321d2d403f3d362fe803a5/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI 2024", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_6df7782704f124d6c16971a9fa8b91f8 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/a6c2098a429e8952f42d7cfe932f4c2b-6c13303fd770ac625e8deb2f808750fc/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI 2024", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_7fe781c04d082094c01b309f570b2ff7 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/3f3ecaa218970c88fca4fe14c5c8d604-dad41ba07a2752255bdd2eb60e1c6d3a/tiles/{z}/{x}/{y}",
+                {"attribution": "NDVI Change", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_81961d08a7caa9ef18dc6c0d43d5748a = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/0036857de8ccb79729c8588c510a53c9-1f66ee4ff1ae6f6d4db69087e0eff96f/tiles/{z}/{x}/{y}",
+                {"attribution": "NDWI Change", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_d1f746cae2d6f373ca9f8fed7d3bbfe4 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/4e1e32519d76fda33614ee779eb6d14c-e40fc4a0d900ace9dd45189bf4f967bd/tiles/{z}/{x}/{y}",
+                {"attribution": "NDBI Change", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            var tile_layer_3c0169248fc714a2de7712ea8ea2d826 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/746de313d9a278815bcd0d1027f028c9-af2c5e46468f2da635af4425d638e1b3/tiles/{z}/{x}/{y}",
+                {"attribution": "Gr\u00fcnfl\u00e4chen", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_3c0169248fc714a2de7712ea8ea2d826.addTo(map_964c09c4ad0d828ccca5ca5eca894cd4);
+        
+    
+            var tile_layer_612c7ba52cd0d84eb04d0f33f7a4e747 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/d43a3bc2dd6e121666fc87392a9b7839-5024d6f4ec68cb87d58283cb80e4a844/tiles/{z}/{x}/{y}",
+                {"attribution": "Wasserfl\u00e4chen", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_612c7ba52cd0d84eb04d0f33f7a4e747.addTo(map_964c09c4ad0d828ccca5ca5eca894cd4);
+        
+    
+            var tile_layer_56721f4564dbf378fae98eb6110329b3 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/b2147c9d913b4da4ac787a0336b9593e-63101544d1db47e3d2dcc1eb5c6ae726/tiles/{z}/{x}/{y}",
+                {"attribution": "Bebaute Fl\u00e4chen", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_56721f4564dbf378fae98eb6110329b3.addTo(map_964c09c4ad0d828ccca5ca5eca894cd4);
+        
+    
+            var tile_layer_296dcdb3308639d42447f0d5742da020 = L.tileLayer(
+                "https://earthengine.googleapis.com/v1/projects/bb-biodiv/maps/db567b525beee8d35c60f6addbf16144-9f2cf9d06770affbbba34d8005cf6058/tiles/{z}/{x}/{y}",
+                {"attribution": "Unbekannte Fl\u00e4chen", "detectRetina": false, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_296dcdb3308639d42447f0d5742da020.addTo(map_964c09c4ad0d828ccca5ca5eca894cd4);
+        
+    
+            var layer_control_39c84ee649436e23e246f05ae3cc57fa_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_a79d30c9151725a6a288036fd0916f4d,
+                },
+                overlays :  {
+                    "Region" : geo_json_cb32257387973f052b2c53c93ec2ac37,
+                    "NDVI 2017" : tile_layer_0f9f23b0d1fa1b966c69a4688e7f25be,
+                    "NDWI 2017" : tile_layer_545844a137cac347784ef0f91a881124,
+                    "NDBI 2017" : tile_layer_661f54f572c999d1207ee52db8fe3234,
+                    "NDVI 2018" : tile_layer_ce1daa9ec4a624bb4984e20c35272c8f,
+                    "NDWI 2018" : tile_layer_0eb6483d94cedcd2975a9ab9cd52622f,
+                    "NDBI 2018" : tile_layer_88c42dd68618725daa5f9e09cd62f5f8,
+                    "NDVI 2019" : tile_layer_e81d7026f9ec78a32426833f590dd305,
+                    "NDWI 2019" : tile_layer_c573ee2b99012da6e2209a9d60beb280,
+                    "NDBI 2019" : tile_layer_f1fb0dede869c4519690b1340ec7c056,
+                    "NDVI 2020" : tile_layer_3e22bcbb3632ef50c609a2a4362f8a6f,
+                    "NDWI 2020" : tile_layer_3359a85d177971440db90e3f73373a4c,
+                    "NDBI 2020" : tile_layer_580c7e596673e78b9885448079a7e433,
+                    "NDVI 2021" : tile_layer_7fdbbb2c23d7caf43ffab012f879ad53,
+                    "NDWI 2021" : tile_layer_dbe356b41d8cbeb9faa51f7ea43b0b4f,
+                    "NDBI 2021" : tile_layer_92a2846b9b603991b7edeb296530a570,
+                    "NDVI 2022" : tile_layer_250327abddcdf8ac5ed95d8e1cf46fce,
+                    "NDWI 2022" : tile_layer_aa487ac3e2096c3a280cdb4565fe46b9,
+                    "NDBI 2022" : tile_layer_47bd4f2d96031cf48cf9442ee8ee204b,
+                    "NDVI 2023" : tile_layer_1560899aca176221eec015b86a821e09,
+                    "NDWI 2023" : tile_layer_8132d3c40086be3b94d3f54c310de876,
+                    "NDBI 2023" : tile_layer_ae03b40a61a249615ab102537ad2fcb6,
+                    "NDVI 2024" : tile_layer_ddac195f7027f394c3a8e0fac5ced46b,
+                    "NDWI 2024" : tile_layer_ea6dc6aadaf7b6f410073af8e19289de,
+                    "NDBI 2024" : tile_layer_6df7782704f124d6c16971a9fa8b91f8,
+                    "NDVI Change" : tile_layer_7fe781c04d082094c01b309f570b2ff7,
+                    "NDWI Change" : tile_layer_81961d08a7caa9ef18dc6c0d43d5748a,
+                    "NDBI Change" : tile_layer_d1f746cae2d6f373ca9f8fed7d3bbfe4,
+                    "Gr\u00fcnfl\u00e4chen" : tile_layer_3c0169248fc714a2de7712ea8ea2d826,
+                    "Wasserfl\u00e4chen" : tile_layer_612c7ba52cd0d84eb04d0f33f7a4e747,
+                    "Bebaute Fl\u00e4chen" : tile_layer_56721f4564dbf378fae98eb6110329b3,
+                    "Unbekannte Fl\u00e4chen" : tile_layer_296dcdb3308639d42447f0d5742da020,
+                },
+            };
+            let layer_control_39c84ee649436e23e246f05ae3cc57fa = L.control.layers(
+                layer_control_39c84ee649436e23e246f05ae3cc57fa_layers.base_layers,
+                layer_control_39c84ee649436e23e246f05ae3cc57fa_layers.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_964c09c4ad0d828ccca5ca5eca894cd4);
+
+        
+</script>
+</html>

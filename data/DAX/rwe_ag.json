@@ -1,0 +1,251 @@
+[
+    {
+        "Unternehmen": "RWE AG",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "RWE Renewables Europe & Australia GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Generation SE",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Zentrale"
+    },
+    {
+        "Unternehmen": "RWE Power AG",
+        "Land": "Deutschland",
+        "Stadt": "Köln",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Supply & Trading GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables UK Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Swindon",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables UK Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "London",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Americas LLC",
+        "Land": "USA",
+        "Stadt": "Austin",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Australia Pty Ltd",
+        "Land": "Australien",
+        "Stadt": "Melbourne",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Japan G.K.",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables France SAS",
+        "Land": "Frankreich",
+        "Stadt": "Paris",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Italia S.p.A.",
+        "Land": "Italien",
+        "Stadt": "Rom",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Polska Sp. z o.o.",
+        "Land": "Polen",
+        "Stadt": "Warschau",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Iberia S.A.U.",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Netherlands B.V.",
+        "Land": "Niederlande",
+        "Stadt": "Zwolle",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Denmark A/S",
+        "Land": "Dänemark",
+        "Stadt": "Kopenhagen",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Sweden AB",
+        "Land": "Schweden",
+        "Stadt": "Malmö",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Canada Ltd.",
+        "Land": "Kanada",
+        "Stadt": "Toronto",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Australia Pty Ltd",
+        "Land": "Australien",
+        "Stadt": "Sydney",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Taiwan Ltd.",
+        "Land": "Taiwan",
+        "Stadt": "Taipeh",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Korea Co., Ltd.",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables China Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Ireland Ltd.",
+        "Land": "Irland",
+        "Stadt": "Dublin",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Greece S.A.",
+        "Land": "Griechenland",
+        "Stadt": "Athen",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Norway AS",
+        "Land": "Norwegen",
+        "Stadt": "Oslo",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Finland Oy",
+        "Land": "Finnland",
+        "Stadt": "Helsinki",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Belgium S.A.",
+        "Land": "Belgien",
+        "Stadt": "Brüssel",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Austria GmbH",
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Portugal Unipessoal Lda.",
+        "Land": "Portugal",
+        "Stadt": "Lissabon",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Hungary Kft.",
+        "Land": "Ungarn",
+        "Stadt": "Budapest",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Romania S.R.L.",
+        "Land": "Rumänien",
+        "Stadt": "Bukarest",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Bulgaria EOOD",
+        "Land": "Bulgarien",
+        "Stadt": "Sofia",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Croatia d.o.o.",
+        "Land": "Kroatien",
+        "Stadt": "Zagreb",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Czech Republic s.r.o.",
+        "Land": "Tschechien",
+        "Stadt": "Prag",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Slovakia s.r.o.",
+        "Land": "Slowakei",
+        "Stadt": "Bratislava",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Turkey Enerji A.Ş.",
+        "Land": "Türkei",
+        "Stadt": "Istanbul",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Latin America Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Chile SpA",
+        "Land": "Chile",
+        "Stadt": "Santiago de Chile",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables South Africa (Pty) Ltd",
+        "Land": "Südafrika",
+        "Stadt": "Kapstadt",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables India Private Limited",
+        "Land": "Indien",
+        "Stadt": "Neu-Delhi",
+        "Art des Standortes": "Büro"
+    },
+    {
+        "Unternehmen": "RWE Renewables Mexico S.A. de C.V.",
+        "Land": "Mexiko",
+        "Stadt": "Mexiko-Stadt",
+        "Art des Standortes": "Büro"
+    }
+]
+
+
+ 

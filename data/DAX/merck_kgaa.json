@@ -1,0 +1,116 @@
+[
+    {
+        "Unternehmen": "Merck KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Konzernzentrale, Forschungseinrichtungen, Produktionsbetriebe"
+    },
+    {
+        "Unternehmen": "Merck KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Weiterstadt",
+        "Art des Standortes": "Konzernfunktionen"
+    },
+    {
+        "Unternehmen": "Merck Healthcare KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Healthcare"
+    },
+    {
+        "Unternehmen": "Merck Healthcare Germany GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Weiterstadt",
+        "Art des Standortes": "Healthcare"
+    },
+    {
+        "Unternehmen": "Biochrom GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Merck Life Science KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Merck Chemicals GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Merck LS RTU GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Sigma-Aldrich Biochemie GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "AmpTec GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Merck Schuchardt OHG",
+        "Land": "Deutschland",
+        "Stadt": "Hohenbrunn",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Sigma-Aldrich Chemie GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Schnelldorf",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Sigma-Aldrich Chemie GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Steinheim",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Sigma-Aldrich Chemie GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Taufkirchen",
+        "Art des Standortes": "Life Science"
+    },
+    {
+        "Unternehmen": "Merck KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Electronics"
+    },
+    {
+        "Unternehmen": "Merck Electronics KGaA",
+        "Land": "Deutschland",
+        "Stadt": "Darmstadt",
+        "Art des Standortes": "Electronics"
+    },
+    {
+        "Unternehmen": "Merck Surface Solutions GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Gernsheim",
+        "Art des Standortes": "Electronics"
+    },
+    {
+        "Unternehmen": "Merck Performance Materials GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Wiesbaden",
+        "Art des Standortes": "Electronics"
+    },
+    {
+        "Unternehmen": "Litec-LLL GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Greifswald",
+        "Art des Standortes": "Electronics"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "Unternehmen": "QIAGEN N.V.",
+        "Land": "Niederlande",
+        "Stadt": "Venlo",
+        "Art des Standortes": "Globales Hauptquartier"
+    },
+    {
+        "Unternehmen": "QIAGEN GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hilden",
+        "Art des Standortes": "Operatives Hauptquartier und Europäische Zentrale"
+    },
+    {
+        "Unternehmen": "QIAGEN Inc.",
+        "Land": "USA",
+        "Stadt": "Germantown, Maryland",
+        "Art des Standortes": "Amerikanische Zentrale"
+    },
+    {
+        "Unternehmen": "QIAGEN China (Shanghai) Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Chinesische Zentrale"
+    },
+    {
+        "Unternehmen": "QIAGEN Singapore Pte. Ltd.",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Asien-Pazifik Zentrale"
+    },
+    {
+        "Unternehmen": "QIAGEN Manchester Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Manchester",
+        "Art des Standortes": "Zentrum für Companion Diagnostics"
+    },
+    {
+        "Unternehmen": "QIAGEN Redwood City, Inc.",
+        "Land": "USA",
+        "Stadt": "Redwood City, Kalifornien",
+        "Art des Standortes": "Bioinformatik-Entwicklung"
+    },
+    {
+        "Unternehmen": "QIAGEN Wrocław Sp. z o.o.",
+        "Land": "Polen",
+        "Stadt": "Wrocław",
+        "Art des Standortes": "Europäisches Shared Services Center"
+    },
+    {
+        "Unternehmen": "QIAGEN France S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Les Ulis",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Iberia S.L.",
+        "Land": "Spanien",
+        "Stadt": "Las Matas (Madrid)",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN AB",
+        "Land": "Schweden",
+        "Stadt": "Sollentuna",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Ltd.",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN K.K.",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Pty Ltd.",
+        "Land": "Australien",
+        "Stadt": "Melbourne",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN S.r.l.",
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Ltd.",
+        "Land": "Südafrika",
+        "Stadt": "Sandton",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Canada, Inc.",
+        "Land": "Kanada",
+        "Stadt": "Toronto",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Brazil Indústria e Comércio de Produtos de Biotecnologia Ltda.",
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Mexico S.A. de C.V.",
+        "Land": "Mexiko",
+        "Stadt": "Mexiko-Stadt",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN India Pvt. Ltd.",
+        "Land": "Indien",
+        "Stadt": "Neu-Delhi",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Korea Ltd.",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Taiwan Co., Ltd.",
+        "Land": "Taiwan",
+        "Stadt": "Taipeh",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Malaysia Sdn. Bhd.",
+        "Land": "Malaysia",
+        "Stadt": "Kuala Lumpur",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN (Thailand) Ltd.",
+        "Land": "Thailand",
+        "Stadt": "Bangkok",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Philippines Inc.",
+        "Land": "Philippinen",
+        "Stadt": "Taguig City",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Turkey Biyoteknoloji Ltd. Şti.",
+        "Land": "Türkei",
+        "Stadt": "Ankara",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN Egypt LLC",
+        "Land": "Ägypten",
+        "Stadt": "Kairo",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    },
+    {
+        "Unternehmen": "QIAGEN UAE FZ-LLC",
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Dubai",
+        "Art des Standortes": "Vertriebs- und Supportbüro"
+    }
+]

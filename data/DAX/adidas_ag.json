@@ -1,0 +1,86 @@
+[
+    {
+        "Unternehmen": "Adidas AG",
+        "Land": "Deutschland",
+        "Stadt": "Herzogenaurach",
+        "Art des Standortes": "Unternehmenszentrale"
+    },
+    {
+        "Unternehmen": "Adidas North America",
+        "Land": "USA",
+        "Stadt": "Portland",
+        "Art des Standortes": "Hauptsitz Nordamerika"
+    },
+    {
+        "Unternehmen": "Adidas Asia-Pacific",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Hauptsitz Asien-Pazifik"
+    },
+    {
+        "Unternehmen": "Adidas Latin America",
+        "Land": "Panama",
+        "Stadt": "Panama-Stadt",
+        "Art des Standortes": "Hauptsitz Lateinamerika"
+    },
+    {
+        "Unternehmen": "Adidas Amsterdam",
+        "Land": "Niederlande",
+        "Stadt": "Amsterdam",
+        "Art des Standortes": "Internationaler Hauptsitz"
+    },
+    {
+        "Unternehmen": "Adidas Emerging Markets",
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Dubai",
+        "Art des Standortes": "Hauptsitz Emerging Markets"
+    },
+    {
+        "Unternehmen": "Adidas Sourcing",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Beschaffungszentrale"
+    },
+    {
+        "Unternehmen": "Adidas International Trading AG",
+        "Land": "Schweiz",
+        "Stadt": "Root D4",
+        "Art des Standortes": "Internationaler Handelshauptsitz"
+    },
+    {
+        "Unternehmen": "Unabhängige Hersteller",
+        "Land": "Vietnam",
+        "Stadt": "Verschiedene",
+        "Art des Standortes": "Schuhproduktion"
+    },
+    {
+        "Unternehmen": "Unabhängige Hersteller",
+        "Land": "Indonesien",
+        "Stadt": "Verschiedene",
+        "Art des Standortes": "Schuhproduktion"
+    },
+    {
+        "Unternehmen": "Unabhängige Hersteller",
+        "Land": "China",
+        "Stadt": "Verschiedene",
+        "Art des Standortes": "Schuh-, Bekleidungs- und Accessoiresproduktion"
+    },
+    {
+        "Unternehmen": "Unabhängige Hersteller",
+        "Land": "Kambodscha",
+        "Stadt": "Verschiedene",
+        "Art des Standortes": "Bekleidungsproduktion"
+    },
+    {
+        "Unternehmen": "Unabhängige Hersteller",
+        "Land": "Türkei",
+        "Stadt": "Verschiedene",
+        "Art des Standortes": "Accessoires- und Ausrüstungsproduktion"
+    },
+    {
+        "Unternehmen": "Unabhängige Hersteller",
+        "Land": "Pakistan",
+        "Stadt": "Verschiedene",
+        "Art des Standortes": "Accessoires- und Ausrüstungsproduktion"
+    }
+]

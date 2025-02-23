@@ -1,0 +1,292 @@
+[
+    {
+        "Unternehmen": "Linde plc",
+        "Land": "Irland",
+        "Stadt": "Dublin",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Linde plc",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Woking",
+        "Art des Standortes": "Operative Zentrale"
+    },
+    {
+        "Unternehmen": "Linde GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Pullach",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Engineering Dresden",
+        "Land": "Deutschland",
+        "Stadt": "Dresden",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Gas Deutschland",
+        "Land": "Deutschland",
+        "Stadt": "Diverse Städte",
+        "Art des Standortes": "Produktionsstandorte"
+    },
+    {
+        "Unternehmen": "Linde Hydraulics",
+        "Land": "Deutschland",
+        "Stadt": "Aschaffenburg",
+        "Art des Standortes": "Produktionsstandort"
+    },
+    {
+        "Unternehmen": "Linde Hydraulics",
+        "Land": "Deutschland",
+        "Stadt": "Kahl",
+        "Art des Standortes": "Produktionsstandort"
+    },
+    {
+        "Unternehmen": "Linde Hydraulics",
+        "Land": "Deutschland",
+        "Stadt": "Ballenstedt",
+        "Art des Standortes": "Produktionsstandort"
+    },
+    {
+        "Unternehmen": "Linde Hydraulics",
+        "Land": "China",
+        "Stadt": "Weifang",
+        "Art des Standortes": "Produktionsstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas Singapore Pte Ltd",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Praxair Canada Inc",
+        "Land": "Kanada",
+        "Stadt": "Mississauga",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Philippines Inc.",
+        "Land": "Philippinen",
+        "Stadt": "Makati City",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Bangladesh Limited",
+        "Land": "Bangladesch",
+        "Stadt": "Dhaka",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas AB",
+        "Land": "Schweden",
+        "Stadt": "Stockholm",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Kryotechnik AG",
+        "Land": "Schweiz",
+        "Stadt": "Pfungen",
+        "Art des Standortes": "Produktionsstandort"
+    },
+    {
+        "Unternehmen": "PanGas AG",
+        "Land": "Schweiz",
+        "Stadt": "Dagmersellen",
+        "Art des Standortes": "Produktionsstandort"
+    },
+    {
+        "Unternehmen": "BOC Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Guildford",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "The BOC Group Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Surrey",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gaz Polska Sp zoo",
+        "Land": "Polen",
+        "Stadt": "Krakau",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas Benelux BV",
+        "Land": "Niederlande",
+        "Stadt": "Schiedam",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas Holding AB",
+        "Land": "Schweden",
+        "Stadt": "Helsingborg",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas AB",
+        "Land": "Schweden",
+        "Stadt": "Lidingö",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gáz Magyarország Zrt.",
+        "Land": "Ungarn",
+        "Stadt": "Budapest",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gaz AS",
+        "Land": "Türkei",
+        "Stadt": "Incirlik",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Praxair Technology, Inc.",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "Danbury",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Praxair Korea Co., Ltd.",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Cryostar SAS",
+        "Land": "Frankreich",
+        "Stadt": "Hésingue",
+        "Art des Standortes": "Produktionsstandort"
+    },
+    {
+        "Unternehmen": "Linde Engineering",
+        "Land": "Deutschland",
+        "Stadt": "Pullach",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Engineering",
+        "Land": "Deutschland",
+        "Stadt": "Leuna",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Engineering",
+        "Land": "Deutschland",
+        "Stadt": "Köln",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Engineering",
+        "Land": "Deutschland",
+        "Stadt": "Schwarzheide",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Engineering",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Engineering",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Engineering North America Inc.",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "Houston",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Engineering India Pvt. Ltd.",
+        "Land": "Indien",
+        "Stadt": "Vadodara",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Gas Asia Pte Ltd",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Regionaler Hauptsitz"
+    },
+    {
+        "Unternehmen": "Linde Gas Italia S.p.A.",
+        "Land": "Italien",
+        "Stadt": "Monza",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas España S.A.",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Praxair México S.A. de C.V.",
+        "Land": "Mexiko",
+        "Stadt": "Monterrey",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas South Africa",
+        "Land": "Südafrika",
+        "Stadt": "Johannesburg",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas Pty Ltd",
+        "Land": "Australien",
+        "Stadt": "Sydney",
+        "Art des Standortes": "Regionaler Hauptsitz"
+    },
+    {
+        "Unternehmen": "Linde Malaysia Sdn Bhd",
+        "Land": "Malaysia",
+        "Stadt": "Petaling Jaya",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Engineering Middle East LLC",
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Abu Dhabi",
+        "Art des Standortes": "Engineering-Standort"
+    },
+    {
+        "Unternehmen": "Linde Engineering China Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Hangzhou",
+        "Art des Standortes": "Engineering- und Produktionsstandort"
+    },
+    {
+        "Unternehmen": "Linde Gas Norge AS",
+        "Land": "Norwegen",
+        "Stadt": "Oslo",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Linde Japan Ltd.",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Unternehmensstandort"
+    },
+    {
+        "Unternehmen": "Praxair, Inc.",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "Danbury",
+        "Art des Standortes": "Globaler Hauptsitz (ehemals Praxair)"
+    },
+    {
+        "Unternehmen": "Linde Gáz Magyarország Zrt.",
+        "Land": "Ungarn",
+        "Stadt": "Gyöngyös",
+        "Art des Standortes": "Produktionsstandort"
+    }
+]
+
+ 

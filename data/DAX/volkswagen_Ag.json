@@ -1,0 +1,350 @@
+[
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Wolfsburg",
+        "Art des Standortes": "Hauptsitz und Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Hannover",
+        "Art des Standortes": "Fahrzeugproduktion (Nutzfahrzeuge)"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Braunschweig",
+        "Art des Standortes": "Komponentenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Kassel",
+        "Art des Standortes": "Komponentenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Emden",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Salzgitter",
+        "Art des Standortes": "Motorenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Osnabrück",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Zwickau",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Dresden",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Chemnitz",
+        "Art des Standortes": "Motorenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Düsseldorf",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Köln",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Leipzig",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Nürnberg",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Bremen",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Hannover",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Dortmund",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Essen",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Duisburg",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Bochum",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Wuppertal",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Bielefeld",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Bonn",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Münster",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Karlsruhe",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Mannheim",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Augsburg",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Wiesbaden",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Gelsenkirchen",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Mönchengladbach",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Mönchengladbach",
+        "Art des Standortes": "Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Deutschland",
+        "Stadt": "Chemnitz",
+        "Art des Standortes": "Komponentenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "USA",
+        "Stadt": "Chattanooga",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Fahrzeugproduktion und Verwaltung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "China",
+        "Stadt": "Changchun",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "China",
+        "Stadt": "Foshan",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "China",
+        "Stadt": "Tianjin",
+        "Art des Standortes": "Komponentenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Brasilien",
+        "Stadt": "São Bernardo do Campo",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Brasilien",
+        "Stadt": "Curitiba",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Brasilien",
+        "Stadt": "São Carlos",
+        "Art des Standortes": "Motorenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Mexiko",
+        "Stadt": "Puebla",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Mexiko",
+        "Stadt": "Silao",
+        "Art des Standortes": "Motorenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Argentinien",
+        "Stadt": "Pacheco",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Russland",
+        "Stadt": "Kaluga",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Südafrika",
+        "Stadt": "Uitenhage",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Indien",
+        "Stadt": "Pune",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Tschechien",
+        "Stadt": "Mladá Boleslav",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Spanien",
+        "Stadt": "Pamplona",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Portugal",
+        "Stadt": "Palmela",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Ungarn",
+        "Stadt": "Győr",
+        "Art des Standortes": "Motorenfertigung"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Slowakei",
+        "Stadt": "Bratislava",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Polen",
+        "Stadt": "Poznań",
+        "Art des Standortes": "Fahrzeugproduktion"
+    },
+    {
+        "Unternehmen": "Volkswagen AG",
+        "Land": "Polen",
+        "Stadt": "Września",
+        "Art des Standortes": "Fahrzeugproduktion"
+    }
+]

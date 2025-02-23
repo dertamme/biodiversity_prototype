@@ -1,0 +1,230 @@
+[
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Deutschland",
+        "Stadt": "Frankfurt am Main",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Deutschland",
+        "Stadt": "Brüssel",
+        "Art des Standortes": "Verbindungsbüro"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Vereinigte Staaten",
+        "Stadt": "New York City",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "London",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Russland",
+        "Stadt": "Moskau",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Polen",
+        "Stadt": "Warschau",
+        "Art des Standortes": "Tochtergesellschaft"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Österreich",
+        "Stadt": "Wien",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Schweiz",
+        "Stadt": "Zürich",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Niederlande",
+        "Stadt": "Amsterdam",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Tschechische Republik",
+        "Stadt": "Prag",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Ungarn",
+        "Stadt": "Budapest",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Luxemburg",
+        "Stadt": "Luxemburg",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Belgien",
+        "Stadt": "Brüssel",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Frankreich",
+        "Stadt": "Paris",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Mexiko",
+        "Stadt": "Mexiko-Stadt",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Argentinien",
+        "Stadt": "Buenos Aires",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Dubai",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Südafrika",
+        "Stadt": "Johannesburg",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Indien",
+        "Stadt": "Mumbai",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Australien",
+        "Stadt": "Sydney",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Kanada",
+        "Stadt": "Toronto",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Filiale"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Taiwan",
+        "Stadt": "Taipeh",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Vietnam",
+        "Stadt": "Ho-Chi-Minh-Stadt",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Thailand",
+        "Stadt": "Bangkok",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Malaysia",
+        "Stadt": "Kuala Lumpur",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Indonesien",
+        "Stadt": "Jakarta",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Philippinen",
+        "Stadt": "Manila",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Commerzbank AG",
+        "Land": "Neuseeland",
+        "Stadt": "Auckland",
+        "Art des Standortes": "Repräsentanz"
+    }
+]

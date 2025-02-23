@@ -1,0 +1,288 @@
+[
+    {
+        "Unternehmen": "Sartorius AG",
+        "Land": "Deutschland",
+        "Stadt": "Göttingen",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Biotech GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Göttingen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Lab Instruments GmbH & Co. KG",
+        "Land": "Deutschland",
+        "Stadt": "Göttingen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Systems GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Guxhagen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Cellca GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Ulm",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Plastics GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Melsungen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Weighing Technology GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius BIA Separations d.o.o.",
+        "Land": "Slowenien",
+        "Stadt": "Ajdovščina",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim FMT S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Aubagne",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Aseptics S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Aubagne",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim France S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Dourdan",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Chromatography Resins S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Cergy",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim BioOutsource Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Glasgow",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Lab Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Stonehouse",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Chromatography Systems Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Havant",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Data Analytics AB",
+        "Land": "Schweden",
+        "Stadt": "Umeå",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Filters, Inc.",
+        "Land": "Puerto Rico",
+        "Stadt": "Yauco",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim North America Inc.",
+        "Land": "USA",
+        "Stadt": "Bohemia, NY",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Biotech (Beijing) Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Biotech (Beijing) Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Korea Co., Ltd.",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Singapore Pte. Ltd.",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Malaysia Sdn. Bhd.",
+        "Land": "Malaysia",
+        "Stadt": "Kuala Lumpur",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Japan K.K.",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim India Pvt. Ltd.",
+        "Land": "Indien",
+        "Stadt": "Bangalore",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Australia Pty. Ltd.",
+        "Land": "Australien",
+        "Stadt": "Dandenong South",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Systems GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Guxhagen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Plastics GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Melsungen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Cellca GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Ulm",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Biotech GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Göttingen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Lab Instruments GmbH & Co. KG",
+        "Land": "Deutschland",
+        "Stadt": "Göttingen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Weighing Technology GmbH",
+        "Land": "Deutschland",
+        "Stadt": "Hamburg",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius BIA Separations d.o.o.",
+        "Land": "Slowenien",
+        "Stadt": "Ajdovščina",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Korea Co., Ltd.",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Filters, Inc.",
+        "Land": "Puerto Rico",
+        "Stadt": "Yauco",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Singapore Pte. Ltd.",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim India Pvt. Ltd.",
+        "Land": "Indien",
+        "Stadt": "Bangalore",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Malaysia Sdn. Bhd.",
+        "Land": "Malaysia",
+        "Stadt": "Kuala Lumpur",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Biotech (Beijing) Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Shanghai",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Biotech (Beijing) Co., Ltd.",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Australia Pty. Ltd.",
+        "Land": "Australien",
+        "Stadt": "Dandenong South",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Japan K.K.",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim BioOutsource Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Glasgow",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Lab Ltd.",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "Stonehouse",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Chromatography Resins S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Cergy",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim Aseptics S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Aubagne",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Sartorius Stedim FMT S.A.S.",
+        "Land": "Frankreich",
+        "Stadt": "Aubagne",
+        "Art des Standortes": "Produktion"
+    }
+]
+
+
+
+ 

@@ -1,0 +1,80 @@
+[
+    {
+        "Unternehmen": "Siemens Energy AG",
+        "Land": "Deutschland",
+        "Stadt": "Berlin",
+        "Art des Standortes": "Konzernzentrale"
+    },
+    {
+        "Unternehmen": "Siemens Energy AG",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Verwaltungssitz"
+    },
+    {
+        "Unternehmen": "Siemens Energy AG",
+        "Land": "Deutschland",
+        "Stadt": "Mülheim an der Ruhr",
+        "Art des Standortes": "Produktionsstandort für Turbinen und Generatoren"
+    },
+    {
+        "Unternehmen": "Siemens Energy AG",
+        "Land": "Deutschland",
+        "Stadt": "Görlitz",
+        "Art des Standortes": "Entwicklung und Fertigung von Industriedampfturbinen"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "Deutschland",
+        "Stadt": "Cuxhaven",
+        "Art des Standortes": "Offshore-Nacelle-Produktionswerk"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "Dänemark",
+        "Stadt": "Brande",
+        "Art des Standortes": "F&E und Produktion"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "Portugal",
+        "Stadt": "Aveiro",
+        "Art des Standortes": "Blattproduktion"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "Dänemark",
+        "Stadt": "Aalborg",
+        "Art des Standortes": "Blattproduktion"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "Marokko",
+        "Stadt": "Tanger",
+        "Art des Standortes": "Blattproduktion"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "China",
+        "Stadt": "Linggang",
+        "Art des Standortes": "Blattproduktion"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "USA",
+        "Stadt": "Fort Madison",
+        "Art des Standortes": "Blattproduktion"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "USA",
+        "Stadt": "Hutchinson",
+        "Art des Standortes": "Nacelle-Produktion"
+    },
+    {
+        "Unternehmen": "Siemens Gamesa Renewable Energy",
+        "Land": "Taiwan",
+        "Stadt": "Taichung",
+        "Art des Standortes": "Offshore-Nacelle-Produktionswerk"
+    }
+]

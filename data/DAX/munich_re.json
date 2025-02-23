@@ -1,0 +1,308 @@
+[
+    {
+        "Unternehmen": "Munich Re",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "ERGO Group",
+        "Land": "Deutschland",
+        "Stadt": "Düsseldorf",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "MEAG MUNICH ERGO AssetManagement GmbH",
+        "Land": "Deutschland",
+        "Stadt": "München",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Munich Reinsurance America",
+        "Land": "USA",
+        "Stadt": "Princeton",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "American Modern Insurance Group",
+        "Land": "USA",
+        "Stadt": "Amelia",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Hartford Steam Boiler Inspection and Insurance Company",
+        "Land": "USA",
+        "Stadt": "Hartford",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Reinsurance Company of Africa Limited",
+        "Land": "Südafrika",
+        "Stadt": "Johannesburg",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Italy - Münchener Rück Servizi Tecnici S.r.l.",
+        "Land": "Italien",
+        "Stadt": "Mailand",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Japan Services Co., Ltd.",
+        "Land": "Japan",
+        "Stadt": "Tokio",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Beijing Branch",
+        "Land": "China",
+        "Stadt": "Peking",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Singapore Branch",
+        "Land": "Singapur",
+        "Stadt": "Singapur",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re India Branch",
+        "Land": "Indien",
+        "Stadt": "Mumbai",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Australia Branch",
+        "Land": "Australien",
+        "Stadt": "Sydney",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Brazil",
+        "Land": "Brasilien",
+        "Stadt": "São Paulo",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Canada Branch",
+        "Land": "Kanada",
+        "Stadt": "Toronto",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re UK & Ireland Life Branch",
+        "Land": "Vereinigtes Königreich",
+        "Stadt": "London",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re France",
+        "Land": "Frankreich",
+        "Stadt": "Paris",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Moscow Representative Office",
+        "Land": "Russland",
+        "Stadt": "Moskau",
+        "Art des Standortes": "Repräsentanz"
+    },
+    {
+        "Unternehmen": "Munich Re Labuan Branch",
+        "Land": "Malaysia",
+        "Stadt": "Labuan",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Hong Kong Branch",
+        "Land": "Hongkong",
+        "Stadt": "Hongkong",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Korea Branch",
+        "Land": "Südkorea",
+        "Stadt": "Seoul",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Malaysia Branch",
+        "Land": "Malaysia",
+        "Stadt": "Kuala Lumpur",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Mexico",
+        "Land": "Mexiko",
+        "Stadt": "Mexiko-Stadt",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Colombia",
+        "Land": "Kolumbien",
+        "Stadt": "Bogotá",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Chile",
+        "Land": "Chile",
+        "Stadt": "Santiago",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Argentina",
+        "Land": "Argentinien",
+        "Stadt": "Buenos Aires",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Peru",
+        "Land": "Peru",
+        "Stadt": "Lima",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Spain",
+        "Land": "Spanien",
+        "Stadt": "Madrid",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Portugal",
+        "Land": "Portugal",
+        "Stadt": "Lissabon",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Greece",
+        "Land": "Griechenland",
+        "Stadt": "Athen",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Turkey",
+        "Land": "Türkei",
+        "Stadt": "Istanbul",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Israel",
+        "Land": "Israel",
+        "Stadt": "Tel Aviv",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re United Arab Emirates",
+        "Land": "Vereinigte Arabische Emirate",
+        "Stadt": "Dubai",
+        "Art des Standortes":"Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Saudi Arabia",
+        "Land": "Saudi-Arabien",
+        "Stadt": "Riad",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Egypt",
+        "Land": "Ägypten",
+        "Stadt": "Kairo",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Norway",
+        "Land": "Norwegen",
+        "Stadt": "Oslo",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Sweden",
+        "Land": "Schweden",
+        "Stadt": "Stockholm",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Finland",
+        "Land": "Finnland",
+        "Stadt": "Helsinki",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Denmark",
+        "Land": "Dänemark",
+        "Stadt": "Kopenhagen",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Poland",
+        "Land": "Polen",
+        "Stadt": "Warschau",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Czech Republic",
+        "Land": "Tschechische Republik",
+        "Stadt": "Prag",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Slovakia",
+        "Land": "Slowakei",
+        "Stadt": "Bratislava",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Hungary",
+        "Land": "Ungarn",
+        "Stadt": "Budapest",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Romania",
+        "Land": "Rumänien",
+        "Stadt": "Bukarest",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Bulgaria",
+        "Land": "Bulgarien",
+        "Stadt": "Sofia",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Croatia",
+        "Land": "Kroatien",
+        "Stadt": "Zagreb",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Slovenia",
+        "Land": "Slowenien",
+        "Stadt": "Ljubljana",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Serbia",
+        "Land": "Serbien",
+        "Stadt": "Belgrad",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Ukraine",
+        "Land": "Ukraine",
+        "Stadt": "Kiew",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Belarus",
+        "Land": "Weißrussland",
+        "Stadt": "Minsk",
+        "Art des Standortes": "Niederlassung"
+    },
+    {
+        "Unternehmen": "Munich Re Kazakhstan",
+        "Land": "Kasachstan",
+        "Stadt": "Almaty",
+        "Art des Standortes": "Niederlassung"
+    }
+]

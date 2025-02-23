@@ -1,0 +1,353 @@
+{% extends 'base.html' %}
+
+{% block title %}NDVI Dashboard{% endblock %}
+
+{% block content %}
+
+        <!-- Datenauswahl -->
+            <!-- Suchleiste anzeigen, wenn kein Standort eingegeben wurde -->
+            <form id="searchForm" method="POST" action="" onsubmit="redirectToCity(event)">
+                <div class="flex-container" style="margin-top: 10px; display: flex; gap: 10px; align-items: flex-end;">
+                    <div style="position: relative; flex: 5;">
+                        <input type="text" id="cityInput" name="city" placeholder="Standort suchen..." autocomplete="off" class="form-control" style="width: 100%;" >
+                        <ul id="suggestions" style="
+                            position: absolute;
+                            top: 100%;
+                            left: 0;
+                            width: 100%;
+                            background: white;
+                            border: 1px solid #ccc;
+                            z-index: 9999;
+                            list-style-type: none;
+                            padding: 0;
+                            margin: 0;
+                            max-height: 150px;
+                            overflow-y: auto;
+                            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+                            display: none;
+                        "></ul>
+                    </div>
+                    <div style="flex: 1;">
+                        <button type="button" class="btn btn-primary w-100 rounded-pill" onclick="redirectToCity(event)">Suchen</button>
+                    </div>
+                </div>
+            </form>
+            {% if is_city_provided %}
+            <!-- Wenn ein Standort ausgewählt wurde, den Rest der Seite anzeigen -->
+            <div class="results-bar">
+                <span>Entwicklung von {{ request.form.get('start_year', start_year) }} bis {{ request.form.get('end_year', end_year) }}:</span>
+                <span>
+                    NDVI: 
+                    <strong style="font-weight: bold; {% if ndvi_change is not none and ndvi_change|float > 0.01 %}color: #378224;{% elif ndvi_change is not none and ndvi_change|float < -0.01 %}color: #810909;{% endif %}">
+                        {{ '+' if ndvi_change is not none and ndvi_change|float > 0 else '' }}{{ ndvi_change if ndvi_change is not none else "Keine Daten" }}
+                    </strong>
+                </span>
+            
+                <span>
+                    NDWI: 
+                    <strong style="font-weight: bold; {% if ndwi_change is not none and ndwi_change|float > 0.01 %}color: #378224;{% elif ndwi_change is not none and ndwi_change|float < -0.01 %}color: #810909;{% endif %}">
+                        {{ '+' if ndwi_change is not none and ndwi_change|float > 0 else '' }}{{ ndwi_change if ndwi_change is not none else "Keine Daten" }}
+                    </strong>
+                </span>
+            
+                <span>
+                    NDBI: 
+                    <strong style="font-weight: bold; {% if ndbi_change is not none and ndbi_change|float > 0.01 %}color: #378224;{% elif ndbi_change is not none and ndbi_change|float < -0.01 %}color: #810909;{% endif %}">
+                        {{ '+' if ndbi_change is not none and ndbi_change|float > 0 else '' }}{{ ndbi_change if ndbi_change is not none else "Keine Daten" }}
+                    </strong>
+                </span>
+            
+                <span>
+                    Anteil Grünfläche: 
+                    <strong style="font-weight: bold; {% if land_cover_changes.green is not none and land_cover_changes.green|float > 0.01 %}color: #378224;{% elif land_cover_changes.green is not none and land_cover_changes.green|float < -0.01 %}color: #810909;{% endif %}">
+                        {{ '+' if land_cover_changes.green is not none and land_cover_changes.green|float > 0 else '' }}{{ land_cover_changes.green if land_cover_changes.green is not none else "Keine Daten" }}
+                    </strong>
+                </span>
+            
+                <span>
+                    Anteil Versiegelt: 
+                    <strong style="font-weight: bold; {% if land_cover_changes.sealed is not none and land_cover_changes.sealed|float > 0.01 %}color: #378224;{% elif land_cover_changes.sealed is not none and land_cover_changes.sealed|float < -0.01 %}color: #810909;{% endif %}">
+                        {{ '+' if land_cover_changes.sealed is not none and land_cover_changes.sealed|float > 0 else '' }}{{ land_cover_changes.sealed if land_cover_changes.sealed is not none else "Keine Daten" }}
+                    </strong>
+                </span>
+            
+                <span>
+                    Anteil Wasser: 
+                    <strong style="font-weight: bold; {% if land_cover_changes.water is not none and land_cover_changes.water|float > 0.01 %}color: #378224;{% elif land_cover_changes.water is not none and land_cover_changes.water|float < -0.01 %}color: #810909;{% endif %}">
+                        {{ '+' if land_cover_changes.water is not none and land_cover_changes.water|float > 0 else '' }}{{ land_cover_changes.water if land_cover_changes.water is not none else "Keine Daten" }}
+                    </strong>
+                </span>
+            </div>
+            
+
+            <!-- Diagramme und Karte -->
+            <div class="grid-container">
+                <div class="chart-wrapper">
+                    <div class="chart-title">NDVI-Werte</div>
+                    <canvas id="ndviChart"></canvas>
+                </div>
+                <div class="chart-wrapper">
+                    <div class="chart-title">NDWI-Werte</div>
+                    <canvas id="ndwiChart"></canvas>
+                </div>
+                <div class="chart-wrapper">
+                    <div class="chart-title">NDBI-Werte</div>
+                    <canvas id="ndbiChart"></canvas>
+                </div>
+                <div class="chart-wrapper">
+                    <div class="chart-title">Landbedeckungsanteile</div>
+                    <canvas id="landCoverChart"></canvas>
+                </div>
+                <div class="map-wrapper">
+                    {% if map_html is not none %}
+
+                
+                    {{ map_html | safe }}
+                                
+                    {% else %}
+                        <p>Die Karte wird geladen...</p>
+                    {% endif %}
+                </div>
+            </div>
+
+        </div>
+        <div id="backgroundOverlay"></div>
+        <div id="overlay">
+            <div id="overlay-header">
+                <h2>Detailierte Karte</h2>
+                <button id="closeButton">X</button>
+            </div>
+            <div id="overlay-content">
+                <div id="mapContainer" data-map-html="{{ map_html|safe }}"></div>
+            </div>
+        </div>
+            <!-- Horizontaler Strich und Export Button -->
+            <hr style="border-top: 1px solid #ccc; margin-top: 20px;">
+            <div id="newButtons" style="text-align: center; margin-top: 10px; display: none;">
+                <button id="pdfButton" class="btn btn-link" style="color: #007bff; text-decoration: none; font-weight: normal; padding: 5px 10px;">
+                    PDF-Export
+                </button>
+                <button id="jsonButton" class="btn btn-link" style="color: #007bff; text-decoration: none; font-weight: normal; padding: 5px 10px;">
+                    JSON-Export
+                </button>
+                <button id="openMapButton" class="btn btn-link" style="color: #007bff; text-decoration: none; font-weight: normal; padding: 5px 10px;">
+                    Karte vergrößern
+                </button>
+        {% endif %}
+
+
+<script>
+    //Skript für Diagramme 
+    const years = {{ years | default([]) | tojson }};
+    const ndwi_changes = {{ ndwi_changes | default([]) | tojson }};
+    const ndvi_changes = {{ ndvi_changes | default([]) | tojson }};
+    const ndbi_changes = {{ ndbi_changes | default([]) | tojson }};
+    const green_changes = {{ green_changes | default([]) | tojson }};
+    const water_changes = {{ water_changes | default([]) | tojson }};
+    const sealed_changes = {{ sealed_changes | default([]) | tojson }};
+    const unknown_changes = {{ unknown_changes | default([]) | tojson }};
+
+
+    const createChart = (ctx, label, data, color) => {
+        const gradient = ctx.createLinearGradient(0, 0, 0, ctx.canvas.height);
+        gradient.addColorStop(0, color + '66'); // 40% Deckkraft oben
+        gradient.addColorStop(1, color + '00'); // 0% Deckkraft unten
+
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: years,
+                datasets: [{
+                    label: label,
+                    data: data,
+                    borderColor: color,
+                    backgroundColor: gradient, 
+                    borderWidth: 2,
+                    fill: true, 
+                    tension: 0.1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                },
+                scales: {
+                    y: { beginAtZero: true, grid: { display: false } },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+    };
+
+    // Diagramme erstellen
+    createChart(document.getElementById('ndviChart').getContext('2d'), 'NDVI-Werte', ndvi_changes, '#8c3e16');
+    createChart(document.getElementById('ndwiChart').getContext('2d'),'NDWI-Werte', ndwi_changes,'#007bff');    
+    createChart(document.getElementById('ndbiChart').getContext('2d'),'NDWI-Werte', ndbi_changes,'#6c757d'); 
+    
+    const landCoverData = {
+        labels: years,
+        datasets: [
+            {
+                label: 'Grünflächen',
+                data: green_changes,
+                backgroundColor: '#28a745', // Grün
+            },
+            {
+                label: 'Wasserflächen',
+                data: water_changes,
+                backgroundColor: '#007bff', // Blau
+            },
+            {
+                label: 'Versiegelung',
+                data: sealed_changes,
+                backgroundColor: '#6c757d', // Grau
+            },
+            {
+                label: 'Nicht eindeutig',
+                data: unknown_changes,
+                backgroundColor: '#ffc107', // Gelb
+            }
+        ]
+    };
+
+    const landCoverCtx = document.getElementById('landCoverChart').getContext('2d');
+    new Chart(landCoverCtx, {
+        type: 'bar',
+        data: landCoverData,
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'top',
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(tooltipItem) {
+                            return tooltipItem.raw.toFixed(1) + "%";  
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    stacked: true,
+                    grid: { display: false },
+                },
+                y: {
+                    stacked: true,
+                    grid: { display: false },
+                    beginAtZero: true,
+                    //max: 100, 
+                    ticks: {
+                        callback: function(value) {
+                            return value + "%";  
+                        }
+                    }
+                },
+            },
+        },
+    });
+
+
+</script>
+
+<script>
+    //Skript zur Weiterleitugn an Standort
+    function redirectToCity(event) {
+        event.preventDefault(); // Standardformularabsendung verhindern
+        const city = document.getElementById('cityInput').value.trim();
+        if (city) {
+            const capitalizedCity = city.charAt(0).toUpperCase() + city.slice(1).toLowerCase();
+            window.location.href = `/standortanalyse/${capitalizedCity}`;
+        }
+    }
+</script>
+
+<script>
+    // Auto-Complete Funktion, um Vorschläge basierend auf der Eingabe im Suchfeld anzuzeigen
+function fetchSuggestions() {
+    const query = document.getElementById('cityInput').value.toLowerCase();
+    const suggestionsList = document.getElementById('suggestions');
+
+    if (query.length === 0) {
+        suggestionsList.innerHTML = "";
+        suggestionsList.style.display = "none";
+        return;
+    }
+
+    fetch('/api/location/suggest?query=' + query)
+        .then(response => response.json())
+        .then(data => {
+            suggestionsList.innerHTML = "";  // Alte Vorschläge entfernen
+            suggestionsList.style.display = "block";  // Vorschläge anzeigen
+
+            data.forEach(item => {
+                const li = document.createElement('li');
+                li.textContent = `${item.city}, ${item.country}`;
+                li.style.cursor = 'pointer';
+                li.style.padding = '5px';
+                li.onclick = () => {
+                    // Weiterleitung zur Seite der Standortanalyse für den Vorschlag
+                    window.location.href = `/standortanalyse/${item.city}`;
+                    suggestionsList.style.display = "none";  // Vorschläge ausblenden
+                };
+                suggestionsList.appendChild(li);
+            });
+        })
+        .catch(error => {
+            console.error("Fehler beim Laden der Vorschläge:", error);
+        });
+}
+
+// Event Listener für das Suchfeld, um Vorschläge bei der Eingabe zu erhalten
+document.getElementById('cityInput').addEventListener('input', fetchSuggestions);
+
+</script>
+
+<script>
+    //Skript für Exporte
+    function getCityFromURL() {
+        const urlParts = window.location.pathname.split('/');
+        return urlParts[urlParts.length - 1]; 
+    }
+
+    
+    function displayExportButtons() {
+        const city = getCityFromURL(); 
+        if (city) {
+            document.getElementById('newButtons').style.display = 'block';
+            
+            //  "PDF"-Button
+            document.getElementById('pdfButton').addEventListener('click', function() {
+                window.location.href = `/export?type=location&what=${city}&format=pdf`;
+            });
+
+            // "JSON"-Button
+            document.getElementById('jsonButton').addEventListener('click', function() {
+                window.location.href = `/export?type=location&what=${city}&format=json`;
+            });
+        } else {
+            document.getElementById('newButtons').style.display = 'none'; 
+            alert("Kein Standort in der URL gefunden.");
+        }
+    }
+
+    window.onload = function() {
+        displayExportButtons(); 
+    }
+</script>
+<script>
+    // Event Listener für den "Karte vergrößern" Button
+    document.getElementById('openMapButton').addEventListener('click', function() {
+        // Öffne die Karte in einem neuen Tab
+        const mapWindow = window.open('', '_blank');
+        mapWindow.document.write('<html><head><title>Detailierte Karte</title></head><body>{{ map_html|tojson }}</body></html>');
+
+    });
+</script>
+
+
+{% endblock %}

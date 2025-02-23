@@ -1,0 +1,62 @@
+[
+    {
+        "Unternehmen": "Porsche Automobil Holding SE",
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart",
+        "Art des Standortes": "Hauptsitz"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Deutschland",
+        "Stadt": "Stuttgart-Zuffenhausen",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Deutschland",
+        "Stadt": "Leipzig",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Deutschland",
+        "Stadt": "Weissach",
+        "Art des Standortes": "Entwicklungszentrum"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Deutschland",
+        "Stadt": "Ludwigsburg",
+        "Art des Standortes": "Vertrieb, Marketing und Kundenservice"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Deutschland",
+        "Stadt": "Bietigheim-Bissingen",
+        "Art des Standortes": "Finanzdienstleistungen"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Deutschland",
+        "Stadt": "Sachsenheim",
+        "Art des Standortes": "Zentrallager"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Deutschland",
+        "Stadt": "Osnabrück",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Slowakei",
+        "Stadt": "Bratislava",
+        "Art des Standortes": "Produktion"
+    },
+    {
+        "Unternehmen": "Porsche AG",
+        "Land": "Malaysia",
+        "Stadt": "Kedah",
+        "Art des Standortes": "Produktion"
+    }
+]

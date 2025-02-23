@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block title %}NDVI Dashboard{% endblock %}
+
+{% block content %}
+
+<div id="page">  
+    <div class="tab-pane fade show active">   
+    <!-- Übersichtskarte -->
+    <div class="map-container" style="width: 100%; height: 500px;margin-top: 10px; display: flex; gap: 10px; align-items: flex-end;">
+        {{ map_big | safe }}
+    </div>    
+    
+    <!-- Tabelle mit Unternehmen-->
+    <div class="table-responsive">
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th onclick="sortTable(0)">Unternehmen</th>
+                    <th onclick="sortTable(1)">Durchschnittlicher NDVI (2024)</th>
+                    <th onclick="sortTable(2)">NDVI-Entwicklung (2018-2024)</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for company in companies %}
+                    <tr>
+                        <td>
+                            <a href="/unternehmen/{{ company.name | replace(' ', '_') }}" style="text-decoration: none; color: inherit;">
+                                {{ company.name }}
+                            </a>
+                        </td>
+                        <td>{{ company.average_ndvi }}</td>
+                        <td><span style="
+                            {% if company.ndvi_development > 0.01 %}
+                                color: green;
+                            {% elif company.ndvi_development < -0.01 %}
+                                color: red;
+                            {% endif %}
+                        ">
+                            {{ company.ndvi_development }}
+                        </span>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+</div>  
+
+    <script>
+        // Funktion zum Sortieren der Tabelle
+        function sortTable(columnIndex) {
+            const table = document.querySelector("table");
+            const rows = Array.from(table.rows).slice(1);
+            const isAscending = table.rows[0].cells[columnIndex].getAttribute("data-order") === "asc";
+            
+            rows.sort((rowA, rowB) => {
+                const cellA = rowA.cells[columnIndex].innerText.trim();
+                const cellB = rowB.cells[columnIndex].innerText.trim();
+
+                if (!isNaN(cellA) && !isNaN(cellB)) {
+                    return isAscending ? cellA - cellB : cellB - cellA;
+                } else {
+                    return isAscending ? cellA.localeCompare(cellB) : cellB.localeCompare(cellA);
+                }
+            });
+
+            rows.forEach(row => table.tBodies[0].appendChild(row));
+
+            // Sortierrichtung umschalten
+            table.rows[0].cells[columnIndex].setAttribute("data-order", isAscending ? "desc" : "asc");
+        }
+    </script>
+
+    <style>
+        th {
+            cursor: pointer;
+        }
+        th:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+{% endblock %}
